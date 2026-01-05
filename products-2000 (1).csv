@@ -1,0 +1,2001 @@
+product_id,product_title,brand,category,subtype,price,sku_asin,seller_external_id
+P0000001,Canon S2 Router,Canon,Electronics,Router,198.94,BCLJCQPKZF,S0000001
+P0000002,Huawei M3 64GB Laptop,Huawei,Electronics,Laptop,457.33,BWPTDYSFS9,S0000002
+P0000003,Redmi S1 Smartwatch,Redmi,Electronics,Smartwatch,481.90,BHQ9O44GPK,S0000003
+P0000004,LG X2 Smartwatch,LG,Electronics,Smartwatch,551.94,BX6XS102QT,S0000004
+P0000005,Lenovo Prime 128GB Laptop,Lenovo,Electronics,Laptop,3886.19,BMWQJMP158,S0000005
+P0000006,JBL Ultra 512GB Laptop,JBL,Electronics,Laptop,2331.70,B5TIN7NB2F,S0000006
+P0000007,Dell Neo Headphones,Dell,Electronics,Headphones,63.19,BW9N8Z4ATY,S0000007
+P0000008,Redmi Pro Speaker,Redmi,Electronics,Speaker,663.96,BTTTG71D6T,S0000008
+P0000009,Boult X1 512GB Laptop,Boult,Electronics,Laptop,996.63,BT2ZK0KBDZ,S0000009
+P0000010,Xiaomi S2 128GB Tablet,Xiaomi,Electronics,Tablet,213.45,B6CBQ3NDOR,S0000010
+P0000011,Canon S1 Router,Canon,Electronics,Router,386.79,BERY6P1I8R,S0000001
+P0000012,Netgear X2 Router,Netgear,Electronics,Router,273.52,B6PNMP43VM,S0000002
+P0000013,Vivo Pro Smartwatch,Vivo,Electronics,Smartwatch,650.85,B72SNYC1BS,S0000003
+P0000014,JBL Lite 128GB Smartphone,JBL,Electronics,Smartphone,334.31,B5RWKYK6ZM,S0000004
+P0000015,Samsung S1 Router,Samsung,Electronics,Router,162.42,B8VR7I7D3M,S0000005
+P0000016,Samsung Edge Speaker,Samsung,Electronics,Speaker,168.80,BDUB6FQZKC,S0000006
+P0000017,Netgear Edge 32GB Laptop,Netgear,Electronics,Laptop,3956.02,BDWA9BEP44,S0000007
+P0000018,GoPro Lite Earbuds,GoPro,Electronics,Earbuds,21.54,BJAACUODO7,S0000008
+P0000019,Sennheiser Pro 512GB Smartphone,Sennheiser,Electronics,Smartphone,1430.48,BPVX9LOR3E,S0000009
+P0000020,boAt Go TV,boAt,Electronics,TV,3777.84,BG2S3056A4,S0000010
+P0000021,Nokia Air Camera,Nokia,Electronics,Camera,4324.60,BSU65ZN2EI,S0000001
+P0000022,Netgear X1 Monitor,Netgear,Electronics,Monitor,322.62,BYCVBHIWX7,S0000002
+P0000023,Canon X3 256GB Tablet,Canon,Electronics,Tablet,805.93,BMLS5KYX9K,S0000003
+P0000024,MSI S2 128GB Laptop,MSI,Electronics,Laptop,1448.47,BLYGR3YOA7,S0000004
+P0000025,OPPO M3 Earbuds,OPPO,Electronics,Earbuds,237.97,BVEXV2O4NV,S0000005
+P0000026,Garmin Prime Smartwatch,Garmin,Electronics,Smartwatch,394.89,BTLL9R6WL2,S0000006
+P0000027,LG X1 Router,LG,Electronics,Router,382.50,BA1DOJCGTO,S0000007
+P0000028,Nikon Prime 64GB Laptop,Nikon,Electronics,Laptop,3678.20,B57AZT8XXN,S0000008
+P0000029,Nikon Neo Router,Nikon,Electronics,Router,207.86,BDX17QBSC8,S0000009
+P0000030,OnePlus Ultra 64GB Tablet,OnePlus,Electronics,Tablet,525.78,BXVEALK0TM,S0000010
+P0000031,Nikon Z3 Camera,Nikon,Electronics,Camera,2368.43,B3W65P1AES,S0000001
+P0000032,Vivo X2 Headphones,Vivo,Electronics,Headphones,308.65,BX5UL1V8H1,S0000002
+P0000033,Sony M3 Smartwatch,Sony,Electronics,Smartwatch,1005.37,BOIGRI1LUJ,S0000003
+P0000034,Apple Neo TV,Apple,Electronics,TV,4242.00,BNN2ASYQ2T,S0000004
+P0000035,TP-Link Pro Monitor,TP-Link,Electronics,Monitor,1562.10,B05PF7966F,S0000005
+P0000036,D-Link Lite Camera,D-Link,Electronics,Camera,1582.95,BD9A7Z28C7,S0000006
+P0000037,ASUS Bolt Router,ASUS,Electronics,Router,306.13,BJT4ULG08Q,S0000007
+P0000038,Samsung Go Earbuds,Samsung,Electronics,Earbuds,30.95,BRE52W52SS,S0000008
+P0000039,Huawei S1 128GB Tablet,Huawei,Electronics,Tablet,221.83,BBGC8TQWWB,S0000009
+P0000040,OnePlus M3 Earbuds,OnePlus,Electronics,Earbuds,291.94,BDGA1PW2V5,S0000010
+P0000041,Netgear X3 TV,Netgear,Electronics,TV,3563.87,BFDWLOXQ2Z,S0000001
+P0000042,D-Link Pro Earbuds,D-Link,Electronics,Earbuds,237.01,B109FHNLEH,S0000002
+P0000043,Realme Edge Headphones,Realme,Electronics,Headphones,531.00,BIT9LJF3A2,S0000003
+P0000044,Nokia Edge Camera,Nokia,Electronics,Camera,303.51,BETFFDUTXY,S0000004
+P0000045,GoPro Lite Headphones,GoPro,Electronics,Headphones,288.52,B6SQVEMWNH,S0000005
+P0000046,JBL Pro 256GB Smartphone,JBL,Electronics,Smartphone,1057.21,BWIJ3JBYM6,S0000006
+P0000047,boAt Neo 32GB Laptop,boAt,Electronics,Laptop,1711.16,BTVXOJ37EM,S0000007
+P0000048,Apple S1 512GB Smartphone,Apple,Electronics,Smartphone,1314.04,BG5A0XC3N8,S0000008
+P0000049,D-Link Pro 32GB Laptop,D-Link,Electronics,Laptop,2050.92,BWGXQPH41A,S0000009
+P0000050,MSI Z3 Smartwatch,MSI,Electronics,Smartwatch,967.58,BUR1O4MYMX,S0000010
+P0000051,Netgear Go Camera,Netgear,Electronics,Camera,2962.28,BJ7KERN81E,S0000001
+P0000052,Audio-Technica M3 256GB Tablet,Audio-Technica,Electronics,Tablet,193.24,B1I1CL7AEX,S0000002
+P0000053,Samsung Neo 256GB Laptop,Samsung,Electronics,Laptop,1135.01,BSELFCFHDC,S0000003
+P0000054,JBL Lite 256GB Tablet,JBL,Electronics,Tablet,724.14,BO7DAOZ9C6,S0000004
+P0000055,Motorola X2 Camera,Motorola,Electronics,Camera,2494.28,B5YFWRO8H5,S0000005
+P0000056,ASUS Prime Monitor,ASUS,Electronics,Monitor,353.85,BPNVL65X6G,S0000006
+P0000057,GoPro X3 Smartwatch,GoPro,Electronics,Smartwatch,57.45,B51652LQPL,S0000007
+P0000058,Sony Go 256GB Laptop,Sony,Electronics,Laptop,3855.30,BAELZCB5ZE,S0000008
+P0000059,GoPro Go Router,GoPro,Electronics,Router,92.23,B2R2COYFH0,S0000009
+P0000060,Nikon X2 Speaker,Nikon,Electronics,Speaker,799.89,BJ4HKF83JH,S0000010
+P0000061,Vivo X1 Speaker,Vivo,Electronics,Speaker,41.08,BU47U5HYEI,S0000001
+P0000062,Garmin M3 256GB Tablet,Garmin,Electronics,Tablet,1064.90,BIIC9NI26V,S0000002
+P0000063,Sony Lite Earbuds,Sony,Electronics,Earbuds,76.74,BXP305QZ6X,S0000003
+P0000064,Sennheiser Neo Router,Sennheiser,Electronics,Router,212.85,B1GBCQEHE4,S0000004
+P0000065,HP S3 Monitor,HP,Electronics,Monitor,1547.72,BIF9S3R1SR,S0000005
+P0000066,Boult S3 Speaker,Boult,Electronics,Speaker,558.53,BQ0R4DQQJN,S0000006
+P0000067,Boult Prime Monitor,Boult,Electronics,Monitor,1690.19,BV3MDI4YJB,S0000007
+P0000068,Amazfit X2 Monitor,Amazfit,Electronics,Monitor,1801.61,BMFNJMOG9K,S0000008
+P0000069,Sennheiser Edge Speaker,Sennheiser,Electronics,Speaker,280.02,BT08I7LQJR,S0000009
+P0000070,Huawei Prime 256GB Tablet,Huawei,Electronics,Tablet,1397.46,BEFQKGYT7P,S0000010
+P0000071,LG X2 Monitor,LG,Electronics,Monitor,1778.69,BNX21AFXF2,S0000001
+P0000072,MSI Lite Speaker,MSI,Electronics,Speaker,120.63,BO9RL8OG7W,S0000002
+P0000073,Canon Bolt Headphones,Canon,Electronics,Headphones,222.60,BDO6QK5UCF,S0000003
+P0000074,Realme Ultra Camera,Realme,Electronics,Camera,1423.01,B56IL6GGSC,S0000004
+P0000075,LG Go Earbuds,LG,Electronics,Earbuds,198.52,B20KDOESLT,S0000005
+P0000076,Lenovo Go Router,Lenovo,Electronics,Router,126.37,BBQZ6PTD6H,S0000006
+P0000077,Lenovo Bolt 64GB Laptop,Lenovo,Electronics,Laptop,1982.99,B39DABZWY5,S0000007
+P0000078,D-Link X1 256GB Tablet,D-Link,Electronics,Tablet,1234.99,BQ8UZO6PZG,S0000008
+P0000079,boAt Go Smartwatch,boAt,Electronics,Smartwatch,826.35,B980LTQ3CJ,S0000009
+P0000080,Sennheiser S1 Earbuds,Sennheiser,Electronics,Earbuds,388.57,BZ2A6ZEKCW,S0000010
+P0000081,Dell Lite Headphones,Dell,Electronics,Headphones,401.57,BAH97IW92F,S0000001
+P0000082,Boult X1 Smartwatch,Boult,Electronics,Smartwatch,1085.14,BWQINDIBB1,S0000002
+P0000083,D-Link X2 64GB Laptop,D-Link,Electronics,Laptop,1050.67,B1XEZCAM2Q,S0000003
+P0000084,Nikon X2 512GB Tablet,Nikon,Electronics,Tablet,1076.26,BB2F2QHI5L,S0000004
+P0000085,OnePlus Prime Earbuds,OnePlus,Electronics,Earbuds,274.78,B41R6F0LSA,S0000005
+P0000086,boAt S3 Camera,boAt,Electronics,Camera,1791.42,BLD4Y0CPPK,S0000006
+P0000087,Canon X3 Smartwatch,Canon,Electronics,Smartwatch,601.45,BFSGM7UQMK,S0000007
+P0000088,Samsung S1 512GB Smartphone,Samsung,Electronics,Smartphone,1552.86,BAJ7K34V7R,S0000008
+P0000089,Nikon Prime Speaker,Nikon,Electronics,Speaker,460.62,B8W6K5L717,S0000009
+P0000090,Canon S1 Smartwatch,Canon,Electronics,Smartwatch,516.30,BDKC5M222X,S0000010
+P0000091,Amazfit S2 Earbuds,Amazfit,Electronics,Earbuds,285.72,BYCL1EBML4,S0000001
+P0000092,Vivo M3 Router,Vivo,Electronics,Router,120.39,BCJZI4Z195,S0000002
+P0000093,TP-Link Z3 64GB Tablet,TP-Link,Electronics,Tablet,904.74,BBE8IN1DHO,S0000003
+P0000094,Apple Pro 32GB Tablet,Apple,Electronics,Tablet,332.50,B7FNW1CVK0,S0000004
+P0000095,HP M3 128GB Laptop,HP,Electronics,Laptop,2082.43,BT89SX6VIJ,S0000005
+P0000096,boAt X3 TV,boAt,Electronics,TV,620.34,BDNJYOX2Z3,S0000006
+P0000097,Realme S2 Camera,Realme,Electronics,Camera,3822.12,BU69AWBJS9,S0000007
+P0000098,Audio-Technica X3 Speaker,Audio-Technica,Electronics,Speaker,775.60,B24O7F5EWR,S0000008
+P0000099,Netgear Bolt Headphones,Netgear,Electronics,Headphones,558.23,BRRGRKRAH7,S0000009
+P0000100,Amazfit Neo Router,Amazfit,Electronics,Router,205.66,BYCYKDON6V,S0000010
+P0000101,Apple Ultra Headphones,Apple,Electronics,Headphones,160.37,B5O51A5TH8,S0000001
+P0000102,boAt M3 Earbuds,boAt,Electronics,Earbuds,116.62,BVL892JPPG,S0000002
+P0000103,ASUS Air 64GB Laptop,ASUS,Electronics,Laptop,3429.00,BEFTCWV84M,S0000003
+P0000104,Dell S3 Smartwatch,Dell,Electronics,Smartwatch,812.86,BOD8N9ZJIF,S0000004
+P0000105,Huawei Ultra Earbuds,Huawei,Electronics,Earbuds,174.37,B8T515553X,S0000005
+P0000106,Amazfit Air Monitor,Amazfit,Electronics,Monitor,1422.48,B3MNUVI587,S0000006
+P0000107,Vivo Neo 256GB Laptop,Vivo,Electronics,Laptop,1364.88,BGZKDUT9RU,S0000007
+P0000108,Nokia Ultra Smartwatch,Nokia,Electronics,Smartwatch,915.21,BPWDWOKR1X,S0000008
+P0000109,OnePlus X1 32GB Laptop,OnePlus,Electronics,Laptop,2905.97,B25254O1BP,S0000009
+P0000110,Redmi Ultra Smartwatch,Redmi,Electronics,Smartwatch,901.82,BZ324K2BCP,S0000010
+P0000111,Motorola Prime Headphones,Motorola,Electronics,Headphones,401.25,BML5LRGVE8,S0000001
+P0000112,Audio-Technica Bolt 512GB Laptop,Audio-Technica,Electronics,Laptop,2304.71,BPORHGMEQB,S0000002
+P0000113,Audio-Technica Air Speaker,Audio-Technica,Electronics,Speaker,335.31,BX775BCZBY,S0000003
+P0000114,Sony Edge 64GB Smartphone,Sony,Electronics,Smartphone,1725.85,BW1AW625E4,S0000004
+P0000115,GoPro X1 Earbuds,GoPro,Electronics,Earbuds,131.71,BJ6U9LY0RM,S0000005
+P0000116,Lenovo X2 32GB Tablet,Lenovo,Electronics,Tablet,874.63,B8QQ9HWH0Z,S0000006
+P0000117,Redmi Z3 128GB Tablet,Redmi,Electronics,Tablet,499.04,B3KV6X35P7,S0000007
+P0000118,Apple Lite Smartwatch,Apple,Electronics,Smartwatch,255.18,B1XNQ75YL0,S0000008
+P0000119,Garmin S1 Router,Garmin,Electronics,Router,210.38,B96JAO8DHH,S0000009
+P0000120,Netgear S1 Camera,Netgear,Electronics,Camera,548.02,BNSLD0TMC4,S0000010
+P0000121,ASUS Edge 32GB Laptop,ASUS,Electronics,Laptop,2331.99,B3DD7J77PX,S0000001
+P0000122,HP M3 Speaker,HP,Electronics,Speaker,445.92,BX616WL5W9,S0000002
+P0000123,Audio-Technica M3 Headphones,Audio-Technica,Electronics,Headphones,559.08,B81WV59TAJ,S0000003
+P0000124,JBL Go Camera,JBL,Electronics,Camera,1410.07,B4NXRTXB5Q,S0000004
+P0000125,Sony S3 Smartwatch,Sony,Electronics,Smartwatch,1100.30,BN49Z0B4V2,S0000005
+P0000126,Redmi S2 Camera,Redmi,Electronics,Camera,4185.22,BBVJ7PDM87,S0000006
+P0000127,Lenovo Ultra 32GB Laptop,Lenovo,Electronics,Laptop,3448.57,B2HV425DT8,S0000007
+P0000128,Motorola X3 Smartwatch,Motorola,Electronics,Smartwatch,621.41,BFA4TR1T2D,S0000008
+P0000129,Garmin X1 TV,Garmin,Electronics,TV,3209.88,BOTW4TG76V,S0000009
+P0000130,Lenovo M3 Camera,Lenovo,Electronics,Camera,4905.72,BSD12WV4HH,S0000010
+P0000131,Motorola Ultra Speaker,Motorola,Electronics,Speaker,734.30,BIH5H3ZU24,S0000001
+P0000132,TP-Link Prime Camera,TP-Link,Electronics,Camera,378.60,BDWFWI0EC3,S0000002
+P0000133,Vivo Prime Camera,Vivo,Electronics,Camera,346.51,B1D7S46ZIX,S0000003
+P0000134,boAt Prime Router,boAt,Electronics,Router,212.84,BBQLZB1RDJ,S0000004
+P0000135,Canon Bolt Earbuds,Canon,Electronics,Earbuds,324.03,B98EJZ8QB3,S0000005
+P0000136,Sennheiser Ultra Speaker,Sennheiser,Electronics,Speaker,596.16,BTO57P0NYP,S0000006
+P0000137,Nokia X1 64GB Smartphone,Nokia,Electronics,Smartphone,1419.66,BMPM3RXEOK,S0000007
+P0000138,Realme Ultra 256GB Smartphone,Realme,Electronics,Smartphone,495.58,B6S8XJNJJA,S0000008
+P0000139,Audio-Technica Ultra TV,Audio-Technica,Electronics,TV,1771.88,BJH0PENZCG,S0000009
+P0000140,Amazfit Edge Speaker,Amazfit,Electronics,Speaker,531.43,BRVQ8X76ZK,S0000010
+P0000141,MSI S1 32GB Smartphone,MSI,Electronics,Smartphone,369.95,BY8CGU9RS7,S0000001
+P0000142,Dell S1 Headphones,Dell,Electronics,Headphones,359.14,BTGBXTK87N,S0000002
+P0000143,Xiaomi Pro Monitor,Xiaomi,Electronics,Monitor,384.30,BK30U2554B,S0000003
+P0000144,boAt Pro Earbuds,boAt,Electronics,Earbuds,371.74,B0PKH1RAH1,S0000004
+P0000145,Xiaomi M3 Monitor,Xiaomi,Electronics,Monitor,747.43,BM548K1GV9,S0000005
+P0000146,Canon Pro Monitor,Canon,Electronics,Monitor,194.41,B4FXLRRR1Q,S0000006
+P0000147,Lenovo X1 Smartwatch,Lenovo,Electronics,Smartwatch,146.19,B8GGSM8IXA,S0000007
+P0000148,OnePlus Go Router,OnePlus,Electronics,Router,345.92,B98RKQQS9N,S0000008
+P0000149,MSI Edge 128GB Smartphone,MSI,Electronics,Smartphone,292.38,BRQOHKE971,S0000009
+P0000150,ASUS Lite 128GB Smartphone,ASUS,Electronics,Smartphone,1762.72,BL6ZLPV6O5,S0000010
+P0000151,JBL Neo Earbuds,JBL,Electronics,Earbuds,67.60,B6N3Q5TMRE,S0000001
+P0000152,Redmi Edge Smartwatch,Redmi,Electronics,Smartwatch,406.52,BC2AX0DJJZ,S0000002
+P0000153,LG S1 Headphones,LG,Electronics,Headphones,384.97,B3BWE6R7ZA,S0000003
+P0000154,Sony Prime 64GB Smartphone,Sony,Electronics,Smartphone,1139.34,BQER197C9S,S0000004
+P0000155,Huawei Air Router,Huawei,Electronics,Router,308.13,B65IIU1JQP,S0000005
+P0000156,Lenovo Go Smartwatch,Lenovo,Electronics,Smartwatch,179.96,B2BGKM5YLA,S0000006
+P0000157,Vivo X1 64GB Smartphone,Vivo,Electronics,Smartphone,1616.22,B65Z0F65JC,S0000007
+P0000158,LG Lite Router,LG,Electronics,Router,168.75,B40GK7L1HS,S0000008
+P0000159,Motorola Air Earbuds,Motorola,Electronics,Earbuds,100.94,BJVD5FZPNB,S0000009
+P0000160,GoPro Prime Camera,GoPro,Electronics,Camera,4845.28,B3DE9CISSO,S0000010
+P0000161,HP M3 TV,HP,Electronics,TV,4271.38,B3WAWIA0OP,S0000001
+P0000162,HP Z3 128GB Laptop,HP,Electronics,Laptop,1152.23,BBY2GRA2K3,S0000002
+P0000163,Motorola Go Earbuds,Motorola,Electronics,Earbuds,330.62,BCR32YRA7A,S0000003
+P0000164,Audio-Technica S1 Monitor,Audio-Technica,Electronics,Monitor,684.82,B3O1WI910J,S0000004
+P0000165,Vivo Go Smartwatch,Vivo,Electronics,Smartwatch,288.35,B4JFN1QJX9,S0000005
+P0000166,MSI X3 Headphones,MSI,Electronics,Headphones,121.42,BKWF8ZVDKR,S0000006
+P0000167,JBL S2 Router,JBL,Electronics,Router,189.35,B3SQ5R0CKR,S0000007
+P0000168,ASUS Go 32GB Laptop,ASUS,Electronics,Laptop,3478.30,BMI1HO01MH,S0000008
+P0000169,Motorola Z3 Monitor,Motorola,Electronics,Monitor,166.25,BZ1BXLT5TT,S0000009
+P0000170,ASUS X3 Headphones,ASUS,Electronics,Headphones,604.38,BGXEQ28MSN,S0000010
+P0000171,Netgear Air TV,Netgear,Electronics,TV,2714.57,B06BVU0ZYT,S0000001
+P0000172,Lenovo Pro 256GB Tablet,Lenovo,Electronics,Tablet,618.82,BQC46WASZS,S0000002
+P0000173,Audio-Technica X2 Speaker,Audio-Technica,Electronics,Speaker,329.20,BGEMH6F1YF,S0000003
+P0000174,Netgear Air 64GB Tablet,Netgear,Electronics,Tablet,1445.08,B95PG93MB6,S0000004
+P0000175,Amazfit Neo Camera,Amazfit,Electronics,Camera,4421.34,B7LBIAF4LG,S0000005
+P0000176,Marshall S3 128GB Tablet,Marshall,Electronics,Tablet,998.71,BODERPB00C,S0000006
+P0000177,D-Link Air Headphones,D-Link,Electronics,Headphones,464.40,BPU5GN4POV,S0000007
+P0000178,boAt Neo Smartwatch,boAt,Electronics,Smartwatch,973.60,BN49EKOY9G,S0000008
+P0000179,Nikon Prime Router,Nikon,Electronics,Router,311.00,BL93NXOHFC,S0000009
+P0000180,GoPro M3 TV,GoPro,Electronics,TV,3303.65,BP4G2WFWZB,S0000010
+P0000181,Marshall Air Headphones,Marshall,Electronics,Headphones,350.35,BDYPDGQM6L,S0000001
+P0000182,Netgear Neo Smartwatch,Netgear,Electronics,Smartwatch,785.37,BP1MRNIS3T,S0000002
+P0000183,Canon Neo Speaker,Canon,Electronics,Speaker,81.41,B98UQOWYDA,S0000003
+P0000184,Samsung S1 Earbuds,Samsung,Electronics,Earbuds,183.56,B1JFPAQL5A,S0000004
+P0000185,Realme Go Earbuds,Realme,Electronics,Earbuds,272.08,BKXYCFR3PN,S0000005
+P0000186,Xiaomi X1 Speaker,Xiaomi,Electronics,Speaker,683.48,BTBLPBKXA1,S0000006
+P0000187,Sony Ultra Camera,Sony,Electronics,Camera,3639.04,BOZL4GHZY1,S0000007
+P0000188,Redmi Lite 512GB Tablet,Redmi,Electronics,Tablet,381.05,B6F0G9PBZ8,S0000008
+P0000189,Nokia S2 32GB Laptop,Nokia,Electronics,Laptop,712.89,B0785LLT4N,S0000009
+P0000190,Nokia X1 Router,Nokia,Electronics,Router,169.95,BY6LK4J4GO,S0000010
+P0000191,Samsung Lite 64GB Tablet,Samsung,Electronics,Tablet,462.26,BPQO47R76P,S0000001
+P0000192,Nokia S3 32GB Laptop,Nokia,Electronics,Laptop,1634.64,B3311PJREK,S0000002
+P0000193,Nikon Go TV,Nikon,Electronics,TV,4412.75,BM8940RX1B,S0000003
+P0000194,Lenovo Go 512GB Laptop,Lenovo,Electronics,Laptop,432.14,B1ACEKWDQ9,S0000004
+P0000195,Boult M3 TV,Boult,Electronics,TV,2038.89,BDOFEX0FXA,S0000005
+P0000196,Dell Edge 32GB Laptop,Dell,Electronics,Laptop,2014.81,BR4I3MVE2I,S0000006
+P0000197,Vivo X2 Monitor,Vivo,Electronics,Monitor,588.03,B948T116Z3,S0000007
+P0000198,TP-Link Z3 Monitor,TP-Link,Electronics,Monitor,1446.65,BV8E9B94Y5,S0000008
+P0000199,Canon Z3 256GB Tablet,Canon,Electronics,Tablet,363.52,B32UNY5Z4Y,S0000009
+P0000200,OPPO Go 128GB Tablet,OPPO,Electronics,Tablet,643.70,BNI85O59MV,S0000010
+P0000201,Amazfit Z3 Camera,Amazfit,Electronics,Camera,3696.43,BSEPC66UQG,S0000001
+P0000202,LG Z3 Smartwatch,LG,Electronics,Smartwatch,607.58,BZNEX0RZSG,S0000002
+P0000203,HP Ultra Router,HP,Electronics,Router,364.12,BQ7A6JQKZO,S0000003
+P0000204,TP-Link Prime Monitor,TP-Link,Electronics,Monitor,1772.60,BJNWHU7VHN,S0000004
+P0000205,Sony S1 Monitor,Sony,Electronics,Monitor,1648.71,BSPIR8C5RH,S0000005
+P0000206,LG S2 Smartwatch,LG,Electronics,Smartwatch,236.27,BUI6YXH6E7,S0000006
+P0000207,Huawei X2 Router,Huawei,Electronics,Router,207.88,BYGUB26753,S0000007
+P0000208,JBL Air Monitor,JBL,Electronics,Monitor,134.60,BYUINZRQR9,S0000008
+P0000209,JBL Air Earbuds,JBL,Electronics,Earbuds,73.70,BBXVO52E5X,S0000009
+P0000210,Lenovo S3 Router,Lenovo,Electronics,Router,172.12,BJ84R4RCE6,S0000010
+P0000211,Redmi X3 Router,Redmi,Electronics,Router,57.84,BMOISZDIK6,S0000001
+P0000212,Marshall S2 Router,Marshall,Electronics,Router,167.68,BWBOHE1AOF,S0000002
+P0000213,Lenovo S2 128GB Tablet,Lenovo,Electronics,Tablet,215.47,BRETJV1XP1,S0000003
+P0000214,Boult Prime Smartwatch,Boult,Electronics,Smartwatch,52.12,BCAC0XKLKU,S0000004
+P0000215,MSI Air 512GB Laptop,MSI,Electronics,Laptop,3231.64,BZ0D3E4YPQ,S0000005
+P0000216,Nikon Neo Router,Nikon,Electronics,Router,266.77,BIXS6975UD,S0000006
+P0000217,ASUS M3 128GB Tablet,ASUS,Electronics,Tablet,280.74,B048SGU5VQ,S0000007
+P0000218,Redmi Air Camera,Redmi,Electronics,Camera,4170.54,B7BVYFEBVZ,S0000008
+P0000219,Netgear X2 Camera,Netgear,Electronics,Camera,974.50,BHWZ32WG0P,S0000009
+P0000220,Motorola X3 Monitor,Motorola,Electronics,Monitor,1588.90,BC3CN0F7KT,S0000010
+P0000221,Motorola Ultra Earbuds,Motorola,Electronics,Earbuds,383.63,BAUDUSRP8A,S0000001
+P0000222,Realme X2 Monitor,Realme,Electronics,Monitor,698.19,BBW44ZIFA6,S0000002
+P0000223,Boult Z3 Headphones,Boult,Electronics,Headphones,274.57,B09CQOJ36W,S0000003
+P0000224,Netgear Z3 256GB Laptop,Netgear,Electronics,Laptop,1019.86,B09RLMS9ES,S0000004
+P0000225,GoPro Neo Router,GoPro,Electronics,Router,236.49,BPMHC2Y1Z8,S0000005
+P0000226,Lenovo Prime Monitor,Lenovo,Electronics,Monitor,672.56,BWG3P9VO7G,S0000006
+P0000227,Sennheiser Bolt Smartwatch,Sennheiser,Electronics,Smartwatch,732.62,BR8YVJ3P0F,S0000007
+P0000228,HP Air Headphones,HP,Electronics,Headphones,228.73,BNHMLHOQKU,S0000008
+P0000229,Sennheiser S3 Router,Sennheiser,Electronics,Router,380.04,B6057TRZTQ,S0000009
+P0000230,D-Link Prime Headphones,D-Link,Electronics,Headphones,204.40,BJSSODNXTS,S0000010
+P0000231,Marshall Z3 Camera,Marshall,Electronics,Camera,1666.63,BTICBMXX3T,S0000001
+P0000232,Marshall X1 Earbuds,Marshall,Electronics,Earbuds,369.66,BUJAHO2Y06,S0000002
+P0000233,TP-Link Bolt TV,TP-Link,Electronics,TV,3554.42,B96M6HSPCQ,S0000003
+P0000234,LG X3 Speaker,LG,Electronics,Speaker,253.04,B18B2SBP2A,S0000004
+P0000235,HP Go Monitor,HP,Electronics,Monitor,795.00,B6KYPXXXWG,S0000005
+P0000236,Garmin Lite Headphones,Garmin,Electronics,Headphones,373.63,BF2ZIEQ9Q4,S0000006
+P0000237,D-Link S1 Camera,D-Link,Electronics,Camera,440.13,BPJYS4J1BY,S0000007
+P0000238,Samsung Pro 128GB Smartphone,Samsung,Electronics,Smartphone,1559.87,BUWJ0AI01X,S0000008
+P0000239,TP-Link S1 Smartwatch,TP-Link,Electronics,Smartwatch,470.88,BDJ7OBYGOA,S0000009
+P0000240,OnePlus S2 Earbuds,OnePlus,Electronics,Earbuds,114.97,BPEM17WMWX,S0000010
+P0000241,Netgear Bolt Smartwatch,Netgear,Electronics,Smartwatch,814.51,B7ITGEXBN8,S0000001
+P0000242,GoPro Z3 Headphones,GoPro,Electronics,Headphones,660.64,BM2HTA6K4A,S0000002
+P0000243,Netgear Prime Smartwatch,Netgear,Electronics,Smartwatch,757.56,B0VAFVZP9C,S0000003
+P0000244,LG Z3 512GB Smartphone,LG,Electronics,Smartphone,1367.67,BG6NODIJE6,S0000004
+P0000245,ASUS X3 Earbuds,ASUS,Electronics,Earbuds,250.59,B9EPDXT6IX,S0000005
+P0000246,Lenovo X1 Monitor,Lenovo,Electronics,Monitor,934.91,B03IA5D7DD,S0000006
+P0000247,Redmi Prime Earbuds,Redmi,Electronics,Earbuds,184.17,B5JKZ2XHLT,S0000007
+P0000248,Xiaomi Air TV,Xiaomi,Electronics,TV,1200.14,BL2Q5S2LYH,S0000008
+P0000249,Nikon Z3 32GB Tablet,Nikon,Electronics,Tablet,640.38,BAY5X9MATI,S0000009
+P0000250,GoPro Air 256GB Tablet,GoPro,Electronics,Tablet,892.14,BXPNOX04GL,S0000010
+P0000251,JBL Prime Earbuds,JBL,Electronics,Earbuds,123.79,BYWKHBKKS1,S0000001
+P0000252,Realme Edge Smartwatch,Realme,Electronics,Smartwatch,1176.49,BYKJB5ZFQZ,S0000002
+P0000253,TP-Link Pro Smartwatch,TP-Link,Electronics,Smartwatch,885.03,B2OUPB6RMM,S0000003
+P0000254,Nokia X2 Earbuds,Nokia,Electronics,Earbuds,253.86,BQU34SAT7P,S0000004
+P0000255,TP-Link Z3 Earbuds,TP-Link,Electronics,Earbuds,310.21,BXJQ27WWWL,S0000005
+P0000256,Garmin Bolt Router,Garmin,Electronics,Router,324.01,B2QYJC7SNA,S0000006
+P0000257,D-Link S3 Earbuds,D-Link,Electronics,Earbuds,307.64,BDTAKTOBQJ,S0000007
+P0000258,GoPro Ultra Monitor,GoPro,Electronics,Monitor,556.14,BT2NHTRPJL,S0000008
+P0000259,Nikon Go TV,Nikon,Electronics,TV,2997.56,B4QFGJ9WPP,S0000009
+P0000260,boAt S3 Camera,boAt,Electronics,Camera,1294.59,BU2QQBR2BN,S0000010
+P0000261,Motorola Edge Headphones,Motorola,Electronics,Headphones,269.30,B9USL07QG6,S0000001
+P0000262,Realme Air Earbuds,Realme,Electronics,Earbuds,375.88,BKXFZUXPDC,S0000002
+P0000263,Xiaomi Edge Earbuds,Xiaomi,Electronics,Earbuds,74.41,BR62LUVUDJ,S0000003
+P0000264,TP-Link S3 Monitor,TP-Link,Electronics,Monitor,1701.97,B3EQB851BQ,S0000004
+P0000265,Amazfit Lite 128GB Tablet,Amazfit,Electronics,Tablet,1133.10,BN3340QBV3,S0000005
+P0000266,Huawei Z3 256GB Tablet,Huawei,Electronics,Tablet,1296.50,BVAAGGM6QM,S0000006
+P0000267,Amazfit X1 Earbuds,Amazfit,Electronics,Earbuds,95.53,BGFM86H551,S0000007
+P0000268,Nokia M3 Monitor,Nokia,Electronics,Monitor,1345.74,BIT35WODMZ,S0000008
+P0000269,Nokia Ultra 256GB Smartphone,Nokia,Electronics,Smartphone,1349.36,BFJA3RIHV1,S0000009
+P0000270,MSI S1 Router,MSI,Electronics,Router,310.52,BWVUSJBOJ2,S0000010
+P0000271,Xiaomi S1 512GB Laptop,Xiaomi,Electronics,Laptop,1963.90,BW2CWZ8YZU,S0000001
+P0000272,Boult Go 128GB Tablet,Boult,Electronics,Tablet,293.65,B2YMC232ZJ,S0000002
+P0000273,OPPO S3 64GB Laptop,OPPO,Electronics,Laptop,2362.25,BEZ2H8DW2G,S0000003
+P0000274,Dell X1 Headphones,Dell,Electronics,Headphones,92.66,BJRDUMCNQ7,S0000004
+P0000275,OnePlus X2 512GB Tablet,OnePlus,Electronics,Tablet,710.13,BAN3ZJEGTZ,S0000005
+P0000276,Realme Ultra TV,Realme,Electronics,TV,3873.79,BDXD0HY4GY,S0000006
+P0000277,Canon Ultra Earbuds,Canon,Electronics,Earbuds,219.66,BWUF33KYNE,S0000007
+P0000278,GoPro S2 256GB Smartphone,GoPro,Electronics,Smartphone,1103.70,B41F20YM1Z,S0000008
+P0000279,Apple Go Smartwatch,Apple,Electronics,Smartwatch,1030.45,BENB1M2MOV,S0000009
+P0000280,Xiaomi Pro Headphones,Xiaomi,Electronics,Headphones,408.15,BASENIKVYX,S0000010
+P0000281,Motorola Bolt Headphones,Motorola,Electronics,Headphones,241.63,BLT24MN3GO,S0000001
+P0000282,OPPO Go Earbuds,OPPO,Electronics,Earbuds,203.87,B1RGTDRG81,S0000002
+P0000283,Amazfit Neo Earbuds,Amazfit,Electronics,Earbuds,66.88,B7RPRRK5Y9,S0000003
+P0000284,Nokia X2 64GB Tablet,Nokia,Electronics,Tablet,1076.74,BJ98DZ50XR,S0000004
+P0000285,TP-Link Bolt Camera,TP-Link,Electronics,Camera,4323.98,BDUKGVQJAQ,S0000005
+P0000286,Marshall Edge Camera,Marshall,Electronics,Camera,2893.45,BTAJP1TL1P,S0000006
+P0000287,Garmin Lite Camera,Garmin,Electronics,Camera,4100.96,BMB4HS1Z31,S0000007
+P0000288,Sony Prime TV,Sony,Electronics,TV,2564.64,BTICPZA3DT,S0000008
+P0000289,Amazfit Ultra TV,Amazfit,Electronics,TV,4341.21,BILTD4HDI9,S0000009
+P0000290,Boult S2 Router,Boult,Electronics,Router,226.09,BL9PWD47WD,S0000010
+P0000291,Huawei X2 Router,Huawei,Electronics,Router,63.10,B9U1LIBSV7,S0000001
+P0000292,LG Edge Monitor,LG,Electronics,Monitor,501.46,BGWWQQE5DI,S0000002
+P0000293,Netgear Prime Router,Netgear,Electronics,Router,137.89,BXLYJDBPX7,S0000003
+P0000294,OPPO S1 TV,OPPO,Electronics,TV,4070.78,BJEDKPY23E,S0000004
+P0000295,LG Lite TV,LG,Electronics,TV,317.36,BWDZYVC5YT,S0000005
+P0000296,Audio-Technica Lite Headphones,Audio-Technica,Electronics,Headphones,536.02,BN65NK7CM5,S0000006
+P0000297,Xiaomi Neo Monitor,Xiaomi,Electronics,Monitor,1193.63,B9GPD9C8XV,S0000007
+P0000298,Audio-Technica Z3 Speaker,Audio-Technica,Electronics,Speaker,746.16,B17AG146PS,S0000008
+P0000299,HP M3 TV,HP,Electronics,TV,948.50,BGN0XGB8U9,S0000009
+P0000300,LG X1 Headphones,LG,Electronics,Headphones,346.94,BF0HLGPXFM,S0000010
+P0000301,Huawei Edge 64GB Tablet,Huawei,Electronics,Tablet,600.00,B5PZ1DE80I,S0000001
+P0000302,Vivo S1 Camera,Vivo,Electronics,Camera,714.57,BB0RVET3IY,S0000002
+P0000303,boAt Neo Monitor,boAt,Electronics,Monitor,332.09,BZU4KLMRHD,S0000003
+P0000304,Audio-Technica S1 Earbuds,Audio-Technica,Electronics,Earbuds,99.59,BMT29GVME4,S0000004
+P0000305,Canon Z3 Earbuds,Canon,Electronics,Earbuds,111.61,BU7LK6RCQ2,S0000005
+P0000306,LG Lite Speaker,LG,Electronics,Speaker,310.82,BVFHJNPTTA,S0000006
+P0000307,Boult M3 Monitor,Boult,Electronics,Monitor,1323.67,B7KXQAMGM3,S0000007
+P0000308,Vivo Air 256GB Tablet,Vivo,Electronics,Tablet,374.25,BELM7DGXX4,S0000008
+P0000309,OnePlus Edge 128GB Smartphone,OnePlus,Electronics,Smartphone,499.61,BRN4DQI90D,S0000009
+P0000310,Sennheiser Z3 256GB Tablet,Sennheiser,Electronics,Tablet,359.43,B1IJK24BD9,S0000010
+P0000311,D-Link S3 Speaker,D-Link,Electronics,Speaker,651.32,B092AWEYVD,S0000001
+P0000312,Canon Z3 Speaker,Canon,Electronics,Speaker,248.16,BKPM46R2MZ,S0000002
+P0000313,TP-Link Pro Router,TP-Link,Electronics,Router,305.55,BUO59AW3ME,S0000003
+P0000314,Realme Go TV,Realme,Electronics,TV,3566.55,B2Z48FRJ5W,S0000004
+P0000315,ASUS X2 Speaker,ASUS,Electronics,Speaker,206.90,B2TVTY4G1G,S0000005
+P0000316,LG M3 Speaker,LG,Electronics,Speaker,355.98,BNZF471JZ1,S0000006
+P0000317,Marshall S2 Earbuds,Marshall,Electronics,Earbuds,130.93,BYGVJX5F7P,S0000007
+P0000318,Samsung Bolt Smartwatch,Samsung,Electronics,Smartwatch,814.75,BK9CPA8ENX,S0000008
+P0000319,OnePlus X1 TV,OnePlus,Electronics,TV,555.71,B2M52819YN,S0000009
+P0000320,Sony X2 Headphones,Sony,Electronics,Headphones,110.38,BJ2JJEJIBY,S0000010
+P0000321,OnePlus Ultra Monitor,OnePlus,Electronics,Monitor,345.95,BNQPNM3RQO,S0000001
+P0000322,Nokia Pro Camera,Nokia,Electronics,Camera,1909.40,B1KSGFLLOR,S0000002
+P0000323,Nikon Lite Camera,Nikon,Electronics,Camera,2924.03,BUTAHY86BE,S0000003
+P0000324,Nikon Bolt Monitor,Nikon,Electronics,Monitor,1032.98,B2HLOP893Y,S0000004
+P0000325,ASUS Air 512GB Laptop,ASUS,Electronics,Laptop,2823.91,B9CMSX72GB,S0000005
+P0000326,Marshall Z3 Speaker,Marshall,Electronics,Speaker,650.66,BU9KNEIR29,S0000006
+P0000327,Nikon Z3 Smartwatch,Nikon,Electronics,Smartwatch,821.82,BMKBMHLSFZ,S0000007
+P0000328,Canon X3 Router,Canon,Electronics,Router,351.56,BPLMQKF1BT,S0000008
+P0000329,LG Edge Smartwatch,LG,Electronics,Smartwatch,890.35,BTVAXLLMMO,S0000009
+P0000330,Samsung X2 Monitor,Samsung,Electronics,Monitor,1469.64,B090GQCTUY,S0000010
+P0000331,Xiaomi S3 Monitor,Xiaomi,Electronics,Monitor,1811.55,B4A685M2IZ,S0000001
+P0000332,OPPO S3 Speaker,OPPO,Electronics,Speaker,594.69,B4S1E66AYX,S0000002
+P0000333,Lenovo Z3 128GB Tablet,Lenovo,Electronics,Tablet,714.93,B71CJ5G05C,S0000003
+P0000334,JBL S1 Router,JBL,Electronics,Router,246.86,BT862UN7R4,S0000004
+P0000335,Nokia X2 Monitor,Nokia,Electronics,Monitor,725.17,BD20CZWOO2,S0000005
+P0000336,JBL Prime Speaker,JBL,Electronics,Speaker,43.36,BAZ5DXJWBS,S0000006
+P0000337,LG S1 Earbuds,LG,Electronics,Earbuds,35.58,BA4R11XYEV,S0000007
+P0000338,Motorola Ultra 64GB Smartphone,Motorola,Electronics,Smartphone,841.65,BFQ33UJ44X,S0000008
+P0000339,Garmin Edge Monitor,Garmin,Electronics,Monitor,1360.54,BP43N2U1NO,S0000009
+P0000340,Marshall Prime 64GB Smartphone,Marshall,Electronics,Smartphone,1103.26,BL9JRYVMDL,S0000010
+P0000341,Sennheiser X2 512GB Tablet,Sennheiser,Electronics,Tablet,313.69,B05A5VM2OC,S0000001
+P0000342,Lenovo Edge Router,Lenovo,Electronics,Router,100.90,BI9ZI17KJU,S0000002
+P0000343,Marshall S3 Camera,Marshall,Electronics,Camera,4471.59,BF3W0T1HTC,S0000003
+P0000344,JBL Z3 Monitor,JBL,Electronics,Monitor,1773.20,BGK6F15QA7,S0000004
+P0000345,Xiaomi Neo Headphones,Xiaomi,Electronics,Headphones,181.52,B7KEHHFMKK,S0000005
+P0000346,OPPO X3 32GB Smartphone,OPPO,Electronics,Smartphone,647.64,BFSA05ZD7X,S0000006
+P0000347,boAt X2 512GB Smartphone,boAt,Electronics,Smartphone,1695.83,BWQA8NVFRW,S0000007
+P0000348,TP-Link Pro 512GB Tablet,TP-Link,Electronics,Tablet,1179.03,BC2JU1MDJG,S0000008
+P0000349,Samsung Neo Speaker,Samsung,Electronics,Speaker,449.90,BY8O35DDGK,S0000009
+P0000350,Netgear Edge Smartwatch,Netgear,Electronics,Smartwatch,1086.77,BVMER0XBK5,S0000010
+P0000351,Amazfit S1 Headphones,Amazfit,Electronics,Headphones,300.70,BNCQRDKI00,S0000001
+P0000352,Huawei S2 Router,Huawei,Electronics,Router,213.94,BNS4ZVPBRQ,S0000002
+P0000353,OnePlus S3 Speaker,OnePlus,Electronics,Speaker,492.27,BQP3EPZRQF,S0000003
+P0000354,Marshall Z3 Monitor,Marshall,Electronics,Monitor,361.34,B6CJQ0LHN0,S0000004
+P0000355,Canon Go Headphones,Canon,Electronics,Headphones,281.90,BMUEA10CW7,S0000005
+P0000356,Canon Bolt 256GB Smartphone,Canon,Electronics,Smartphone,1593.54,BBIIZHCJPF,S0000006
+P0000357,Audio-Technica M3 TV,Audio-Technica,Electronics,TV,2049.18,B7KXUJEBS5,S0000007
+P0000358,Sony Ultra Smartwatch,Sony,Electronics,Smartwatch,113.45,BU8FYPUJ7J,S0000008
+P0000359,Netgear Bolt Camera,Netgear,Electronics,Camera,4496.65,BGV4X24Y96,S0000009
+P0000360,Nikon X1 TV,Nikon,Electronics,TV,4530.28,B3GY7WO0OO,S0000010
+P0000361,ASUS Go Speaker,ASUS,Electronics,Speaker,418.73,BMNPLVZHVG,S0000001
+P0000362,Apple M3 Headphones,Apple,Electronics,Headphones,662.24,BY7SPD632H,S0000002
+P0000363,JBL Air Speaker,JBL,Electronics,Speaker,743.66,BATWAKJIPT,S0000003
+P0000364,Dell X3 128GB Smartphone,Dell,Electronics,Smartphone,1760.34,BX5CJTGPZO,S0000004
+P0000365,Canon S1 Speaker,Canon,Electronics,Speaker,48.83,B96DCLGBLB,S0000005
+P0000366,Garmin Edge Smartwatch,Garmin,Electronics,Smartwatch,462.61,BO2DNYL9WN,S0000006
+P0000367,Canon S3 Earbuds,Canon,Electronics,Earbuds,60.51,BJUY1EFWAJ,S0000007
+P0000368,TP-Link S2 Monitor,TP-Link,Electronics,Monitor,939.34,B0NL2IYRSZ,S0000008
+P0000369,ASUS X2 Router,ASUS,Electronics,Router,268.61,B183ZLAVTD,S0000009
+P0000370,JBL Lite Camera,JBL,Electronics,Camera,2367.25,B4384OEYNM,S0000010
+P0000371,Vivo Prime Camera,Vivo,Electronics,Camera,1584.94,BGFQTS49RW,S0000001
+P0000372,MSI Z3 TV,MSI,Electronics,TV,4082.36,BX7KC462AZ,S0000002
+P0000373,D-Link Air Smartwatch,D-Link,Electronics,Smartwatch,460.72,BKY3LHH72J,S0000003
+P0000374,Boult Lite 32GB Laptop,Boult,Electronics,Laptop,1593.97,B6AZ6TPM25,S0000004
+P0000375,Realme Air 256GB Smartphone,Realme,Electronics,Smartphone,245.18,B6IAG1CACZ,S0000005
+P0000376,Motorola X1 Monitor,Motorola,Electronics,Monitor,1037.30,BWG6P0X84N,S0000006
+P0000377,Redmi X2 Earbuds,Redmi,Electronics,Earbuds,116.95,BK5FXG4YY6,S0000007
+P0000378,Canon Go 32GB Tablet,Canon,Electronics,Tablet,1377.16,B014BD3CTQ,S0000008
+P0000379,Nikon M3 512GB Laptop,Nikon,Electronics,Laptop,3895.36,BM0TWA2QCS,S0000009
+P0000380,Realme S2 Monitor,Realme,Electronics,Monitor,621.36,B6FI552CU1,S0000010
+P0000381,Nokia X2 Earbuds,Nokia,Electronics,Earbuds,50.15,B2RZ2ONX54,S0000001
+P0000382,Xiaomi Ultra Speaker,Xiaomi,Electronics,Speaker,541.00,BQ7MT8Y369,S0000002
+P0000383,TP-Link M3 TV,TP-Link,Electronics,TV,4111.34,BFW40S3843,S0000003
+P0000384,Motorola Z3 Headphones,Motorola,Electronics,Headphones,149.80,BOOQKJ48VG,S0000004
+P0000385,ASUS S1 32GB Smartphone,ASUS,Electronics,Smartphone,1638.12,BLVTVGY3HU,S0000005
+P0000386,Sennheiser Air Smartwatch,Sennheiser,Electronics,Smartwatch,299.88,BTK7NFNYRR,S0000006
+P0000387,Motorola Lite 128GB Laptop,Motorola,Electronics,Laptop,1678.96,BI0HE2TAXM,S0000007
+P0000388,Dell Lite Headphones,Dell,Electronics,Headphones,569.12,BLLHWESSFI,S0000008
+P0000389,Redmi Lite Speaker,Redmi,Electronics,Speaker,493.14,BNOXRZKAV4,S0000009
+P0000390,LG Lite Headphones,LG,Electronics,Headphones,631.16,B6ECFQRH96,S0000010
+P0000391,Canon Prime Camera,Canon,Electronics,Camera,3712.01,BL4GBOMW33,S0000001
+P0000392,Realme Edge 64GB Laptop,Realme,Electronics,Laptop,3262.82,BS4LO5I81O,S0000002
+P0000393,Lenovo S3 Speaker,Lenovo,Electronics,Speaker,352.57,BKF5RBOP37,S0000003
+P0000394,Garmin Air 32GB Laptop,Garmin,Electronics,Laptop,1498.84,BMYKZGT8VC,S0000004
+P0000395,Canon Pro Speaker,Canon,Electronics,Speaker,363.95,BCG1D3MFE7,S0000005
+P0000396,GoPro Prime TV,GoPro,Electronics,TV,3299.18,BCMMT5JYIS,S0000006
+P0000397,MSI Lite Camera,MSI,Electronics,Camera,2640.01,BZKSN1VCPQ,S0000007
+P0000398,boAt S1 Monitor,boAt,Electronics,Monitor,1847.23,B9T7R8CKZV,S0000008
+P0000399,HP Pro Smartwatch,HP,Electronics,Smartwatch,790.01,BGJLPMA3D7,S0000009
+P0000400,Marshall S2 512GB Smartphone,Marshall,Electronics,Smartphone,1016.12,B9X10GQ7SX,S0000010
+P0000401,Dell Pro Monitor,Dell,Electronics,Monitor,362.11,BQ55XBHUIO,S0000001
+P0000402,Samsung S3 256GB Smartphone,Samsung,Electronics,Smartphone,1113.16,BB47E2EH2M,S0000002
+P0000403,Netgear Neo TV,Netgear,Electronics,TV,2331.68,BGQJXYU1QB,S0000003
+P0000404,boAt Go Headphones,boAt,Electronics,Headphones,265.23,BRP6VB5UTU,S0000004
+P0000405,Motorola S1 TV,Motorola,Electronics,TV,1053.45,B4TBSQQJF2,S0000005
+P0000406,GoPro Prime 512GB Smartphone,GoPro,Electronics,Smartphone,1797.29,BXXXV6QU3H,S0000006
+P0000407,Audio-Technica Pro TV,Audio-Technica,Electronics,TV,4698.41,B50VI3O85J,S0000007
+P0000408,MSI Bolt Headphones,MSI,Electronics,Headphones,57.47,BZV36VQ1A0,S0000008
+P0000409,Canon Neo TV,Canon,Electronics,TV,4545.72,BZDBSO6XLG,S0000009
+P0000410,Huawei S3 Router,Huawei,Electronics,Router,112.68,BNV00NTC83,S0000010
+P0000411,Boult Bolt Headphones,Boult,Electronics,Headphones,414.39,BBLNBI0Y6K,S0000001
+P0000412,Realme Air Router,Realme,Electronics,Router,183.75,B13HBYYSZV,S0000002
+P0000413,D-Link Bolt 256GB Laptop,D-Link,Electronics,Laptop,3753.28,B9L330PPHN,S0000003
+P0000414,Redmi Z3 Headphones,Redmi,Electronics,Headphones,60.77,BQK9BTDM1D,S0000004
+P0000415,TP-Link Ultra Smartwatch,TP-Link,Electronics,Smartwatch,443.50,BN025ID7I3,S0000005
+P0000416,Huawei X3 TV,Huawei,Electronics,TV,2124.33,BTA3SIZGBL,S0000006
+P0000417,Sony Prime Camera,Sony,Electronics,Camera,1560.87,BBFUDXFCHV,S0000007
+P0000418,Vivo Neo 512GB Laptop,Vivo,Electronics,Laptop,3903.16,BKC922413M,S0000008
+P0000419,boAt S2 128GB Laptop,boAt,Electronics,Laptop,2457.76,BA6DB4G287,S0000009
+P0000420,Xiaomi Z3 Monitor,Xiaomi,Electronics,Monitor,519.36,BX0F6P7JM6,S0000010
+P0000421,Redmi Air 64GB Laptop,Redmi,Electronics,Laptop,3460.70,BX00NNHMVV,S0000001
+P0000422,Motorola Ultra Smartwatch,Motorola,Electronics,Smartwatch,958.28,B0MICS8GPW,S0000002
+P0000423,OnePlus S1 Camera,OnePlus,Electronics,Camera,3392.95,BV7259CEK0,S0000003
+P0000424,TP-Link M3 128GB Smartphone,TP-Link,Electronics,Smartphone,495.15,BLTH3JG2MC,S0000004
+P0000425,OnePlus Z3 TV,OnePlus,Electronics,TV,3008.06,BFD3RBFGXX,S0000005
+P0000426,Vivo M3 Monitor,Vivo,Electronics,Monitor,1468.64,BQUOL3K9BD,S0000006
+P0000427,Xiaomi Air Smartwatch,Xiaomi,Electronics,Smartwatch,344.57,B40TMRER0E,S0000007
+P0000428,Samsung S1 Camera,Samsung,Electronics,Camera,1567.61,BKN39P5GUG,S0000008
+P0000429,Dell Pro 32GB Smartphone,Dell,Electronics,Smartphone,267.29,BCG467TJKZ,S0000009
+P0000430,Apple Prime Earbuds,Apple,Electronics,Earbuds,94.77,BIGXSVNPQW,S0000010
+P0000431,Motorola Air Monitor,Motorola,Electronics,Monitor,1859.22,B9N6TPVBCR,S0000001
+P0000432,MSI S1 Monitor,MSI,Electronics,Monitor,1669.26,B9IJF8PW6C,S0000002
+P0000433,Samsung Prime 32GB Laptop,Samsung,Electronics,Laptop,1238.44,BUKZZSWJH4,S0000003
+P0000434,Lenovo Lite Monitor,Lenovo,Electronics,Monitor,720.80,BJ92AZZO0S,S0000004
+P0000435,Dell Go Camera,Dell,Electronics,Camera,3122.49,BIQ1RURKOI,S0000005
+P0000436,OPPO Neo Headphones,OPPO,Electronics,Headphones,97.00,BJS4Q33DMM,S0000006
+P0000437,GoPro Air Earbuds,GoPro,Electronics,Earbuds,260.27,BCQFNR4QS2,S0000007
+P0000438,Dell X3 Smartwatch,Dell,Electronics,Smartwatch,114.33,B27Y6EC4CN,S0000008
+P0000439,Audio-Technica Neo Router,Audio-Technica,Electronics,Router,298.21,BEGRY61LFE,S0000009
+P0000440,Amazfit X3 Camera,Amazfit,Electronics,Camera,3730.69,BRCSHEUCS2,S0000010
+P0000441,OPPO Neo Headphones,OPPO,Electronics,Headphones,655.83,B8X7VXOA8A,S0000001
+P0000442,MSI S3 512GB Laptop,MSI,Electronics,Laptop,3462.36,BCTO8MHEO3,S0000002
+P0000443,Realme Z3 Headphones,Realme,Electronics,Headphones,159.66,B3NPGT61BF,S0000003
+P0000444,Garmin Pro 64GB Laptop,Garmin,Electronics,Laptop,3499.36,BE37EB7DLM,S0000004
+P0000445,Apple Ultra Earbuds,Apple,Electronics,Earbuds,363.98,BMXMX6NG1U,S0000005
+P0000446,boAt Edge Smartwatch,boAt,Electronics,Smartwatch,79.82,B2XMS6XK7H,S0000006
+P0000447,Sony X2 Router,Sony,Electronics,Router,323.66,BHTJMOTBXE,S0000007
+P0000448,MSI Bolt Smartwatch,MSI,Electronics,Smartwatch,132.76,BVZG74AWKZ,S0000008
+P0000449,Dell Go Earbuds,Dell,Electronics,Earbuds,384.56,BD37T49VWC,S0000009
+P0000450,Samsung Ultra Router,Samsung,Electronics,Router,239.14,BPZQ0ZGBHL,S0000010
+P0000451,Nikon Edge Speaker,Nikon,Electronics,Speaker,334.96,BWX63I33HE,S0000001
+P0000452,Nokia Lite TV,Nokia,Electronics,TV,4532.36,BK20IE74EA,S0000002
+P0000453,Canon X2 Earbuds,Canon,Electronics,Earbuds,261.38,BOS3AIYHFX,S0000003
+P0000454,Dell Ultra TV,Dell,Electronics,TV,1388.38,BSHHP3VH3O,S0000004
+P0000455,Huawei Pro TV,Huawei,Electronics,TV,2793.39,BD19NVUHXF,S0000005
+P0000456,Sennheiser X3 TV,Sennheiser,Electronics,TV,924.09,BAO6O719DG,S0000006
+P0000457,Apple Pro Speaker,Apple,Electronics,Speaker,680.65,BO85GEZX74,S0000007
+P0000458,OPPO Lite Speaker,OPPO,Electronics,Speaker,101.45,BS9M7ZG0C4,S0000008
+P0000459,Audio-Technica Prime 256GB Tablet,Audio-Technica,Electronics,Tablet,721.28,BBMYXX8DG2,S0000009
+P0000460,Dell Lite Router,Dell,Electronics,Router,196.36,BB8GREYTM8,S0000010
+P0000461,OnePlus Pro Smartwatch,OnePlus,Electronics,Smartwatch,286.85,BBVXQXBKUB,S0000001
+P0000462,MSI Lite Smartwatch,MSI,Electronics,Smartwatch,855.46,B5DZXN4L0O,S0000002
+P0000463,Samsung M3 Camera,Samsung,Electronics,Camera,2533.47,BBIEZ5AJLX,S0000003
+P0000464,OnePlus S2 128GB Laptop,OnePlus,Electronics,Laptop,2268.06,B9SS0CT2V9,S0000004
+P0000465,TP-Link Prime 512GB Tablet,TP-Link,Electronics,Tablet,882.48,BFZEGXZ1SB,S0000005
+P0000466,MSI Ultra 512GB Smartphone,MSI,Electronics,Smartphone,1131.12,BAO1B4MQZL,S0000006
+P0000467,Samsung S3 Router,Samsung,Electronics,Router,114.58,BIPXX84JJ6,S0000007
+P0000468,Dell Neo TV,Dell,Electronics,TV,1300.28,B4MK5DMI3E,S0000008
+P0000469,Sennheiser Prime Speaker,Sennheiser,Electronics,Speaker,413.90,BR82F7VYFH,S0000009
+P0000470,LG Go 256GB Smartphone,LG,Electronics,Smartphone,1919.00,BUYPRKYLZV,S0000010
+P0000471,GoPro Bolt 32GB Laptop,GoPro,Electronics,Laptop,2950.99,BJTZ8FE9IW,S0000001
+P0000472,Motorola Bolt Speaker,Motorola,Electronics,Speaker,796.07,B7MENT63JU,S0000002
+P0000473,boAt Edge Camera,boAt,Electronics,Camera,3959.00,BGK0EBXB83,S0000003
+P0000474,MSI Edge Camera,MSI,Electronics,Camera,3185.04,BUVLWO3151,S0000004
+P0000475,Samsung Air TV,Samsung,Electronics,TV,4004.10,B0XNTYRSJB,S0000005
+P0000476,LG X2 Camera,LG,Electronics,Camera,642.74,BTAXW0EJDB,S0000006
+P0000477,Amazfit Air 512GB Tablet,Amazfit,Electronics,Tablet,495.47,BQSK5KS91R,S0000007
+P0000478,TP-Link S2 Camera,TP-Link,Electronics,Camera,4611.65,B7PCY3LYM8,S0000008
+P0000479,JBL M3 Headphones,JBL,Electronics,Headphones,97.16,BLUOSBYFOF,S0000009
+P0000480,Motorola Z3 Headphones,Motorola,Electronics,Headphones,441.50,BUQIEOC86O,S0000010
+P0000481,Huawei M3 256GB Smartphone,Huawei,Electronics,Smartphone,1528.97,B1IMUJKAPP,S0000001
+P0000482,Marshall M3 Speaker,Marshall,Electronics,Speaker,80.80,BUXLB8OPQJ,S0000002
+P0000483,OnePlus Bolt Earbuds,OnePlus,Electronics,Earbuds,117.57,BWE0LZJ520,S0000003
+P0000484,Lenovo Go Camera,Lenovo,Electronics,Camera,4581.21,BLVL2T5E3X,S0000004
+P0000485,Nokia X1 256GB Tablet,Nokia,Electronics,Tablet,953.93,BNDWABIG2G,S0000005
+P0000486,TP-Link Ultra Camera,TP-Link,Electronics,Camera,3872.53,BMCW21RUXU,S0000006
+P0000487,Marshall Edge Speaker,Marshall,Electronics,Speaker,712.63,BXTDG9EWCS,S0000007
+P0000488,Samsung Z3 Smartwatch,Samsung,Electronics,Smartwatch,181.35,B7LUVVPSP1,S0000008
+P0000489,Boult Prime Smartwatch,Boult,Electronics,Smartwatch,895.53,BT5L5IRFR4,S0000009
+P0000490,Apple Lite Monitor,Apple,Electronics,Monitor,851.64,BGFFPE7C0N,S0000010
+P0000491,Motorola Ultra Earbuds,Motorola,Electronics,Earbuds,141.90,BZXLHM37O2,S0000001
+P0000492,OPPO Prime Earbuds,OPPO,Electronics,Earbuds,336.77,BA1Y4FY2BI,S0000002
+P0000493,Boult Edge 32GB Laptop,Boult,Electronics,Laptop,1690.74,BFY1P1KF10,S0000003
+P0000494,Dell Pro 128GB Laptop,Dell,Electronics,Laptop,2474.35,BGU0017KBI,S0000004
+P0000495,Redmi Bolt Speaker,Redmi,Electronics,Speaker,581.73,BZO9V5OS7V,S0000005
+P0000496,Redmi Edge 512GB Smartphone,Redmi,Electronics,Smartphone,1598.37,BVN6DZ14MV,S0000006
+P0000497,boAt S1 Headphones,boAt,Electronics,Headphones,230.40,BZCWVTJIG9,S0000007
+P0000498,Sennheiser S2 Camera,Sennheiser,Electronics,Camera,3678.17,BY6UF7POSV,S0000008
+P0000499,Vivo M3 Router,Vivo,Electronics,Router,243.75,B6DLFHWIK5,S0000009
+P0000500,Samsung S2 Headphones,Samsung,Electronics,Headphones,435.24,BL2QU0B45K,S0000010
+P0000501,Dell Edge 512GB Tablet,Dell,Electronics,Tablet,409.06,BBG95OHEXC,S0000001
+P0000502,Samsung S1 Headphones,Samsung,Electronics,Headphones,532.36,B3NN7YNVO5,S0000002
+P0000503,HP Edge 256GB Smartphone,HP,Electronics,Smartphone,1560.12,BDF82NUJU9,S0000003
+P0000504,Amazfit Neo TV,Amazfit,Electronics,TV,594.65,BGCTSMM2N8,S0000004
+P0000505,Amazfit Prime 128GB Tablet,Amazfit,Electronics,Tablet,1259.86,BHSTHNVPM9,S0000005
+P0000506,D-Link X3 Monitor,D-Link,Electronics,Monitor,1014.10,BOS0I3WX6G,S0000006
+P0000507,HP M3 Speaker,HP,Electronics,Speaker,326.81,BHKVJERQP6,S0000007
+P0000508,Xiaomi M3 Monitor,Xiaomi,Electronics,Monitor,1970.01,BV4D4SWIJK,S0000008
+P0000509,JBL M3 Speaker,JBL,Electronics,Speaker,308.67,BQ2V528OOG,S0000009
+P0000510,Redmi S3 Camera,Redmi,Electronics,Camera,4342.53,B3EROBL0AY,S0000010
+P0000511,Realme X1 Monitor,Realme,Electronics,Monitor,256.98,BGWJYST7HC,S0000001
+P0000512,Vivo S3 128GB Tablet,Vivo,Electronics,Tablet,1402.16,BSSAUKWG28,S0000002
+P0000513,MSI Neo Monitor,MSI,Electronics,Monitor,1601.83,BUUJPUCDBJ,S0000003
+P0000514,MSI S3 Camera,MSI,Electronics,Camera,4593.77,BELWKS0OWT,S0000004
+P0000515,MSI S2 Monitor,MSI,Electronics,Monitor,876.88,BQYB85JF4O,S0000005
+P0000516,OPPO Go 64GB Laptop,OPPO,Electronics,Laptop,3431.41,BFZX8DOXHW,S0000006
+P0000517,JBL M3 Headphones,JBL,Electronics,Headphones,487.86,BLE1E22U1T,S0000007
+P0000518,Realme Prime Monitor,Realme,Electronics,Monitor,1674.38,B6DC2GRS2H,S0000008
+P0000519,JBL Z3 Smartwatch,JBL,Electronics,Smartwatch,493.23,BD9V6TKJT7,S0000009
+P0000520,MSI S2 Earbuds,MSI,Electronics,Earbuds,399.52,B6WPH9DITV,S0000010
+P0000521,Dell Neo Headphones,Dell,Electronics,Headphones,678.88,BKH1HW71Q7,S0000001
+P0000522,ASUS Lite Earbuds,ASUS,Electronics,Earbuds,246.36,BIBFIFD9D1,S0000002
+P0000523,Xiaomi X3 Camera,Xiaomi,Electronics,Camera,4172.39,BLS2SQYKP2,S0000003
+P0000524,MSI Go 128GB Laptop,MSI,Electronics,Laptop,3510.85,BXHB98YY94,S0000004
+P0000525,GoPro S3 Headphones,GoPro,Electronics,Headphones,295.33,B4JQ31275D,S0000005
+P0000526,Nikon Edge 512GB Tablet,Nikon,Electronics,Tablet,933.56,B4CA8I7R1G,S0000006
+P0000527,Dell Pro Smartwatch,Dell,Electronics,Smartwatch,1083.95,B1XR2NE0HH,S0000007
+P0000528,HP X3 32GB Laptop,HP,Electronics,Laptop,2765.68,B1DSRI4FJR,S0000008
+P0000529,Amazfit S2 256GB Laptop,Amazfit,Electronics,Laptop,2514.59,BOQP7SPQP1,S0000009
+P0000530,boAt Edge TV,boAt,Electronics,TV,2179.94,BQ1VKT0EM1,S0000010
+P0000531,Samsung X3 Monitor,Samsung,Electronics,Monitor,1003.19,B9V0PI55RJ,S0000001
+P0000532,Realme Neo Monitor,Realme,Electronics,Monitor,1177.05,B9DJ2CC1YC,S0000002
+P0000533,Xiaomi X3 Speaker,Xiaomi,Electronics,Speaker,414.88,BV7XYC8PWE,S0000003
+P0000534,Netgear X2 32GB Tablet,Netgear,Electronics,Tablet,1381.28,BRH2A7AWQ8,S0000004
+P0000535,Lenovo S2 TV,Lenovo,Electronics,TV,3940.77,BI9KUS172W,S0000005
+P0000536,JBL Bolt Smartwatch,JBL,Electronics,Smartwatch,478.29,BZSSR69N39,S0000006
+P0000537,Huawei Air 128GB Smartphone,Huawei,Electronics,Smartphone,440.63,BCYSKMQG7S,S0000007
+P0000538,Amazfit Lite Smartwatch,Amazfit,Electronics,Smartwatch,542.98,BMNNSN0UUY,S0000008
+P0000539,Vivo Go 256GB Laptop,Vivo,Electronics,Laptop,2896.16,B4WSQ9FEP2,S0000009
+P0000540,Realme Neo Camera,Realme,Electronics,Camera,3548.75,BT93RUGK77,S0000010
+P0000541,D-Link Go TV,D-Link,Electronics,TV,378.96,B5EWYQZXQH,S0000001
+P0000542,Nokia Bolt Router,Nokia,Electronics,Router,99.32,BQ5LSVHUEZ,S0000002
+P0000543,TP-Link Go Headphones,TP-Link,Electronics,Headphones,657.70,B4TJY93MZ8,S0000003
+P0000544,Xiaomi Ultra 256GB Smartphone,Xiaomi,Electronics,Smartphone,213.28,BZ0V74IDDP,S0000004
+P0000545,boAt Prime Speaker,boAt,Electronics,Speaker,586.50,BQFBFI4HUA,S0000005
+P0000546,D-Link Lite TV,D-Link,Electronics,TV,3734.43,BRM38WMZKI,S0000006
+P0000547,D-Link S1 Headphones,D-Link,Electronics,Headphones,363.22,BUNW00LRKT,S0000007
+P0000548,Sennheiser S3 Camera,Sennheiser,Electronics,Camera,998.95,B492YGHTO2,S0000008
+P0000549,Nikon X3 Earbuds,Nikon,Electronics,Earbuds,69.68,BQCRI6EMVZ,S0000009
+P0000550,Nikon Lite Router,Nikon,Electronics,Router,211.36,B6I8PEDU5U,S0000010
+P0000551,Motorola Neo 64GB Tablet,Motorola,Electronics,Tablet,457.49,B38PBH6SL1,S0000001
+P0000552,Netgear S3 128GB Laptop,Netgear,Electronics,Laptop,1127.66,B0WFIOONQJ,S0000002
+P0000553,Marshall Air 32GB Tablet,Marshall,Electronics,Tablet,303.42,BVN1WT7640,S0000003
+P0000554,Nokia Air Speaker,Nokia,Electronics,Speaker,171.49,B3FDBKOMRW,S0000004
+P0000555,Marshall Go 128GB Laptop,Marshall,Electronics,Laptop,3782.66,BQS348F6L8,S0000005
+P0000556,Apple Prime Headphones,Apple,Electronics,Headphones,641.74,B4FO7WZ8C3,S0000006
+P0000557,Nokia Ultra Smartwatch,Nokia,Electronics,Smartwatch,979.91,BBUR15L3ZA,S0000007
+P0000558,Garmin S2 Speaker,Garmin,Electronics,Speaker,117.56,BMBZUA1GQF,S0000008
+P0000559,OPPO S1 TV,OPPO,Electronics,TV,4299.05,B1N7GKO6KM,S0000009
+P0000560,TP-Link S2 Router,TP-Link,Electronics,Router,344.68,B98A8X702Z,S0000010
+P0000561,HP Go Speaker,HP,Electronics,Speaker,753.98,BSCAQ1RJST,S0000001
+P0000562,Dell Z3 Earbuds,Dell,Electronics,Earbuds,219.46,BZ96LIZR6M,S0000002
+P0000563,Canon X2 Headphones,Canon,Electronics,Headphones,645.12,B84WFFW6L3,S0000003
+P0000564,Dell X3 128GB Smartphone,Dell,Electronics,Smartphone,451.01,BKL77QIW8B,S0000004
+P0000565,Audio-Technica S3 Monitor,Audio-Technica,Electronics,Monitor,158.60,BSD7PQURLU,S0000005
+P0000566,D-Link Neo 64GB Laptop,D-Link,Electronics,Laptop,3207.20,BPW8XLNXL6,S0000006
+P0000567,Audio-Technica S3 Smartwatch,Audio-Technica,Electronics,Smartwatch,272.83,BQMSOEF875,S0000007
+P0000568,GoPro Prime TV,GoPro,Electronics,TV,3033.21,BG2T9964NY,S0000008
+P0000569,boAt Prime TV,boAt,Electronics,TV,2611.03,B9MBP76Y5H,S0000009
+P0000570,Nikon S3 Router,Nikon,Electronics,Router,71.52,BID0A2UBLW,S0000010
+P0000571,Nikon Bolt Smartwatch,Nikon,Electronics,Smartwatch,1198.13,BZARSTUDR1,S0000001
+P0000572,Apple M3 64GB Smartphone,Apple,Electronics,Smartphone,1990.31,BPU6EQCDHZ,S0000002
+P0000573,MSI X1 TV,MSI,Electronics,TV,4561.12,BZABHO42YE,S0000003
+P0000574,Dell Ultra Camera,Dell,Electronics,Camera,2390.23,BUR8KAG7G4,S0000004
+P0000575,GoPro Lite Monitor,GoPro,Electronics,Monitor,1408.26,BY04M6LE23,S0000005
+P0000576,Nokia X3 Speaker,Nokia,Electronics,Speaker,735.82,B8EIMDQVQ7,S0000006
+P0000577,Apple Bolt Smartwatch,Apple,Electronics,Smartwatch,794.74,BZEB9W0DPZ,S0000007
+P0000578,Huawei X2 TV,Huawei,Electronics,TV,4092.35,BE7CZEES98,S0000008
+P0000579,Nokia S3 Monitor,Nokia,Electronics,Monitor,731.32,BKUKEXXIT0,S0000009
+P0000580,Sony Lite TV,Sony,Electronics,TV,4226.91,BKC9DMMGMR,S0000010
+P0000581,ASUS Pro Earbuds,ASUS,Electronics,Earbuds,356.36,BCG1JINQ3H,S0000001
+P0000582,OPPO M3 512GB Tablet,OPPO,Electronics,Tablet,687.82,BIH0BM94M9,S0000002
+P0000583,Apple S1 Camera,Apple,Electronics,Camera,1169.89,B8LSV5FAH1,S0000003
+P0000584,Vivo Prime TV,Vivo,Electronics,TV,3948.90,BC7DC6RJXV,S0000004
+P0000585,LG Ultra Speaker,LG,Electronics,Speaker,490.48,BMVSNV2QTG,S0000005
+P0000586,Sony Air Router,Sony,Electronics,Router,273.29,BMRITB1Z3Z,S0000006
+P0000587,Nokia Bolt Headphones,Nokia,Electronics,Headphones,672.46,B5IHY4UH91,S0000007
+P0000588,Realme Pro TV,Realme,Electronics,TV,2394.94,BGWECCOYBW,S0000008
+P0000589,Canon Pro 256GB Smartphone,Canon,Electronics,Smartphone,1070.52,BPZ1Q88N6S,S0000009
+P0000590,MSI S1 Monitor,MSI,Electronics,Monitor,927.04,B3KXPHMY76,S0000010
+P0000591,Xiaomi Neo Smartwatch,Xiaomi,Electronics,Smartwatch,981.63,BIJQZHHCC3,S0000001
+P0000592,Samsung Bolt 128GB Tablet,Samsung,Electronics,Tablet,455.29,BQFPCF3LHJ,S0000002
+P0000593,OPPO M3 TV,OPPO,Electronics,TV,2371.33,BAMNUV12C2,S0000003
+P0000594,Boult Prime Router,Boult,Electronics,Router,274.09,BZ1CGB95E9,S0000004
+P0000595,Samsung Ultra 32GB Laptop,Samsung,Electronics,Laptop,894.65,BVMFPKKGEK,S0000005
+P0000596,ASUS Prime 32GB Laptop,ASUS,Electronics,Laptop,2219.06,BSWBTZ5Q7K,S0000006
+P0000597,TP-Link Z3 Earbuds,TP-Link,Electronics,Earbuds,163.18,BPRVM1O3V0,S0000007
+P0000598,Vivo Pro 512GB Laptop,Vivo,Electronics,Laptop,2771.09,BA97N5YZOY,S0000008
+P0000599,Vivo Go Router,Vivo,Electronics,Router,240.27,BMWURI7KE9,S0000009
+P0000600,Netgear Edge 256GB Tablet,Netgear,Electronics,Tablet,1100.34,BHF8CRQPX6,S0000010
+P0000601,Marshall S3 Router,Marshall,Electronics,Router,45.33,BOY3BDZN2M,S0000001
+P0000602,JBL Z3 Camera,JBL,Electronics,Camera,2906.77,BLGRD1O3AL,S0000002
+P0000603,Huawei S2 Camera,Huawei,Electronics,Camera,4721.82,BRLA2JA5HE,S0000003
+P0000604,Xiaomi Go 64GB Tablet,Xiaomi,Electronics,Tablet,277.78,B5AGGRQZM9,S0000004
+P0000605,Sony Neo 32GB Tablet,Sony,Electronics,Tablet,1155.33,B8J4DWOJST,S0000005
+P0000606,ASUS Neo Smartwatch,ASUS,Electronics,Smartwatch,460.23,BXC4WN0CDF,S0000006
+P0000607,Lenovo X2 64GB Tablet,Lenovo,Electronics,Tablet,995.93,BVSRNZE0Z6,S0000007
+P0000608,Canon Z3 Headphones,Canon,Electronics,Headphones,129.12,BPYQY3SFZ1,S0000008
+P0000609,ASUS X1 Headphones,ASUS,Electronics,Headphones,325.00,B1YP23WE65,S0000009
+P0000610,Lenovo Ultra 512GB Smartphone,Lenovo,Electronics,Smartphone,438.90,B41KEE2IOL,S0000010
+P0000611,Marshall Ultra Router,Marshall,Electronics,Router,212.40,BEERIKB7FQ,S0000001
+P0000612,TP-Link M3 128GB Smartphone,TP-Link,Electronics,Smartphone,432.64,BRG32ECDFD,S0000002
+P0000613,TP-Link Z3 Smartwatch,TP-Link,Electronics,Smartwatch,258.47,BGZHS5DC7P,S0000003
+P0000614,Netgear S3 64GB Tablet,Netgear,Electronics,Tablet,951.54,BIE3BACGEG,S0000004
+P0000615,Sony Lite Earbuds,Sony,Electronics,Earbuds,212.07,BHH8GB6E3S,S0000005
+P0000616,Motorola M3 256GB Smartphone,Motorola,Electronics,Smartphone,385.32,BWVQ811TV2,S0000006
+P0000617,HP Ultra 512GB Tablet,HP,Electronics,Tablet,826.82,B5WMH7SH49,S0000007
+P0000618,Garmin Lite Smartwatch,Garmin,Electronics,Smartwatch,881.40,BJVNK3XKBZ,S0000008
+P0000619,OPPO Prime TV,OPPO,Electronics,TV,562.72,B9G505DB40,S0000009
+P0000620,HP Edge Headphones,HP,Electronics,Headphones,210.60,BGGS9EJ0C2,S0000010
+P0000621,Vivo Bolt 512GB Smartphone,Vivo,Electronics,Smartphone,1734.96,BW3HGUQDED,S0000001
+P0000622,MSI Lite Earbuds,MSI,Electronics,Earbuds,396.24,BFAYD57ERW,S0000002
+P0000623,Garmin Air Headphones,Garmin,Electronics,Headphones,512.68,BZ8V5JP8CQ,S0000003
+P0000624,Canon Z3 512GB Smartphone,Canon,Electronics,Smartphone,793.16,B8I0LT2UMQ,S0000004
+P0000625,Sony Lite Headphones,Sony,Electronics,Headphones,109.88,BXHUMDZ9J9,S0000005
+P0000626,Redmi X1 32GB Smartphone,Redmi,Electronics,Smartphone,1825.85,BO42GAY22U,S0000006
+P0000627,Redmi Z3 32GB Tablet,Redmi,Electronics,Tablet,645.76,BD5BHC4XSE,S0000007
+P0000628,Dell M3 512GB Laptop,Dell,Electronics,Laptop,949.14,B9JGCWRQSQ,S0000008
+P0000629,Nokia Edge Earbuds,Nokia,Electronics,Earbuds,43.24,BALCWHD5SM,S0000009
+P0000630,Huawei Neo Headphones,Huawei,Electronics,Headphones,79.69,BRZFB6NUAA,S0000010
+P0000631,Realme Edge Smartwatch,Realme,Electronics,Smartwatch,772.94,BZ3YUR4R07,S0000001
+P0000632,MSI S2 TV,MSI,Electronics,TV,1169.32,BFIR92DM6V,S0000002
+P0000633,Audio-Technica Edge Earbuds,Audio-Technica,Electronics,Earbuds,311.59,BPOKHI7X4E,S0000003
+P0000634,D-Link Ultra Headphones,D-Link,Electronics,Headphones,560.45,BRP5OTBOX9,S0000004
+P0000635,Canon Prime Speaker,Canon,Electronics,Speaker,557.05,BNNQ54GB17,S0000005
+P0000636,Motorola S3 64GB Tablet,Motorola,Electronics,Tablet,1259.26,BLXN0KSNW3,S0000006
+P0000637,LG Neo 512GB Laptop,LG,Electronics,Laptop,1210.83,BCV6TYINX6,S0000007
+P0000638,Garmin Go 512GB Smartphone,Garmin,Electronics,Smartphone,318.27,BZ0PY1HUZL,S0000008
+P0000639,JBL Bolt Earbuds,JBL,Electronics,Earbuds,29.10,BQH485EG96,S0000009
+P0000640,Nikon S3 Router,Nikon,Electronics,Router,338.86,BEUBOB7K4F,S0000010
+P0000641,Xiaomi X3 256GB Tablet,Xiaomi,Electronics,Tablet,1180.81,B3LTSBU6V9,S0000001
+P0000642,Motorola Z3 Camera,Motorola,Electronics,Camera,3251.69,B774RG1ENZ,S0000002
+P0000643,HP Go Speaker,HP,Electronics,Speaker,174.52,BSVHQ3FG49,S0000003
+P0000644,Netgear Edge Monitor,Netgear,Electronics,Monitor,534.70,BMMN5E3EGT,S0000004
+P0000645,MSI Prime Smartwatch,MSI,Electronics,Smartwatch,901.41,B7MX2V3AYD,S0000005
+P0000646,Dell Ultra Earbuds,Dell,Electronics,Earbuds,143.14,BUMN0DT9X8,S0000006
+P0000647,ASUS X2 Monitor,ASUS,Electronics,Monitor,965.13,BW4AGUQKHX,S0000007
+P0000648,D-Link S3 Monitor,D-Link,Electronics,Monitor,1985.34,BNHTL89Z0J,S0000008
+P0000649,D-Link Go Headphones,D-Link,Electronics,Headphones,198.36,BAZD8TJPX7,S0000009
+P0000650,Audio-Technica Bolt Smartwatch,Audio-Technica,Electronics,Smartwatch,205.32,BP13NRBJEP,S0000010
+P0000651,Audio-Technica X3 Router,Audio-Technica,Electronics,Router,111.61,BU281TRVQZ,S0000001
+P0000652,Lenovo Bolt Speaker,Lenovo,Electronics,Speaker,470.34,BG3KQS3RF8,S0000002
+P0000653,Huawei X3 Speaker,Huawei,Electronics,Speaker,104.16,B580TK4341,S0000003
+P0000654,MSI M3 Earbuds,MSI,Electronics,Earbuds,362.05,BZT8F4T91Z,S0000004
+P0000655,Boult X2 TV,Boult,Electronics,TV,3739.06,BUHVE9ZQI2,S0000005
+P0000656,Motorola Prime Monitor,Motorola,Electronics,Monitor,210.90,BSANPF29YG,S0000006
+P0000657,Samsung Edge Router,Samsung,Electronics,Router,46.59,B3TO62TF3R,S0000007
+P0000658,Lenovo Lite Monitor,Lenovo,Electronics,Monitor,1119.12,BQ1Z48MAAH,S0000008
+P0000659,Nokia Go Router,Nokia,Electronics,Router,120.45,B9B4SG2IYO,S0000009
+P0000660,Marshall Z3 TV,Marshall,Electronics,TV,4119.33,BMHTMUZ3G6,S0000010
+P0000661,Canon X1 Speaker,Canon,Electronics,Speaker,142.11,B7XK8CMWCB,S0000001
+P0000662,Netgear Pro Router,Netgear,Electronics,Router,264.34,BQ5LKE97R6,S0000002
+P0000663,OPPO M3 Smartwatch,OPPO,Electronics,Smartwatch,832.71,B7BOYBR2J2,S0000003
+P0000664,Motorola X1 TV,Motorola,Electronics,TV,2715.91,BLAIO5ITI5,S0000004
+P0000665,Redmi Bolt Monitor,Redmi,Electronics,Monitor,267.05,B4SAEJ13WI,S0000005
+P0000666,Boult S2 Smartwatch,Boult,Electronics,Smartwatch,205.62,BPIO7GPDL2,S0000006
+P0000667,Audio-Technica X2 Camera,Audio-Technica,Electronics,Camera,1607.95,BHRRL76L44,S0000007
+P0000668,Marshall Go Earbuds,Marshall,Electronics,Earbuds,94.61,BB2B0SPKR7,S0000008
+P0000669,Lenovo X1 TV,Lenovo,Electronics,TV,1509.57,B05N7A9VC7,S0000009
+P0000670,Marshall Z3 Speaker,Marshall,Electronics,Speaker,270.15,BXUNVOG1CB,S0000010
+P0000671,HP Z3 Smartwatch,HP,Electronics,Smartwatch,1106.00,BSW3N33386,S0000001
+P0000672,Nokia S3 Headphones,Nokia,Electronics,Headphones,574.89,BW2EDYV0BQ,S0000002
+P0000673,Huawei Bolt Camera,Huawei,Electronics,Camera,1669.14,B4WX1EJARI,S0000003
+P0000674,OPPO Go TV,OPPO,Electronics,TV,4646.73,BTNXSOHO3L,S0000004
+P0000675,Boult Ultra 32GB Smartphone,Boult,Electronics,Smartphone,623.95,B2XPM4A4FH,S0000005
+P0000676,Canon Z3 Camera,Canon,Electronics,Camera,3853.12,BSHZMUGXDN,S0000006
+P0000677,Canon Z3 TV,Canon,Electronics,TV,4299.41,BQJ7TXT9NU,S0000007
+P0000678,Canon Pro TV,Canon,Electronics,TV,3067.50,BBJEYBZ7Y2,S0000008
+P0000679,Motorola Air Camera,Motorola,Electronics,Camera,1932.34,BDDI6GXUY6,S0000009
+P0000680,Sony Neo Router,Sony,Electronics,Router,216.97,BHGHYJODZ5,S0000010
+P0000681,Marshall M3 Smartwatch,Marshall,Electronics,Smartwatch,981.24,B69UUAF52G,S0000001
+P0000682,Sennheiser Ultra Speaker,Sennheiser,Electronics,Speaker,121.44,BA5P7D2CWT,S0000002
+P0000683,Realme X2 Headphones,Realme,Electronics,Headphones,468.93,BJIWQSPNQ8,S0000003
+P0000684,Boult Bolt Earbuds,Boult,Electronics,Earbuds,103.69,BA833Y51QK,S0000004
+P0000685,Huawei M3 256GB Laptop,Huawei,Electronics,Laptop,1148.91,BJWD5Y1X65,S0000005
+P0000686,HP S1 Speaker,HP,Electronics,Speaker,222.68,BPK54YSP9H,S0000006
+P0000687,Motorola Neo 512GB Tablet,Motorola,Electronics,Tablet,932.57,B7GDJ7O973,S0000007
+P0000688,Netgear X2 TV,Netgear,Electronics,TV,3423.06,BAKG025ITA,S0000008
+P0000689,Sennheiser Edge 256GB Smartphone,Sennheiser,Electronics,Smartphone,1728.77,B5D1GEJ4YP,S0000009
+P0000690,Motorola Neo Speaker,Motorola,Electronics,Speaker,490.19,BAY2XQFR7P,S0000010
+P0000691,Motorola Z3 TV,Motorola,Electronics,TV,753.14,BV80QRMXOA,S0000001
+P0000692,Sennheiser Prime Smartwatch,Sennheiser,Electronics,Smartwatch,378.86,BQBM5UF8TU,S0000002
+P0000693,Canon M3 TV,Canon,Electronics,TV,1846.08,B435NY1HTR,S0000003
+P0000694,Motorola X2 TV,Motorola,Electronics,TV,352.78,B3GP76SFL8,S0000004
+P0000695,D-Link Air 32GB Tablet,D-Link,Electronics,Tablet,1210.81,BHV584GLIS,S0000005
+P0000696,Marshall S2 Router,Marshall,Electronics,Router,393.33,BD0LGBV785,S0000006
+P0000697,Huawei Z3 TV,Huawei,Electronics,TV,4221.40,BPV9U4YOBD,S0000007
+P0000698,MSI M3 TV,MSI,Electronics,TV,1857.56,BV5W6GX7AR,S0000008
+P0000699,Nokia S2 Camera,Nokia,Electronics,Camera,2189.88,BH4X07YG2T,S0000009
+P0000700,Lenovo X3 Router,Lenovo,Electronics,Router,356.06,BQSY5TCQ3Z,S0000010
+P0000701,Motorola Bolt 512GB Smartphone,Motorola,Electronics,Smartphone,1018.73,B4W2136KDY,S0000001
+P0000702,boAt Pro 64GB Smartphone,boAt,Electronics,Smartphone,1477.91,BAUDHD4FGC,S0000002
+P0000703,JBL X1 32GB Laptop,JBL,Electronics,Laptop,3978.83,BTR65XR7SK,S0000003
+P0000704,Apple M3 Router,Apple,Electronics,Router,104.90,BF2THI7XAO,S0000004
+P0000705,Lenovo Lite 32GB Laptop,Lenovo,Electronics,Laptop,3135.37,BTZHWTIVZ6,S0000005
+P0000706,Sennheiser M3 Smartwatch,Sennheiser,Electronics,Smartwatch,462.18,B2J10WMXVF,S0000006
+P0000707,TP-Link Z3 128GB Tablet,TP-Link,Electronics,Tablet,853.99,BZLJW60XPD,S0000007
+P0000708,Nikon S3 Smartwatch,Nikon,Electronics,Smartwatch,942.90,B51TC40PPC,S0000008
+P0000709,Canon S1 Monitor,Canon,Electronics,Monitor,366.05,B2RQOEAGHL,S0000009
+P0000710,Nokia M3 Headphones,Nokia,Electronics,Headphones,542.33,BATWSMG93Z,S0000010
+P0000711,Audio-Technica S1 256GB Smartphone,Audio-Technica,Electronics,Smartphone,1996.07,BXUBOXRE3M,S0000001
+P0000712,LG Bolt Camera,LG,Electronics,Camera,394.33,BOBH31NJKD,S0000002
+P0000713,OnePlus Lite 32GB Laptop,OnePlus,Electronics,Laptop,2958.20,BLUSWA4TQ4,S0000003
+P0000714,Canon M3 Earbuds,Canon,Electronics,Earbuds,396.71,BX74OED7E4,S0000004
+P0000715,Sony S3 Earbuds,Sony,Electronics,Earbuds,242.91,BJYI7O1IDY,S0000005
+P0000716,Netgear M3 Headphones,Netgear,Electronics,Headphones,277.31,BXS363DYLG,S0000006
+P0000717,OPPO S3 Camera,OPPO,Electronics,Camera,1023.73,B7FAAGPOAK,S0000007
+P0000718,Audio-Technica Z3 Earbuds,Audio-Technica,Electronics,Earbuds,170.18,BACOE0KWCW,S0000008
+P0000719,JBL Pro Router,JBL,Electronics,Router,51.48,BNPO3GX7PZ,S0000009
+P0000720,Redmi Ultra TV,Redmi,Electronics,TV,1883.20,BAQ8Y707EU,S0000010
+P0000721,Audio-Technica S2 Camera,Audio-Technica,Electronics,Camera,4348.45,B7OFJVH6AR,S0000001
+P0000722,Garmin S3 Speaker,Garmin,Electronics,Speaker,329.36,B1GE7AU1HK,S0000002
+P0000723,Vivo Bolt Speaker,Vivo,Electronics,Speaker,459.71,B7ZM39MKID,S0000003
+P0000724,Xiaomi S1 Speaker,Xiaomi,Electronics,Speaker,274.28,BR3EI6HPY1,S0000004
+P0000725,HP S2 Router,HP,Electronics,Router,303.92,BU9YCI7FVO,S0000005
+P0000726,Canon M3 32GB Tablet,Canon,Electronics,Tablet,242.93,BNN6V43KT8,S0000006
+P0000727,Boult S3 Earbuds,Boult,Electronics,Earbuds,171.16,B07IA017JB,S0000007
+P0000728,Nokia Pro Monitor,Nokia,Electronics,Monitor,1648.20,BLQ4BOKF3K,S0000008
+P0000729,boAt Z3 128GB Laptop,boAt,Electronics,Laptop,1193.52,BV3MHSGE6G,S0000009
+P0000730,ASUS S3 Router,ASUS,Electronics,Router,79.47,BDYD7PV0KG,S0000010
+P0000731,Vivo X1 64GB Laptop,Vivo,Electronics,Laptop,834.99,BXJ0JCFLW5,S0000001
+P0000732,OPPO X3 256GB Tablet,OPPO,Electronics,Tablet,1257.74,BBV54AI9BO,S0000002
+P0000733,OnePlus S1 512GB Laptop,OnePlus,Electronics,Laptop,2582.94,B1XLDUYB68,S0000003
+P0000734,Apple Air 512GB Smartphone,Apple,Electronics,Smartphone,854.98,BJA71KAKE9,S0000004
+P0000735,Audio-Technica X1 Speaker,Audio-Technica,Electronics,Speaker,240.07,BOXP6EDQRT,S0000005
+P0000736,D-Link X3 Monitor,D-Link,Electronics,Monitor,399.26,B4SZUR1N69,S0000006
+P0000737,TP-Link M3 TV,TP-Link,Electronics,TV,1316.87,B6SE44YR0P,S0000007
+P0000738,JBL Ultra 32GB Laptop,JBL,Electronics,Laptop,1672.39,BGYVHQ0L47,S0000008
+P0000739,Canon Prime Headphones,Canon,Electronics,Headphones,351.64,BGSJZ1BJRF,S0000009
+P0000740,Nokia Go Smartwatch,Nokia,Electronics,Smartwatch,1041.83,BSYPD110L3,S0000010
+P0000741,GoPro Edge Monitor,GoPro,Electronics,Monitor,500.61,B38P8ZOOZP,S0000001
+P0000742,Audio-Technica X3 Speaker,Audio-Technica,Electronics,Speaker,694.54,BTMV7IZYMM,S0000002
+P0000743,Realme Prime Router,Realme,Electronics,Router,217.69,BULI5QFGXB,S0000003
+P0000744,boAt Edge Earbuds,boAt,Electronics,Earbuds,311.38,BJDRVUUT5J,S0000004
+P0000745,Apple S2 64GB Smartphone,Apple,Electronics,Smartphone,1310.09,B5E8QQ3E61,S0000005
+P0000746,Amazfit Prime Earbuds,Amazfit,Electronics,Earbuds,133.49,B0OO26JBHG,S0000006
+P0000747,Audio-Technica Neo 64GB Tablet,Audio-Technica,Electronics,Tablet,448.92,B9AEGBG72F,S0000007
+P0000748,Garmin X2 Router,Garmin,Electronics,Router,115.89,BTTNBKSBZB,S0000008
+P0000749,Lenovo X3 Speaker,Lenovo,Electronics,Speaker,597.30,BGO7Y0VACV,S0000009
+P0000750,Canon M3 Router,Canon,Electronics,Router,167.78,BG0ZNTJUU6,S0000010
+P0000751,Redmi S1 Headphones,Redmi,Electronics,Headphones,270.82,BZG8DLS4TP,S0000001
+P0000752,Apple X1 TV,Apple,Electronics,TV,778.27,BYA77M5XW4,S0000002
+P0000753,JBL S1 Speaker,JBL,Electronics,Speaker,330.31,BHZWS1SMR1,S0000003
+P0000754,Xiaomi Z3 TV,Xiaomi,Electronics,TV,1707.40,B1MHSILSF3,S0000004
+P0000755,Huawei Z3 Camera,Huawei,Electronics,Camera,2454.22,BYB0RMWQPX,S0000005
+P0000756,JBL Air TV,JBL,Electronics,TV,4811.16,BOQSEQO3HY,S0000006
+P0000757,boAt Lite Smartwatch,boAt,Electronics,Smartwatch,727.03,BFWSYSRGNX,S0000007
+P0000758,Amazfit S1 Smartwatch,Amazfit,Electronics,Smartwatch,354.28,BONDYKR9QC,S0000008
+P0000759,Garmin S3 64GB Smartphone,Garmin,Electronics,Smartphone,1785.42,BYWM5H7WCE,S0000009
+P0000760,Netgear Lite 512GB Smartphone,Netgear,Electronics,Smartphone,515.25,BRF3BKS7N1,S0000010
+P0000761,Nokia Bolt Camera,Nokia,Electronics,Camera,2219.30,B95WROTF2B,S0000001
+P0000762,ASUS Pro 32GB Smartphone,ASUS,Electronics,Smartphone,719.90,BAIXJ5P1EV,S0000002
+P0000763,MSI S3 Monitor,MSI,Electronics,Monitor,557.68,BA705PYCJ6,S0000003
+P0000764,Redmi X3 Speaker,Redmi,Electronics,Speaker,482.33,BMMPJK18I9,S0000004
+P0000765,OPPO X3 Smartwatch,OPPO,Electronics,Smartwatch,607.91,BV80NA8NT5,S0000005
+P0000766,Huawei Ultra Smartwatch,Huawei,Electronics,Smartwatch,932.57,BRRM6V02DD,S0000006
+P0000767,JBL X2 256GB Laptop,JBL,Electronics,Laptop,563.12,B9ESWXOT39,S0000007
+P0000768,Huawei Go Earbuds,Huawei,Electronics,Earbuds,352.75,BUT4277SGD,S0000008
+P0000769,Nokia S1 Router,Nokia,Electronics,Router,374.34,B4JVF5PR6A,S0000009
+P0000770,MSI Bolt Router,MSI,Electronics,Router,80.78,BU0EQM51IP,S0000010
+P0000771,Netgear Z3 Headphones,Netgear,Electronics,Headphones,258.56,BCMWFOE11M,S0000001
+P0000772,LG Prime Headphones,LG,Electronics,Headphones,661.51,BZ9C9SS34W,S0000002
+P0000773,Dell X2 Camera,Dell,Electronics,Camera,2181.90,B9TBQU1KMS,S0000003
+P0000774,Nokia X3 Headphones,Nokia,Electronics,Headphones,311.91,B8NHKWPHJM,S0000004
+P0000775,LG Edge Earbuds,LG,Electronics,Earbuds,293.58,BSUD3Y8JHP,S0000005
+P0000776,Xiaomi Lite 256GB Smartphone,Xiaomi,Electronics,Smartphone,1945.53,BBU0FOLMUV,S0000006
+P0000777,OPPO X2 Monitor,OPPO,Electronics,Monitor,1370.86,B6JFQYGV7W,S0000007
+P0000778,MSI S2 512GB Tablet,MSI,Electronics,Tablet,738.19,BQIDI95JKC,S0000008
+P0000779,Boult Z3 64GB Smartphone,Boult,Electronics,Smartphone,326.42,B0BCZU8QDZ,S0000009
+P0000780,Realme Lite 128GB Smartphone,Realme,Electronics,Smartphone,299.17,BLNBH36RW0,S0000010
+P0000781,Nikon S2 Camera,Nikon,Electronics,Camera,3949.47,BY87VA52YP,S0000001
+P0000782,Xiaomi S1 Smartwatch,Xiaomi,Electronics,Smartwatch,762.47,BX087WAG4V,S0000002
+P0000783,Marshall Bolt Smartwatch,Marshall,Electronics,Smartwatch,273.93,BYDVXRIPH4,S0000003
+P0000784,D-Link Lite Headphones,D-Link,Electronics,Headphones,576.06,BQLDF9IBIL,S0000004
+P0000785,Netgear X2 128GB Laptop,Netgear,Electronics,Laptop,768.37,BTRO0YW0PR,S0000005
+P0000786,Motorola Prime Monitor,Motorola,Electronics,Monitor,1004.21,BOS4Q9MC5X,S0000006
+P0000787,Lenovo X1 512GB Tablet,Lenovo,Electronics,Tablet,877.48,B3DOR32MW7,S0000007
+P0000788,Audio-Technica Bolt TV,Audio-Technica,Electronics,TV,4228.77,BRLRPSGC7J,S0000008
+P0000789,JBL Ultra 128GB Smartphone,JBL,Electronics,Smartphone,1121.20,B61N23FCEU,S0000009
+P0000790,Amazfit Lite 32GB Laptop,Amazfit,Electronics,Laptop,3543.95,BLTR3KHPN9,S0000010
+P0000791,Realme Pro 512GB Smartphone,Realme,Electronics,Smartphone,1456.85,BJADUQPE1S,S0000001
+P0000792,ASUS Prime TV,ASUS,Electronics,TV,4696.11,BD9TR93CKP,S0000002
+P0000793,Amazfit X2 TV,Amazfit,Electronics,TV,3751.19,BLT2BGK2UP,S0000003
+P0000794,LG M3 Router,LG,Electronics,Router,341.25,B8QXNPHEO6,S0000004
+P0000795,OPPO Neo Headphones,OPPO,Electronics,Headphones,305.46,BNBZ4W258H,S0000005
+P0000796,JBL X2 32GB Tablet,JBL,Electronics,Tablet,540.66,BQJU1LCUAJ,S0000006
+P0000797,Garmin Edge Smartwatch,Garmin,Electronics,Smartwatch,312.13,BIPYNI8WES,S0000007
+P0000798,TP-Link Go Router,TP-Link,Electronics,Router,127.58,BYRPHLVA86,S0000008
+P0000799,Apple Prime Monitor,Apple,Electronics,Monitor,751.85,BTV8KBMQW3,S0000009
+P0000800,ASUS Z3 Router,ASUS,Electronics,Router,109.73,B56BVNPN4F,S0000010
+P0000801,TP-Link Neo 512GB Smartphone,TP-Link,Electronics,Smartphone,961.43,BXWFIUBSOR,S0000001
+P0000802,OPPO Edge 128GB Tablet,OPPO,Electronics,Tablet,1131.69,BM8YVE1FOU,S0000002
+P0000803,Audio-Technica Z3 Earbuds,Audio-Technica,Electronics,Earbuds,239.81,BC06RGG0FN,S0000003
+P0000804,OPPO Bolt TV,OPPO,Electronics,TV,614.22,BDO30QBAPW,S0000004
+P0000805,HP Pro Headphones,HP,Electronics,Headphones,458.58,B75XM6Y6UQ,S0000005
+P0000806,Amazfit Pro Router,Amazfit,Electronics,Router,379.92,BVYCNQZAEF,S0000006
+P0000807,Redmi X2 64GB Laptop,Redmi,Electronics,Laptop,682.10,B9VP8FRZRF,S0000007
+P0000808,Marshall X3 Monitor,Marshall,Electronics,Monitor,1373.44,B3NH46V0DM,S0000008
+P0000809,Vivo M3 256GB Smartphone,Vivo,Electronics,Smartphone,1704.49,BMTX942V4G,S0000009
+P0000810,Amazfit X2 64GB Laptop,Amazfit,Electronics,Laptop,3382.81,BD6SXZZ3Y1,S0000010
+P0000811,Sennheiser Z3 Headphones,Sennheiser,Electronics,Headphones,552.39,B76L9BR8T9,S0000001
+P0000812,Canon Lite Earbuds,Canon,Electronics,Earbuds,138.37,BN7RDZ71Y1,S0000002
+P0000813,Boult X3 Headphones,Boult,Electronics,Headphones,652.97,BYTRF6TXWK,S0000003
+P0000814,Nikon Edge Headphones,Nikon,Electronics,Headphones,472.09,BIYPDMW4QL,S0000004
+P0000815,Sennheiser S2 64GB Smartphone,Sennheiser,Electronics,Smartphone,1209.43,BA21008VMY,S0000005
+P0000816,Nikon X1 32GB Tablet,Nikon,Electronics,Tablet,1139.17,BW0GB08O5E,S0000006
+P0000817,Lenovo S1 Speaker,Lenovo,Electronics,Speaker,304.34,BOXL8HRGU0,S0000007
+P0000818,Lenovo S3 64GB Smartphone,Lenovo,Electronics,Smartphone,1988.69,B3B0RLQ3OG,S0000008
+P0000819,Garmin X2 Speaker,Garmin,Electronics,Speaker,704.94,BENV6KW87L,S0000009
+P0000820,Garmin Prime Smartwatch,Garmin,Electronics,Smartwatch,872.25,B5XOKV69NX,S0000010
+P0000821,Sennheiser Go 64GB Smartphone,Sennheiser,Electronics,Smartphone,1956.98,B5Q48U51XF,S0000001
+P0000822,Nikon X3 32GB Tablet,Nikon,Electronics,Tablet,1410.85,BSD96DTHID,S0000002
+P0000823,Amazfit Z3 Camera,Amazfit,Electronics,Camera,4252.26,BL8N0BTBGJ,S0000003
+P0000824,GoPro Go 128GB Laptop,GoPro,Electronics,Laptop,3194.27,BZWORSU318,S0000004
+P0000825,Amazfit Neo Smartwatch,Amazfit,Electronics,Smartwatch,849.88,BUIL9LUC7C,S0000005
+P0000826,Motorola X2 TV,Motorola,Electronics,TV,2959.01,BD8AHD33SH,S0000006
+P0000827,Samsung Pro Smartwatch,Samsung,Electronics,Smartwatch,512.15,BD2V9ZLNHA,S0000007
+P0000828,Amazfit M3 Headphones,Amazfit,Electronics,Headphones,500.42,BLWDX669VB,S0000008
+P0000829,TP-Link Bolt 32GB Laptop,TP-Link,Electronics,Laptop,1289.37,BM2ABWK1GZ,S0000009
+P0000830,Netgear Pro Monitor,Netgear,Electronics,Monitor,1700.05,BLF91VE8LN,S0000010
+P0000831,JBL M3 Headphones,JBL,Electronics,Headphones,123.49,BFRM3AZ1YJ,S0000001
+P0000832,boAt S3 Smartwatch,boAt,Electronics,Smartwatch,477.88,BIQ8XP544V,S0000002
+P0000833,Canon Pro 32GB Laptop,Canon,Electronics,Laptop,962.29,BM5RZCLMII,S0000003
+P0000834,GoPro Neo Headphones,GoPro,Electronics,Headphones,491.23,BL95E6IYVR,S0000004
+P0000835,Dell Neo Speaker,Dell,Electronics,Speaker,187.26,B1EQGK2ZJM,S0000005
+P0000836,Boult Z3 256GB Smartphone,Boult,Electronics,Smartphone,1495.90,BYCZ8RHGAU,S0000006
+P0000837,Garmin Lite Headphones,Garmin,Electronics,Headphones,312.64,B2VB35MAXE,S0000007
+P0000838,Realme Ultra Headphones,Realme,Electronics,Headphones,57.77,BKGCCUFTBO,S0000008
+P0000839,Xiaomi S2 Monitor,Xiaomi,Electronics,Monitor,1796.94,BD6WPN36WA,S0000009
+P0000840,MSI Edge 512GB Laptop,MSI,Electronics,Laptop,570.23,B0UGHDJO0Z,S0000010
+P0000841,TP-Link S3 32GB Smartphone,TP-Link,Electronics,Smartphone,1478.78,BMYNWYFKWX,S0000001
+P0000842,Redmi Neo Earbuds,Redmi,Electronics,Earbuds,355.65,BTHGD3R2QT,S0000002
+P0000843,GoPro Edge 256GB Tablet,GoPro,Electronics,Tablet,1217.01,BLB7Z13XNJ,S0000003
+P0000844,Lenovo Ultra Speaker,Lenovo,Electronics,Speaker,220.42,BA40U72A3S,S0000004
+P0000845,Nikon Edge 512GB Smartphone,Nikon,Electronics,Smartphone,938.43,B8EQRJUJSS,S0000005
+P0000846,OPPO Pro Headphones,OPPO,Electronics,Headphones,348.64,B50TUQ03LB,S0000006
+P0000847,Boult M3 Router,Boult,Electronics,Router,246.54,BW7O28TZG4,S0000007
+P0000848,Lenovo S1 Speaker,Lenovo,Electronics,Speaker,212.57,BLJXOBH1MD,S0000008
+P0000849,TP-Link Lite Smartwatch,TP-Link,Electronics,Smartwatch,392.40,B0O18CWF4D,S0000009
+P0000850,Xiaomi Bolt Router,Xiaomi,Electronics,Router,365.46,BCWWJZT6G1,S0000010
+P0000851,Xiaomi S2 Camera,Xiaomi,Electronics,Camera,4121.14,B0N9QY1U1W,S0000001
+P0000852,Nikon Go Speaker,Nikon,Electronics,Speaker,135.97,B5SCE7XSJA,S0000002
+P0000853,HP Edge 128GB Smartphone,HP,Electronics,Smartphone,519.60,BPT9KOPC24,S0000003
+P0000854,Sennheiser S2 Router,Sennheiser,Electronics,Router,119.30,BT0XDXX6RH,S0000004
+P0000855,Boult Ultra Router,Boult,Electronics,Router,160.90,BXNUWLT9O4,S0000005
+P0000856,GoPro Pro Speaker,GoPro,Electronics,Speaker,748.50,BL42LRB4QV,S0000006
+P0000857,HP Go Camera,HP,Electronics,Camera,2687.17,B53YLQH1YC,S0000007
+P0000858,Marshall Pro 512GB Laptop,Marshall,Electronics,Laptop,2919.42,BSUZGKA7KK,S0000008
+P0000859,D-Link Bolt Monitor,D-Link,Electronics,Monitor,1031.12,B1YCVDMMP3,S0000009
+P0000860,Motorola M3 TV,Motorola,Electronics,TV,351.28,BU7Q1Q58P1,S0000010
+P0000861,OnePlus M3 Router,OnePlus,Electronics,Router,263.06,BY2MRWADB1,S0000001
+P0000862,Motorola Z3 TV,Motorola,Electronics,TV,4331.08,BO6L44S0ZM,S0000002
+P0000863,Apple M3 Earbuds,Apple,Electronics,Earbuds,211.96,BBWGD37E85,S0000003
+P0000864,Boult Go 512GB Tablet,Boult,Electronics,Tablet,879.81,BOJ5RB20U2,S0000004
+P0000865,Realme S2 Headphones,Realme,Electronics,Headphones,131.94,BTVF9TBPAO,S0000005
+P0000866,HP Pro 512GB Laptop,HP,Electronics,Laptop,3849.14,B0YAMX7Q1M,S0000006
+P0000867,boAt Air 32GB Laptop,boAt,Electronics,Laptop,1826.54,BSHEYB5W2B,S0000007
+P0000868,Nokia Prime Router,Nokia,Electronics,Router,141.75,BU3M9AP4XX,S0000008
+P0000869,Vivo Prime Smartwatch,Vivo,Electronics,Smartwatch,857.16,BUERZOMTLO,S0000009
+P0000870,ASUS S3 Router,ASUS,Electronics,Router,167.71,BLB4QNTHGT,S0000010
+P0000871,Sennheiser X1 Monitor,Sennheiser,Electronics,Monitor,975.71,B6S1T4YDFR,S0000001
+P0000872,HP Lite 256GB Laptop,HP,Electronics,Laptop,481.99,BKLFNJG2XP,S0000002
+P0000873,Amazfit Pro 64GB Tablet,Amazfit,Electronics,Tablet,1339.56,BCYF9Y1ZU5,S0000003
+P0000874,Marshall Lite Monitor,Marshall,Electronics,Monitor,1041.12,BFZLJDJESX,S0000004
+P0000875,Sony Ultra Speaker,Sony,Electronics,Speaker,498.00,BOABDA29P4,S0000005
+P0000876,Dell M3 Speaker,Dell,Electronics,Speaker,444.07,B0XRPPUV5T,S0000006
+P0000877,Garmin Neo 256GB Tablet,Garmin,Electronics,Tablet,628.68,BAIUBN8RIU,S0000007
+P0000878,LG Edge Camera,LG,Electronics,Camera,4195.82,B54XY06JBD,S0000008
+P0000879,GoPro X1 Headphones,GoPro,Electronics,Headphones,523.49,BHBXDQVEJ4,S0000009
+P0000880,Redmi X3 Smartwatch,Redmi,Electronics,Smartwatch,133.96,BSGOD5SES3,S0000010
+P0000881,Nokia Ultra Earbuds,Nokia,Electronics,Earbuds,43.25,B5OVQGQBHU,S0000001
+P0000882,Canon Edge 128GB Tablet,Canon,Electronics,Tablet,980.53,BH5GYHQ0E3,S0000002
+P0000883,Motorola Bolt Monitor,Motorola,Electronics,Monitor,414.60,BTZ2DZYNGT,S0000003
+P0000884,Sony S2 Router,Sony,Electronics,Router,261.67,BYS6VFUOXK,S0000004
+P0000885,Huawei S3 Earbuds,Huawei,Electronics,Earbuds,234.76,BMLFJCEUKM,S0000005
+P0000886,Dell Go Smartwatch,Dell,Electronics,Smartwatch,517.31,B602SDZAAW,S0000006
+P0000887,Apple Lite Speaker,Apple,Electronics,Speaker,621.43,BL3QPOKW2N,S0000007
+P0000888,Realme S3 Smartwatch,Realme,Electronics,Smartwatch,336.04,BEJ52GS07Q,S0000008
+P0000889,Sennheiser S3 Router,Sennheiser,Electronics,Router,153.02,BQPQ53NIBC,S0000009
+P0000890,GoPro Go TV,GoPro,Electronics,TV,4038.32,B4QVVTARIF,S0000010
+P0000891,Huawei X3 Earbuds,Huawei,Electronics,Earbuds,170.08,BNUI6LD6P0,S0000001
+P0000892,Boult Edge Speaker,Boult,Electronics,Speaker,211.08,B0MXY3LI1M,S0000002
+P0000893,Samsung Bolt Router,Samsung,Electronics,Router,227.01,BMQHGFSD0J,S0000003
+P0000894,Samsung Prime Speaker,Samsung,Electronics,Speaker,688.43,BG4IZW2OB3,S0000004
+P0000895,boAt Pro 64GB Smartphone,boAt,Electronics,Smartphone,239.70,BVLT7E1X5O,S0000005
+P0000896,Canon S3 Smartwatch,Canon,Electronics,Smartwatch,488.59,B78P17MDFQ,S0000006
+P0000897,JBL Z3 Smartwatch,JBL,Electronics,Smartwatch,720.84,BMQGPEEY4B,S0000007
+P0000898,MSI X3 Camera,MSI,Electronics,Camera,1913.98,BFZM3AC0KO,S0000008
+P0000899,Redmi S1 512GB Smartphone,Redmi,Electronics,Smartphone,1261.69,BP7XYEU8G8,S0000009
+P0000900,Vivo Lite Camera,Vivo,Electronics,Camera,3898.06,BQEDAHTICD,S0000010
+P0000901,Amazfit Lite Speaker,Amazfit,Electronics,Speaker,790.74,BWFUU80WJH,S0000001
+P0000902,Samsung Go 128GB Laptop,Samsung,Electronics,Laptop,1599.58,BLQ25FNLRN,S0000002
+P0000903,Realme Pro Speaker,Realme,Electronics,Speaker,535.40,B68LLXQDGQ,S0000003
+P0000904,Apple Air Headphones,Apple,Electronics,Headphones,521.66,B4CVMMLQ76,S0000004
+P0000905,Nikon Z3 Smartwatch,Nikon,Electronics,Smartwatch,101.19,BTOBCYX7DL,S0000005
+P0000906,Sony S1 64GB Smartphone,Sony,Electronics,Smartphone,1307.85,BI6IJB0Y0N,S0000006
+P0000907,Xiaomi Air 64GB Tablet,Xiaomi,Electronics,Tablet,450.53,BU0OJHAA6I,S0000007
+P0000908,Marshall Go Headphones,Marshall,Electronics,Headphones,125.51,B8GJJVEBC1,S0000008
+P0000909,Lenovo Neo Router,Lenovo,Electronics,Router,286.77,B8EV0ZNK1X,S0000009
+P0000910,Lenovo Air TV,Lenovo,Electronics,TV,3276.82,BDFVVVYBB6,S0000010
+P0000911,JBL Neo Router,JBL,Electronics,Router,245.56,B6EPNGCZ7E,S0000001
+P0000912,Motorola Air 512GB Smartphone,Motorola,Electronics,Smartphone,500.60,B6W0390CVX,S0000002
+P0000913,Nokia Bolt Earbuds,Nokia,Electronics,Earbuds,189.95,BWFY7MSK50,S0000003
+P0000914,Sony Bolt Router,Sony,Electronics,Router,218.98,BJ8U52CB4I,S0000004
+P0000915,TP-Link Lite TV,TP-Link,Electronics,TV,4466.44,BZYNXBKEWY,S0000005
+P0000916,boAt Z3 TV,boAt,Electronics,TV,1999.60,B7VVWYPNJE,S0000006
+P0000917,JBL Neo Speaker,JBL,Electronics,Speaker,115.08,BDU58655ID,S0000007
+P0000918,GoPro X2 Monitor,GoPro,Electronics,Monitor,760.69,BBVQBLZ0D9,S0000008
+P0000919,Huawei Edge Earbuds,Huawei,Electronics,Earbuds,73.38,BB1HN1YQ8A,S0000009
+P0000920,Sony S2 TV,Sony,Electronics,TV,4556.73,BO3KPRHMG2,S0000010
+P0000921,JBL Prime Smartwatch,JBL,Electronics,Smartwatch,155.59,BLEAKBTCVB,S0000001
+P0000922,Canon X1 Earbuds,Canon,Electronics,Earbuds,353.97,B1JI9TSY72,S0000002
+P0000923,Lenovo Prime Router,Lenovo,Electronics,Router,209.83,BZK72IGWPF,S0000003
+P0000924,Xiaomi X3 256GB Tablet,Xiaomi,Electronics,Tablet,307.07,BM6W0R503J,S0000004
+P0000925,LG S3 32GB Tablet,LG,Electronics,Tablet,453.75,BQBYY6O40K,S0000005
+P0000926,Xiaomi Go Camera,Xiaomi,Electronics,Camera,4517.05,B7V6T66IW1,S0000006
+P0000927,Dell M3 Camera,Dell,Electronics,Camera,2949.64,BHU882MGJC,S0000007
+P0000928,Huawei X2 Smartwatch,Huawei,Electronics,Smartwatch,451.33,BDF9K7XEA4,S0000008
+P0000929,Huawei Z3 Smartwatch,Huawei,Electronics,Smartwatch,822.72,BZ6DZJJTLD,S0000009
+P0000930,GoPro X1 512GB Tablet,GoPro,Electronics,Tablet,916.37,BSXJ9W1N0T,S0000010
+P0000931,JBL Bolt 512GB Tablet,JBL,Electronics,Tablet,760.79,BPHJDNZTSB,S0000001
+P0000932,boAt Z3 Monitor,boAt,Electronics,Monitor,832.30,B3GC4QDSEU,S0000002
+P0000933,D-Link Z3 Speaker,D-Link,Electronics,Speaker,657.52,BFA4R6NVLM,S0000003
+P0000934,Netgear X3 Speaker,Netgear,Electronics,Speaker,105.23,BO9F66CUJZ,S0000004
+P0000935,Xiaomi S3 Headphones,Xiaomi,Electronics,Headphones,160.74,BBQ5MQ85TF,S0000005
+P0000936,Garmin S3 Camera,Garmin,Electronics,Camera,3502.04,B8D391AB95,S0000006
+P0000937,TP-Link Air Camera,TP-Link,Electronics,Camera,1474.12,B387Z3WK17,S0000007
+P0000938,GoPro Air Speaker,GoPro,Electronics,Speaker,144.71,BJYFDJSRBS,S0000008
+P0000939,TP-Link S1 Router,TP-Link,Electronics,Router,65.23,BTRG5EM0SN,S0000009
+P0000940,Huawei M3 Headphones,Huawei,Electronics,Headphones,511.85,B6JO5FPJMZ,S0000010
+P0000941,MSI Neo Headphones,MSI,Electronics,Headphones,301.08,BM21VMS1L3,S0000001
+P0000942,Samsung Air 256GB Smartphone,Samsung,Electronics,Smartphone,1899.85,BWRYNXCI88,S0000002
+P0000943,D-Link Edge 128GB Smartphone,D-Link,Electronics,Smartphone,239.65,BXSK2V5Z4O,S0000003
+P0000944,Huawei M3 Camera,Huawei,Electronics,Camera,621.04,BUZSTKNMXO,S0000004
+P0000945,Realme Edge TV,Realme,Electronics,TV,688.59,BS17JWQOIS,S0000005
+P0000946,OPPO Pro 256GB Smartphone,OPPO,Electronics,Smartphone,663.77,BCS8ZLHZ77,S0000006
+P0000947,Dell Bolt Router,Dell,Electronics,Router,335.07,BZNOSCHM97,S0000007
+P0000948,Lenovo Neo Headphones,Lenovo,Electronics,Headphones,212.38,BCYIWW9PDR,S0000008
+P0000949,Sennheiser Pro Speaker,Sennheiser,Electronics,Speaker,144.88,BXAPVP3PCV,S0000009
+P0000950,Netgear Lite 256GB Tablet,Netgear,Electronics,Tablet,1340.51,BFP4C1C5SR,S0000010
+P0000951,Apple M3 Earbuds,Apple,Electronics,Earbuds,299.69,BOUYAN6C8W,S0000001
+P0000952,Huawei S1 Router,Huawei,Electronics,Router,344.56,BTMXL5DRET,S0000002
+P0000953,Huawei Go Earbuds,Huawei,Electronics,Earbuds,278.05,BB1ZU7EXI7,S0000003
+P0000954,Netgear Bolt Smartwatch,Netgear,Electronics,Smartwatch,1004.52,BH1V6CYF16,S0000004
+P0000955,LG M3 Headphones,LG,Electronics,Headphones,313.53,BFNWHDNZWQ,S0000005
+P0000956,Sony Prime 512GB Tablet,Sony,Electronics,Tablet,1369.33,B7U48YRIX4,S0000006
+P0000957,Canon Air 64GB Smartphone,Canon,Electronics,Smartphone,1342.76,BQBTL627XK,S0000007
+P0000958,Lenovo Ultra Headphones,Lenovo,Electronics,Headphones,245.83,BLSONJTB33,S0000008
+P0000959,GoPro S1 256GB Laptop,GoPro,Electronics,Laptop,2203.40,BUOS3EZBIY,S0000009
+P0000960,Dell Prime Headphones,Dell,Electronics,Headphones,129.01,BVU2OQPSNK,S0000010
+P0000961,Boult Go 512GB Laptop,Boult,Electronics,Laptop,1009.05,BTRQWQZBJB,S0000001
+P0000962,Samsung X3 Router,Samsung,Electronics,Router,398.22,B6FBY1H40U,S0000002
+P0000963,Marshall Prime 32GB Smartphone,Marshall,Electronics,Smartphone,390.79,B89BCIJCYE,S0000003
+P0000964,Motorola Ultra Headphones,Motorola,Electronics,Headphones,385.36,B6MY4L22RV,S0000004
+P0000965,OnePlus Z3 Router,OnePlus,Electronics,Router,68.59,BDYGEKF41Y,S0000005
+P0000966,ASUS Go Smartwatch,ASUS,Electronics,Smartwatch,1131.65,BDNRUJPY04,S0000006
+P0000967,Sennheiser Go Headphones,Sennheiser,Electronics,Headphones,110.04,BVL7WJ2M4H,S0000007
+P0000968,Marshall Edge Camera,Marshall,Electronics,Camera,2769.24,BPL0HZJ90D,S0000008
+P0000969,HP S1 Speaker,HP,Electronics,Speaker,485.30,BZQF4FJ273,S0000009
+P0000970,Xiaomi X3 Camera,Xiaomi,Electronics,Camera,4391.03,BBO79ELWDW,S0000010
+P0000971,MSI M3 Camera,MSI,Electronics,Camera,3290.33,BYAV8FKE1T,S0000001
+P0000972,TP-Link Prime Earbuds,TP-Link,Electronics,Earbuds,366.57,B30KME11R9,S0000002
+P0000973,Huawei X2 Camera,Huawei,Electronics,Camera,1561.43,B9UCQZN05J,S0000003
+P0000974,D-Link S2 256GB Smartphone,D-Link,Electronics,Smartphone,511.91,BEW8RH31EK,S0000004
+P0000975,Nikon S1 Monitor,Nikon,Electronics,Monitor,484.18,B7FIWL9FUE,S0000005
+P0000976,Dell Z3 Earbuds,Dell,Electronics,Earbuds,279.41,B02YSXFJ60,S0000006
+P0000977,Boult Go Headphones,Boult,Electronics,Headphones,133.94,BDCKJE68ZK,S0000007
+P0000978,Sennheiser Bolt Router,Sennheiser,Electronics,Router,351.43,BTHYTVV7SJ,S0000008
+P0000979,Garmin X3 Earbuds,Garmin,Electronics,Earbuds,56.85,BYM6GB4DQW,S0000009
+P0000980,Vivo S3 Monitor,Vivo,Electronics,Monitor,1874.80,BL3PY6EIK1,S0000010
+P0000981,OnePlus Go Camera,OnePlus,Electronics,Camera,3824.74,BXP31AFFM2,S0000001
+P0000982,OPPO M3 TV,OPPO,Electronics,TV,3447.51,B8FJFREMXZ,S0000002
+P0000983,Apple Go Headphones,Apple,Electronics,Headphones,455.33,BWOFBJQ5Q8,S0000003
+P0000984,Sennheiser Pro Camera,Sennheiser,Electronics,Camera,328.85,B2RSRLOQ2Z,S0000004
+P0000985,Apple Prime TV,Apple,Electronics,TV,836.27,B54URW7OHX,S0000005
+P0000986,D-Link Air Monitor,D-Link,Electronics,Monitor,1726.94,BMMV2N7Q0N,S0000006
+P0000987,Xiaomi S3 Camera,Xiaomi,Electronics,Camera,2786.16,B0DHJKGT5Z,S0000007
+P0000988,GoPro Lite Smartwatch,GoPro,Electronics,Smartwatch,1008.31,BVPCPYFV54,S0000008
+P0000989,Sony Z3 Router,Sony,Electronics,Router,282.67,BFT7MBZALB,S0000009
+P0000990,Audio-Technica Lite Router,Audio-Technica,Electronics,Router,359.35,B8KLL9HVEN,S0000010
+P0000991,Dell Go Smartwatch,Dell,Electronics,Smartwatch,566.17,BW7XHJ1U41,S0000001
+P0000992,OPPO X3 Speaker,OPPO,Electronics,Speaker,271.36,BRJHVGX0MH,S0000002
+P0000993,D-Link Air Earbuds,D-Link,Electronics,Earbuds,350.02,BH0Z0382GF,S0000003
+P0000994,TP-Link X2 Camera,TP-Link,Electronics,Camera,612.93,BVX7PHITP2,S0000004
+P0000995,Apple X3 Smartwatch,Apple,Electronics,Smartwatch,1187.31,B02LNDIQTO,S0000005
+P0000996,Canon S1 512GB Laptop,Canon,Electronics,Laptop,427.98,B5Y4JCGFHI,S0000006
+P0000997,boAt S2 Earbuds,boAt,Electronics,Earbuds,87.24,BFWNYBPMX2,S0000007
+P0000998,JBL Prime Monitor,JBL,Electronics,Monitor,781.68,BYBZHWZKUX,S0000008
+P0000999,TP-Link Edge Speaker,TP-Link,Electronics,Speaker,617.17,BKA5VRF4HP,S0000009
+P0001000,JBL X1 Earbuds,JBL,Electronics,Earbuds,223.40,BX8MJQZ8L0,S0000010
+P0001001,OPPO Go Camera,OPPO,Electronics,Camera,1674.02,BVMF226JJ2,S0000001
+P0001002,OnePlus M3 Monitor,OnePlus,Electronics,Monitor,541.96,BXLETYF5JE,S0000002
+P0001003,Apple Edge Smartwatch,Apple,Electronics,Smartwatch,547.42,BAN5JMLY6X,S0000003
+P0001004,Xiaomi Prime Smartwatch,Xiaomi,Electronics,Smartwatch,756.08,BNWNNT055V,S0000004
+P0001005,Marshall Lite Camera,Marshall,Electronics,Camera,828.08,BUKKS8F52B,S0000005
+P0001006,Nokia Go Camera,Nokia,Electronics,Camera,3058.27,BDTGEAA2D9,S0000006
+P0001007,Garmin Neo 64GB Smartphone,Garmin,Electronics,Smartphone,868.55,BOAM9LTPW1,S0000007
+P0001008,GoPro S3 Headphones,GoPro,Electronics,Headphones,667.50,B8HA068SQ7,S0000008
+P0001009,Huawei X2 Headphones,Huawei,Electronics,Headphones,89.62,BPKSBNDHUF,S0000009
+P0001010,Motorola X3 128GB Tablet,Motorola,Electronics,Tablet,157.10,BW01VDTFZW,S0000010
+P0001011,ASUS Prime Headphones,ASUS,Electronics,Headphones,488.09,BKU1FTGKP2,S0000001
+P0001012,MSI Edge TV,MSI,Electronics,TV,4499.94,B5BJRPD6G6,S0000002
+P0001013,TP-Link S2 TV,TP-Link,Electronics,TV,4623.40,B3ODYMC818,S0000003
+P0001014,Redmi Ultra Monitor,Redmi,Electronics,Monitor,1014.63,B79QFBVXB3,S0000004
+P0001015,ASUS Edge Monitor,ASUS,Electronics,Monitor,1586.82,BVFG59YQN3,S0000005
+P0001016,Garmin M3 TV,Garmin,Electronics,TV,3393.49,B0CABXMRK6,S0000006
+P0001017,OnePlus X1 TV,OnePlus,Electronics,TV,1222.23,BU911F3MKA,S0000007
+P0001018,Nokia Edge Monitor,Nokia,Electronics,Monitor,839.09,BDNCUNQH48,S0000008
+P0001019,Garmin M3 64GB Laptop,Garmin,Electronics,Laptop,776.55,BKLZQT5CAS,S0000009
+P0001020,Marshall Neo Router,Marshall,Electronics,Router,260.38,B0OL01LO39,S0000010
+P0001021,Samsung Bolt Earbuds,Samsung,Electronics,Earbuds,199.87,BA444IH1YX,S0000001
+P0001022,HP Go 256GB Laptop,HP,Electronics,Laptop,2600.75,BFQBJBB4E3,S0000002
+P0001023,TP-Link Pro 512GB Laptop,TP-Link,Electronics,Laptop,581.53,B113B6UXSM,S0000003
+P0001024,TP-Link Pro Monitor,TP-Link,Electronics,Monitor,458.81,B5REBTKHVC,S0000004
+P0001025,Garmin M3 Monitor,Garmin,Electronics,Monitor,1756.73,BI4SS1ARY4,S0000005
+P0001026,D-Link Pro Earbuds,D-Link,Electronics,Earbuds,162.50,BB6TG6CTNQ,S0000006
+P0001027,Lenovo X1 32GB Tablet,Lenovo,Electronics,Tablet,1240.07,BZIFP0QVX8,S0000007
+P0001028,Motorola Pro Smartwatch,Motorola,Electronics,Smartwatch,941.14,B697PJPEX1,S0000008
+P0001029,Sony Go Speaker,Sony,Electronics,Speaker,341.67,BVEQ72IAZS,S0000009
+P0001030,boAt Neo 512GB Smartphone,boAt,Electronics,Smartphone,1419.12,B9JCNCLUQS,S0000010
+P0001031,GoPro Edge Headphones,GoPro,Electronics,Headphones,400.47,BFUKNJ057L,S0000001
+P0001032,Amazfit Lite Smartwatch,Amazfit,Electronics,Smartwatch,238.96,B5LSVHKQ40,S0000002
+P0001033,JBL Pro TV,JBL,Electronics,TV,4498.56,BQSZ5QQYI7,S0000003
+P0001034,Marshall Neo Smartwatch,Marshall,Electronics,Smartwatch,492.45,BUE7JG814V,S0000004
+P0001035,Amazfit Neo Earbuds,Amazfit,Electronics,Earbuds,192.39,BUAMQ44OFB,S0000005
+P0001036,ASUS S1 Earbuds,ASUS,Electronics,Earbuds,76.95,BBD50TPPOU,S0000006
+P0001037,TP-Link Neo Earbuds,TP-Link,Electronics,Earbuds,92.22,BB7RKO0CJW,S0000007
+P0001038,HP Lite Headphones,HP,Electronics,Headphones,650.62,B58OFJ29IO,S0000008
+P0001039,Xiaomi Lite Headphones,Xiaomi,Electronics,Headphones,551.58,B3AITIQJE8,S0000009
+P0001040,MSI Lite TV,MSI,Electronics,TV,477.31,BAZJOVVDS8,S0000010
+P0001041,Motorola Air Earbuds,Motorola,Electronics,Earbuds,196.12,BG8PT623FS,S0000001
+P0001042,Marshall Neo Router,Marshall,Electronics,Router,80.30,BP3SMYV9RX,S0000002
+P0001043,Huawei Pro TV,Huawei,Electronics,TV,265.62,BPLE7XJFX5,S0000003
+P0001044,Samsung Air 64GB Smartphone,Samsung,Electronics,Smartphone,731.49,BIBJWGSPRN,S0000004
+P0001045,Sony M3 32GB Tablet,Sony,Electronics,Tablet,598.50,BK7HPEENRT,S0000005
+P0001046,Realme X3 128GB Smartphone,Realme,Electronics,Smartphone,880.71,BBEII3BQTJ,S0000006
+P0001047,TP-Link Lite Speaker,TP-Link,Electronics,Speaker,631.52,BDYYVY7EMC,S0000007
+P0001048,Vivo S2 TV,Vivo,Electronics,TV,2705.94,BZMUOD2DX2,S0000008
+P0001049,Marshall S3 64GB Smartphone,Marshall,Electronics,Smartphone,1780.59,B47SJVWZ6I,S0000009
+P0001050,Sennheiser X2 Speaker,Sennheiser,Electronics,Speaker,293.57,BG9MZHF2JC,S0000010
+P0001051,HP Edge TV,HP,Electronics,TV,2399.13,BN11J2LOC8,S0000001
+P0001052,Nokia M3 Speaker,Nokia,Electronics,Speaker,54.66,BBH4CZOQWX,S0000002
+P0001053,Amazfit S3 Headphones,Amazfit,Electronics,Headphones,224.58,BHXQF7807T,S0000003
+P0001054,TP-Link Prime Smartwatch,TP-Link,Electronics,Smartwatch,203.24,BHRBNXX6WD,S0000004
+P0001055,Huawei Z3 Camera,Huawei,Electronics,Camera,3940.05,B862N716L5,S0000005
+P0001056,Boult Prime 256GB Tablet,Boult,Electronics,Tablet,785.07,BFJ54I7IZS,S0000006
+P0001057,Nikon S2 Router,Nikon,Electronics,Router,214.21,B64Y4ARH7G,S0000007
+P0001058,Marshall Neo 64GB Tablet,Marshall,Electronics,Tablet,851.42,B8YNDREEHB,S0000008
+P0001059,Motorola S3 Earbuds,Motorola,Electronics,Earbuds,44.78,B0SE60EQKL,S0000009
+P0001060,Dell Lite Headphones,Dell,Electronics,Headphones,667.17,B5Y56LRYLE,S0000010
+P0001061,Lenovo M3 TV,Lenovo,Electronics,TV,1058.85,BV7XJRZ6DP,S0000001
+P0001062,OPPO X3 Monitor,OPPO,Electronics,Monitor,1080.87,B4LQ0F9HPO,S0000002
+P0001063,Vivo X3 128GB Laptop,Vivo,Electronics,Laptop,2055.67,B0YHA5KX8M,S0000003
+P0001064,OnePlus S2 Monitor,OnePlus,Electronics,Monitor,849.53,BRMNM2J5PO,S0000004
+P0001065,MSI Z3 Router,MSI,Electronics,Router,186.20,BWCD96AZJX,S0000005
+P0001066,Boult Bolt Camera,Boult,Electronics,Camera,367.98,BX4OVEUOLT,S0000006
+P0001067,Boult Pro Headphones,Boult,Electronics,Headphones,292.76,BILRGYI82A,S0000007
+P0001068,Garmin Pro Headphones,Garmin,Electronics,Headphones,533.22,B7AZ9SVC96,S0000008
+P0001069,MSI Lite Monitor,MSI,Electronics,Monitor,1671.81,BOUEP6KS4H,S0000009
+P0001070,Sony Lite Router,Sony,Electronics,Router,31.76,B1KQK4IMB8,S0000010
+P0001071,MSI Edge Speaker,MSI,Electronics,Speaker,112.72,BVT59SBLHK,S0000001
+P0001072,Marshall X1 TV,Marshall,Electronics,TV,3238.50,BGZAQPKH2B,S0000002
+P0001073,D-Link Edge Earbuds,D-Link,Electronics,Earbuds,340.83,BY7VP2C1Z8,S0000003
+P0001074,TP-Link Bolt 256GB Laptop,TP-Link,Electronics,Laptop,1432.87,BQQCS8LZWC,S0000004
+P0001075,Samsung S2 512GB Smartphone,Samsung,Electronics,Smartphone,1342.83,BCFWMZNF14,S0000005
+P0001076,D-Link Edge TV,D-Link,Electronics,TV,1723.62,BPOMODKE6S,S0000006
+P0001077,Dell Pro Camera,Dell,Electronics,Camera,856.07,BEJI75TZFT,S0000007
+P0001078,Sennheiser Go 32GB Tablet,Sennheiser,Electronics,Tablet,368.98,BQNI1XNY76,S0000008
+P0001079,Apple Lite Smartwatch,Apple,Electronics,Smartwatch,846.79,BZXSQ1HHUZ,S0000009
+P0001080,Audio-Technica X2 Headphones,Audio-Technica,Electronics,Headphones,118.52,BHG0YRK7WB,S0000010
+P0001081,Apple Lite 128GB Tablet,Apple,Electronics,Tablet,1369.73,BOJVBZ5E8H,S0000001
+P0001082,Vivo S3 Headphones,Vivo,Electronics,Headphones,191.89,B6J8RHMYKA,S0000002
+P0001083,JBL Pro Speaker,JBL,Electronics,Speaker,293.98,B2IPRYJM48,S0000003
+P0001084,Samsung X3 TV,Samsung,Electronics,TV,4851.60,BH0UVKOFWA,S0000004
+P0001085,Xiaomi Prime Headphones,Xiaomi,Electronics,Headphones,395.37,BWQHQ0MY0Z,S0000005
+P0001086,Samsung Ultra Headphones,Samsung,Electronics,Headphones,448.89,BZUIJBO96D,S0000006
+P0001087,JBL Air 512GB Laptop,JBL,Electronics,Laptop,3703.39,B7N5LVJ645,S0000007
+P0001088,Marshall Ultra 64GB Laptop,Marshall,Electronics,Laptop,557.04,B6LZ2H9RRN,S0000008
+P0001089,HP Neo Headphones,HP,Electronics,Headphones,184.85,BH51EWNF1Z,S0000009
+P0001090,Realme Go Earbuds,Realme,Electronics,Earbuds,50.93,BU6RZZND7W,S0000010
+P0001091,TP-Link Air Router,TP-Link,Electronics,Router,48.08,BPSKWC5GQS,S0000001
+P0001092,ASUS Z3 Router,ASUS,Electronics,Router,107.03,B6Z06KRZR1,S0000002
+P0001093,D-Link M3 128GB Smartphone,D-Link,Electronics,Smartphone,1820.29,B50OSSRCR1,S0000003
+P0001094,OPPO X2 512GB Laptop,OPPO,Electronics,Laptop,3481.40,BKM4HP9QH2,S0000004
+P0001095,MSI X2 Router,MSI,Electronics,Router,97.30,B70P4KPV8C,S0000005
+P0001096,Realme Edge 32GB Tablet,Realme,Electronics,Tablet,1331.47,BGUYZBCPQP,S0000006
+P0001097,LG X3 Camera,LG,Electronics,Camera,1023.67,BTPYJQPUBS,S0000007
+P0001098,OPPO X1 Router,OPPO,Electronics,Router,328.41,BBI6JKK312,S0000008
+P0001099,Samsung X3 Earbuds,Samsung,Electronics,Earbuds,328.81,BPVHK9F8Y3,S0000009
+P0001100,Sony Ultra TV,Sony,Electronics,TV,3993.74,BYEID21FBM,S0000010
+P0001101,HP Prime 32GB Smartphone,HP,Electronics,Smartphone,773.47,BNRLI4EQT7,S0000001
+P0001102,Realme Bolt 256GB Tablet,Realme,Electronics,Tablet,674.30,BKECNRDYWZ,S0000002
+P0001103,OPPO Lite 32GB Smartphone,OPPO,Electronics,Smartphone,1792.32,B5AU80HNVG,S0000003
+P0001104,Canon S1 Camera,Canon,Electronics,Camera,4827.80,BAKTU1MQDB,S0000004
+P0001105,Marshall S3 Camera,Marshall,Electronics,Camera,711.87,BK7ROQLU8A,S0000005
+P0001106,D-Link S1 TV,D-Link,Electronics,TV,4224.29,BTBUYKKRW7,S0000006
+P0001107,ASUS X3 Monitor,ASUS,Electronics,Monitor,382.61,BWCUYM1DEX,S0000007
+P0001108,Canon S3 Speaker,Canon,Electronics,Speaker,215.43,B7TER15H7X,S0000008
+P0001109,Boult Bolt 256GB Tablet,Boult,Electronics,Tablet,697.33,BKOH97YUK1,S0000009
+P0001110,Marshall X1 512GB Tablet,Marshall,Electronics,Tablet,655.31,B3PW31QDAJ,S0000010
+P0001111,D-Link Edge Speaker,D-Link,Electronics,Speaker,256.53,B7GXS2VIUI,S0000001
+P0001112,Amazfit X3 64GB Laptop,Amazfit,Electronics,Laptop,1816.09,B3DFOOXF70,S0000002
+P0001113,Nikon Go 32GB Smartphone,Nikon,Electronics,Smartphone,964.54,B36DQ0LK6K,S0000003
+P0001114,Motorola Go Headphones,Motorola,Electronics,Headphones,384.20,B91ZFQ6XPY,S0000004
+P0001115,Apple S3 Router,Apple,Electronics,Router,337.60,B80QEQB67K,S0000005
+P0001116,D-Link Lite Smartwatch,D-Link,Electronics,Smartwatch,366.73,BOF0AMAIVE,S0000006
+P0001117,Sony X2 Monitor,Sony,Electronics,Monitor,1107.71,BNB0165GXH,S0000007
+P0001118,GoPro S3 TV,GoPro,Electronics,TV,1579.00,BLMGZETYF6,S0000008
+P0001119,Samsung X3 256GB Laptop,Samsung,Electronics,Laptop,1733.13,BAED4AS51Z,S0000009
+P0001120,Marshall S3 Headphones,Marshall,Electronics,Headphones,642.14,B7HFU737QR,S0000010
+P0001121,D-Link Go Earbuds,D-Link,Electronics,Earbuds,203.41,B1MPLT18G5,S0000001
+P0001122,boAt S2 512GB Laptop,boAt,Electronics,Laptop,786.14,BJ2U5GRISV,S0000002
+P0001123,Canon S2 Smartwatch,Canon,Electronics,Smartwatch,860.71,B05O9JTRC6,S0000003
+P0001124,Sennheiser Lite Camera,Sennheiser,Electronics,Camera,3969.88,B25XXOGRVL,S0000004
+P0001125,Sennheiser Lite Headphones,Sennheiser,Electronics,Headphones,361.41,BVISLX4WV2,S0000005
+P0001126,Redmi Pro 64GB Laptop,Redmi,Electronics,Laptop,3017.31,B2RIT9UIFI,S0000006
+P0001127,ASUS Pro 64GB Smartphone,ASUS,Electronics,Smartphone,1697.12,BLC5TJW86S,S0000007
+P0001128,GoPro S2 Camera,GoPro,Electronics,Camera,696.72,BUIL74CI3X,S0000008
+P0001129,Netgear Z3 Router,Netgear,Electronics,Router,85.00,B0M3ACJ7IL,S0000009
+P0001130,Vivo Bolt 256GB Laptop,Vivo,Electronics,Laptop,1778.15,BT2XHS65Z2,S0000010
+P0001131,Netgear Bolt Speaker,Netgear,Electronics,Speaker,547.10,BUJV5VY1Y4,S0000001
+P0001132,Amazfit X2 Smartwatch,Amazfit,Electronics,Smartwatch,574.18,BMUL8YW8VU,S0000002
+P0001133,Nokia Z3 Headphones,Nokia,Electronics,Headphones,609.32,B8AR9GR0QF,S0000003
+P0001134,Sony Go Earbuds,Sony,Electronics,Earbuds,47.54,BJ3422NVGE,S0000004
+P0001135,Marshall Go 256GB Laptop,Marshall,Electronics,Laptop,1869.63,BZ5UQBV082,S0000005
+P0001136,Sennheiser Bolt 32GB Laptop,Sennheiser,Electronics,Laptop,2527.53,B8L25E1B9E,S0000006
+P0001137,HP S3 TV,HP,Electronics,TV,3132.16,BP6UM1QZY9,S0000007
+P0001138,boAt Edge Camera,boAt,Electronics,Camera,1464.68,B97RWUPTMW,S0000008
+P0001139,Marshall Bolt Smartwatch,Marshall,Electronics,Smartwatch,1028.33,B4JMI6LJ2G,S0000009
+P0001140,Sennheiser Ultra Speaker,Sennheiser,Electronics,Speaker,66.97,BHJ5PZ68YO,S0000010
+P0001141,Sennheiser Z3 Router,Sennheiser,Electronics,Router,390.87,B589ORRFDW,S0000001
+P0001142,HP X3 TV,HP,Electronics,TV,3020.38,BXJBZ8NRT9,S0000002
+P0001143,MSI Prime 512GB Tablet,MSI,Electronics,Tablet,1439.30,BR722H9PA9,S0000003
+P0001144,Nikon M3 256GB Tablet,Nikon,Electronics,Tablet,481.53,B4K10C2MNU,S0000004
+P0001145,boAt Bolt 256GB Laptop,boAt,Electronics,Laptop,3901.06,BGECRX68WP,S0000005
+P0001146,HP Bolt Earbuds,HP,Electronics,Earbuds,309.00,BPMUM9SNV3,S0000006
+P0001147,LG X3 512GB Smartphone,LG,Electronics,Smartphone,1124.33,BAC3JEB2I6,S0000007
+P0001148,Dell Prime Headphones,Dell,Electronics,Headphones,463.84,BOQLY97A7X,S0000008
+P0001149,LG S2 Headphones,LG,Electronics,Headphones,682.73,B9PH8Q07L6,S0000009
+P0001150,Audio-Technica S3 Speaker,Audio-Technica,Electronics,Speaker,186.87,BF2RYAF5NJ,S0000010
+P0001151,Sennheiser Go 128GB Smartphone,Sennheiser,Electronics,Smartphone,1173.64,BJDZOXRG0X,S0000001
+P0001152,Boult Edge Headphones,Boult,Electronics,Headphones,553.21,BL5Q6CW5T2,S0000002
+P0001153,Redmi Ultra 256GB Tablet,Redmi,Electronics,Tablet,1235.60,BDQEIST1LN,S0000003
+P0001154,Dell Pro Headphones,Dell,Electronics,Headphones,479.86,BGACI25HQB,S0000004
+P0001155,MSI X1 Earbuds,MSI,Electronics,Earbuds,336.69,BI0LBXYDPY,S0000005
+P0001156,Audio-Technica S3 256GB Tablet,Audio-Technica,Electronics,Tablet,543.03,B3OSRGE4OT,S0000006
+P0001157,Realme Air 256GB Smartphone,Realme,Electronics,Smartphone,917.83,BHT4CV2U6T,S0000007
+P0001158,GoPro Pro TV,GoPro,Electronics,TV,1582.42,BLUZZJIVUJ,S0000008
+P0001159,JBL Neo Headphones,JBL,Electronics,Headphones,606.90,B4K2N5EQJO,S0000009
+P0001160,Redmi Neo Earbuds,Redmi,Electronics,Earbuds,114.72,BW9V42FDOM,S0000010
+P0001161,D-Link Ultra Smartwatch,D-Link,Electronics,Smartwatch,212.06,BPAED261KQ,S0000001
+P0001162,MSI X3 Monitor,MSI,Electronics,Monitor,1787.68,BL41LFOSNF,S0000002
+P0001163,Marshall S2 Earbuds,Marshall,Electronics,Earbuds,328.76,B3PVCMTRYC,S0000003
+P0001164,Lenovo S3 Headphones,Lenovo,Electronics,Headphones,389.48,BIKEAR3U1I,S0000004
+P0001165,Redmi Prime Router,Redmi,Electronics,Router,340.97,BOOKVLNGK9,S0000005
+P0001166,Garmin S2 512GB Smartphone,Garmin,Electronics,Smartphone,932.60,BQBKHS2NBS,S0000006
+P0001167,GoPro Z3 32GB Tablet,GoPro,Electronics,Tablet,710.56,BIJXVH176G,S0000007
+P0001168,Nokia X1 Router,Nokia,Electronics,Router,267.09,BLC85ABRPN,S0000008
+P0001169,Samsung X3 Smartwatch,Samsung,Electronics,Smartwatch,369.09,BJ4MTWR2ZV,S0000009
+P0001170,MSI X1 512GB Laptop,MSI,Electronics,Laptop,1902.82,B1PMUOY6N9,S0000010
+P0001171,Nokia S3 Speaker,Nokia,Electronics,Speaker,594.67,BF885Q6SA2,S0000001
+P0001172,D-Link Bolt Headphones,D-Link,Electronics,Headphones,432.91,B2BUKAWSQK,S0000002
+P0001173,Xiaomi Go Earbuds,Xiaomi,Electronics,Earbuds,29.31,B507CDVWDO,S0000003
+P0001174,Vivo Z3 Speaker,Vivo,Electronics,Speaker,552.57,BKM9T4OXWS,S0000004
+P0001175,Xiaomi Bolt Router,Xiaomi,Electronics,Router,89.85,BAY5H9GHXS,S0000005
+P0001176,Marshall Neo Headphones,Marshall,Electronics,Headphones,489.09,B5UVBQ5YSH,S0000006
+P0001177,Redmi Edge 32GB Smartphone,Redmi,Electronics,Smartphone,918.18,BOJLZ3Q3P3,S0000007
+P0001178,OPPO S3 256GB Laptop,OPPO,Electronics,Laptop,597.99,BRNM3BMIVQ,S0000008
+P0001179,OPPO X3 32GB Smartphone,OPPO,Electronics,Smartphone,1383.51,BED518G1OF,S0000009
+P0001180,GoPro Ultra Speaker,GoPro,Electronics,Speaker,195.06,BV0T0GYSWJ,S0000010
+P0001181,D-Link X3 Camera,D-Link,Electronics,Camera,3905.92,BA9FYFN9XC,S0000001
+P0001182,Lenovo Air 512GB Tablet,Lenovo,Electronics,Tablet,256.55,BAZOK05RIM,S0000002
+P0001183,Redmi X2 Monitor,Redmi,Electronics,Monitor,993.87,BQGI940QZD,S0000003
+P0001184,Motorola Pro TV,Motorola,Electronics,TV,2624.77,BW8M2R4K2T,S0000004
+P0001185,Amazfit Bolt 32GB Smartphone,Amazfit,Electronics,Smartphone,1775.33,BKWQ7HKUU8,S0000005
+P0001186,Lenovo Lite Smartwatch,Lenovo,Electronics,Smartwatch,401.80,BBSJK8NFSU,S0000006
+P0001187,Huawei Neo TV,Huawei,Electronics,TV,2291.47,BWKDO0K42A,S0000007
+P0001188,TP-Link Air Camera,TP-Link,Electronics,Camera,4374.52,BIJR3ORW0Z,S0000008
+P0001189,Canon Bolt 64GB Laptop,Canon,Electronics,Laptop,2633.67,BLB801PLBU,S0000009
+P0001190,Sony Z3 Earbuds,Sony,Electronics,Earbuds,22.85,BW1TFTP7AL,S0000010
+P0001191,ASUS X2 32GB Tablet,ASUS,Electronics,Tablet,821.95,BFORS4UMFW,S0000001
+P0001192,boAt X3 Smartwatch,boAt,Electronics,Smartwatch,1099.98,BPAO0Z6RI5,S0000002
+P0001193,Vivo X1 Speaker,Vivo,Electronics,Speaker,741.51,BB7MWGLN9T,S0000003
+P0001194,Motorola S2 Earbuds,Motorola,Electronics,Earbuds,271.55,B5V5Q8MLMH,S0000004
+P0001195,Motorola Go Camera,Motorola,Electronics,Camera,2926.18,BJAW7U1J33,S0000005
+P0001196,ASUS X1 Speaker,ASUS,Electronics,Speaker,305.66,BUN11B9IJZ,S0000006
+P0001197,boAt Lite Camera,boAt,Electronics,Camera,4628.10,B6C8SUO3NA,S0000007
+P0001198,Audio-Technica X2 64GB Tablet,Audio-Technica,Electronics,Tablet,1441.47,BCBUGEBYFG,S0000008
+P0001199,TP-Link Lite 128GB Laptop,TP-Link,Electronics,Laptop,3987.47,BRZIQYWCOA,S0000009
+P0001200,Motorola Go Camera,Motorola,Electronics,Camera,934.21,BAD36388FN,S0000010
+P0001201,HP Pro Speaker,HP,Electronics,Speaker,570.36,BINCD6OENI,S0000001
+P0001202,Dell M3 32GB Tablet,Dell,Electronics,Tablet,718.29,BJ1K4IXPZP,S0000002
+P0001203,Motorola S2 Camera,Motorola,Electronics,Camera,3704.07,BCNACTRBIU,S0000003
+P0001204,Realme S3 Smartwatch,Realme,Electronics,Smartwatch,1119.38,B6UZJ2LLN8,S0000004
+P0001205,Motorola Z3 Camera,Motorola,Electronics,Camera,4728.14,BY8Z9F9S80,S0000005
+P0001206,Netgear X2 Speaker,Netgear,Electronics,Speaker,356.71,B8TUQAP3NN,S0000006
+P0001207,Canon Bolt 128GB Tablet,Canon,Electronics,Tablet,1414.25,BRPMRYOYP6,S0000007
+P0001208,Xiaomi Lite Speaker,Xiaomi,Electronics,Speaker,275.04,BDRHHB4SLC,S0000008
+P0001209,HP Lite 32GB Tablet,HP,Electronics,Tablet,1262.43,BBLARM7IFK,S0000009
+P0001210,Amazfit S3 Monitor,Amazfit,Electronics,Monitor,338.27,BALD9LPH8S,S0000010
+P0001211,Nikon Prime Camera,Nikon,Electronics,Camera,2295.67,BOF60IBJ65,S0000001
+P0001212,GoPro S1 64GB Tablet,GoPro,Electronics,Tablet,496.42,BNUFGANDJK,S0000002
+P0001213,Amazfit Pro 256GB Tablet,Amazfit,Electronics,Tablet,1034.95,B6MR2EWC76,S0000003
+P0001214,Nokia Ultra 256GB Smartphone,Nokia,Electronics,Smartphone,764.49,BQZQYIUCY0,S0000004
+P0001215,Amazfit Lite 64GB Tablet,Amazfit,Electronics,Tablet,1338.34,B1E84SXVYM,S0000005
+P0001216,Amazfit S3 32GB Laptop,Amazfit,Electronics,Laptop,1402.26,BIZ53JWG45,S0000006
+P0001217,D-Link Neo Earbuds,D-Link,Electronics,Earbuds,212.26,BGURWORDGQ,S0000007
+P0001218,Realme Go Camera,Realme,Electronics,Camera,1279.31,B7PZPZA0P3,S0000008
+P0001219,Dell Pro 32GB Tablet,Dell,Electronics,Tablet,1076.74,B9CC98B22F,S0000009
+P0001220,Xiaomi S3 Earbuds,Xiaomi,Electronics,Earbuds,278.70,BBY2W2O5SV,S0000010
+P0001221,Marshall X1 Speaker,Marshall,Electronics,Speaker,280.76,BCS7X7NVF6,S0000001
+P0001222,Sennheiser Air Monitor,Sennheiser,Electronics,Monitor,1833.70,BCOJ6EXMVK,S0000002
+P0001223,Garmin Ultra 256GB Laptop,Garmin,Electronics,Laptop,3856.03,BOXAKJTR8M,S0000003
+P0001224,Redmi Pro 256GB Smartphone,Redmi,Electronics,Smartphone,448.15,BSYKSRU5AI,S0000004
+P0001225,Amazfit Bolt Headphones,Amazfit,Electronics,Headphones,132.33,BDAH4T4Z1S,S0000005
+P0001226,Lenovo Edge Router,Lenovo,Electronics,Router,189.18,BY48BJCPUF,S0000006
+P0001227,Realme Bolt 128GB Laptop,Realme,Electronics,Laptop,628.97,B2Y6WG9FYM,S0000007
+P0001228,Samsung X1 Camera,Samsung,Electronics,Camera,4099.98,B64G9Y7TVI,S0000008
+P0001229,OPPO Edge Speaker,OPPO,Electronics,Speaker,730.35,BPTEDJDEGH,S0000009
+P0001230,Garmin Lite Camera,Garmin,Electronics,Camera,600.90,B7FZGGD1Q9,S0000010
+P0001231,TP-Link M3 64GB Smartphone,TP-Link,Electronics,Smartphone,1699.48,BH7690ZN96,S0000001
+P0001232,GoPro Neo 64GB Laptop,GoPro,Electronics,Laptop,1795.67,B374LZDHZG,S0000002
+P0001233,TP-Link S2 Router,TP-Link,Electronics,Router,152.78,BS6S6CD1LF,S0000003
+P0001234,Sony Lite Monitor,Sony,Electronics,Monitor,1486.26,B1UYKSIJDL,S0000004
+P0001235,Boult Prime 32GB Tablet,Boult,Electronics,Tablet,756.02,BSV5GEPX5N,S0000005
+P0001236,Nikon Ultra TV,Nikon,Electronics,TV,585.93,BX2NYVXAMW,S0000006
+P0001237,Canon S3 64GB Smartphone,Canon,Electronics,Smartphone,649.00,BIP3AT6M1E,S0000007
+P0001238,Redmi Pro TV,Redmi,Electronics,TV,1645.65,BSCXZLF7GG,S0000008
+P0001239,Netgear Neo Camera,Netgear,Electronics,Camera,3294.59,B8GTV6XC50,S0000009
+P0001240,Apple S1 TV,Apple,Electronics,TV,1924.39,BDBQR44R31,S0000010
+P0001241,Redmi X3 Smartwatch,Redmi,Electronics,Smartwatch,431.63,BX1P0ZPB08,S0000001
+P0001242,Marshall Go Earbuds,Marshall,Electronics,Earbuds,306.27,B5WSCZCUST,S0000002
+P0001243,Motorola Ultra Smartwatch,Motorola,Electronics,Smartwatch,70.03,B2GFV5M1Q0,S0000003
+P0001244,Garmin Bolt Smartwatch,Garmin,Electronics,Smartwatch,745.43,BI16646FT5,S0000004
+P0001245,Apple Air Smartwatch,Apple,Electronics,Smartwatch,1174.66,BLYPZGICO3,S0000005
+P0001246,GoPro Bolt 32GB Tablet,GoPro,Electronics,Tablet,1123.37,BC58DR98UT,S0000006
+P0001247,Huawei Edge 32GB Laptop,Huawei,Electronics,Laptop,1826.93,B71B8Q84M6,S0000007
+P0001248,Redmi S2 Camera,Redmi,Electronics,Camera,4782.56,BE5F7HJFLX,S0000008
+P0001249,MSI M3 Router,MSI,Electronics,Router,119.70,BSUD62OFCJ,S0000009
+P0001250,Vivo X2 Camera,Vivo,Electronics,Camera,4096.61,B1H00QFY46,S0000010
+P0001251,Garmin X3 Monitor,Garmin,Electronics,Monitor,762.64,BNVKAVDUNQ,S0000001
+P0001252,JBL Edge Earbuds,JBL,Electronics,Earbuds,186.19,B8OK2SKL0O,S0000002
+P0001253,Realme Prime Earbuds,Realme,Electronics,Earbuds,221.91,BT934XJKZZ,S0000003
+P0001254,Lenovo Z3 Speaker,Lenovo,Electronics,Speaker,620.89,BR9J87B96D,S0000004
+P0001255,Sennheiser Ultra TV,Sennheiser,Electronics,TV,830.87,BVLC4US87A,S0000005
+P0001256,OnePlus X3 Headphones,OnePlus,Electronics,Headphones,643.94,B9EPN8KHXV,S0000006
+P0001257,Realme Z3 512GB Laptop,Realme,Electronics,Laptop,1425.03,BKS4JKCPUS,S0000007
+P0001258,OnePlus Edge Monitor,OnePlus,Electronics,Monitor,1947.50,B9FOYNB4OX,S0000008
+P0001259,Realme Z3 Router,Realme,Electronics,Router,195.46,BDJKE0XUY0,S0000009
+P0001260,JBL M3 Monitor,JBL,Electronics,Monitor,1568.63,BNJ8SKZ60U,S0000010
+P0001261,Sennheiser X2 Monitor,Sennheiser,Electronics,Monitor,238.29,B2R5BF73LC,S0000001
+P0001262,OPPO X2 Smartwatch,OPPO,Electronics,Smartwatch,265.35,BDHY7W095K,S0000002
+P0001263,OnePlus X3 512GB Smartphone,OnePlus,Electronics,Smartphone,1784.95,BLFHMH6PRD,S0000003
+P0001264,Audio-Technica Go 64GB Tablet,Audio-Technica,Electronics,Tablet,867.87,BYL8XLJMZV,S0000004
+P0001265,Sennheiser S2 64GB Tablet,Sennheiser,Electronics,Tablet,1103.10,BC6TKWQ5ZP,S0000005
+P0001266,LG Air Monitor,LG,Electronics,Monitor,1374.29,BUU2IQ9ROB,S0000006
+P0001267,MSI S2 128GB Tablet,MSI,Electronics,Tablet,1427.68,BHD724ZZVE,S0000007
+P0001268,Vivo Ultra 256GB Tablet,Vivo,Electronics,Tablet,205.40,BF3O251CD4,S0000008
+P0001269,Redmi X1 TV,Redmi,Electronics,TV,983.49,B91MF4Y71G,S0000009
+P0001270,Garmin M3 64GB Smartphone,Garmin,Electronics,Smartphone,1535.59,B9T0LB5ISA,S0000010
+P0001271,Nikon S3 512GB Tablet,Nikon,Electronics,Tablet,872.49,BS2IZ6XCQG,S0000001
+P0001272,D-Link Bolt Camera,D-Link,Electronics,Camera,4795.51,B2SUTYY6YP,S0000002
+P0001273,Nokia S1 Monitor,Nokia,Electronics,Monitor,401.16,BEZ9C2YOPD,S0000003
+P0001274,Marshall X1 Headphones,Marshall,Electronics,Headphones,626.60,BEIM5O0LZX,S0000004
+P0001275,ASUS M3 Smartwatch,ASUS,Electronics,Smartwatch,1037.29,BXI96SLGHU,S0000005
+P0001276,JBL S2 32GB Smartphone,JBL,Electronics,Smartphone,1014.73,BI2C6YS0VQ,S0000006
+P0001277,Canon S1 Earbuds,Canon,Electronics,Earbuds,90.97,BV5P0OCENG,S0000007
+P0001278,Motorola X3 TV,Motorola,Electronics,TV,1796.36,B57JGW2V25,S0000008
+P0001279,Dell X2 Monitor,Dell,Electronics,Monitor,1617.45,BOOJ8Q5UAK,S0000009
+P0001280,Nokia S1 128GB Tablet,Nokia,Electronics,Tablet,792.60,B6UIZZO752,S0000010
+P0001281,OnePlus Pro Smartwatch,OnePlus,Electronics,Smartwatch,859.56,BU5LHEAFN9,S0000001
+P0001282,Xiaomi X2 Smartwatch,Xiaomi,Electronics,Smartwatch,763.99,BIVF0CEI4W,S0000002
+P0001283,Vivo Pro Camera,Vivo,Electronics,Camera,4147.81,BDEIQYL6YE,S0000003
+P0001284,Marshall Ultra Speaker,Marshall,Electronics,Speaker,214.94,BTX0CNKQAT,S0000004
+P0001285,GoPro S1 256GB Tablet,GoPro,Electronics,Tablet,1487.20,BTMZLJ2BJO,S0000005
+P0001286,Motorola Air Headphones,Motorola,Electronics,Headphones,128.97,B3I8BN2I3L,S0000006
+P0001287,Redmi Bolt Speaker,Redmi,Electronics,Speaker,425.92,BBYXYDYW0S,S0000007
+P0001288,HP S2 Earbuds,HP,Electronics,Earbuds,246.84,BFUU6XPOBB,S0000008
+P0001289,OPPO Lite 256GB Laptop,OPPO,Electronics,Laptop,3501.34,BQ8HMIYHB3,S0000009
+P0001290,MSI Ultra Headphones,MSI,Electronics,Headphones,627.13,BHE2S3DQ5H,S0000010
+P0001291,TP-Link X3 Monitor,TP-Link,Electronics,Monitor,1918.32,BQITTJA628,S0000001
+P0001292,boAt S1 32GB Tablet,boAt,Electronics,Tablet,522.66,B6OU7LS4XH,S0000002
+P0001293,Xiaomi Go Earbuds,Xiaomi,Electronics,Earbuds,38.35,BLFYDGKOBV,S0000003
+P0001294,Nikon Neo Smartwatch,Nikon,Electronics,Smartwatch,225.74,BJOFU41FD1,S0000004
+P0001295,LG X3 Router,LG,Electronics,Router,286.67,BJFYQYVN1B,S0000005
+P0001296,Dell S1 Speaker,Dell,Electronics,Speaker,309.07,BV0QO2K7BA,S0000006
+P0001297,OPPO X2 256GB Smartphone,OPPO,Electronics,Smartphone,1284.39,BEJM47J8MJ,S0000007
+P0001298,Motorola X2 32GB Tablet,Motorola,Electronics,Tablet,529.44,BIZYPEFR4N,S0000008
+P0001299,Canon Go Headphones,Canon,Electronics,Headphones,114.41,B3T4S455OP,S0000009
+P0001300,Vivo Lite Speaker,Vivo,Electronics,Speaker,798.17,BGIGPO3JK9,S0000010
+P0001301,Realme Edge 128GB Laptop,Realme,Electronics,Laptop,2880.12,B30IRMNHLM,S0000001
+P0001302,MSI Edge Camera,MSI,Electronics,Camera,2730.59,BJTOXJZXMZ,S0000002
+P0001303,Huawei X1 Speaker,Huawei,Electronics,Speaker,682.78,BRZX01SEAM,S0000003
+P0001304,boAt M3 Camera,boAt,Electronics,Camera,2119.17,B4YK4FWKN3,S0000004
+P0001305,ASUS Neo TV,ASUS,Electronics,TV,4666.80,B6Y6IYS4X8,S0000005
+P0001306,Boult S1 64GB Laptop,Boult,Electronics,Laptop,842.84,BV4SYLPOHZ,S0000006
+P0001307,OPPO Neo Monitor,OPPO,Electronics,Monitor,726.72,BYP9JB8VNO,S0000007
+P0001308,Sennheiser S3 128GB Laptop,Sennheiser,Electronics,Laptop,727.80,BVWJ94MNJZ,S0000008
+P0001309,Audio-Technica Edge TV,Audio-Technica,Electronics,TV,4908.25,BHVYABOUJ9,S0000009
+P0001310,Xiaomi S3 128GB Smartphone,Xiaomi,Electronics,Smartphone,806.27,BW3SKRN079,S0000010
+P0001311,Realme Go 64GB Smartphone,Realme,Electronics,Smartphone,1545.72,BU14TZS4LM,S0000001
+P0001312,Amazfit Z3 Earbuds,Amazfit,Electronics,Earbuds,110.36,BLD6HTXZSX,S0000002
+P0001313,Netgear Air 128GB Smartphone,Netgear,Electronics,Smartphone,1197.40,BPB2HQ8NJN,S0000003
+P0001314,Sennheiser S1 Speaker,Sennheiser,Electronics,Speaker,578.39,BEXKTP21KN,S0000004
+P0001315,OPPO Lite Monitor,OPPO,Electronics,Monitor,197.24,BUEZ2ZU4G8,S0000005
+P0001316,HP Neo 128GB Smartphone,HP,Electronics,Smartphone,684.80,B1OW4PQAXX,S0000006
+P0001317,Nokia Neo TV,Nokia,Electronics,TV,3945.00,BYNH01T3YN,S0000007
+P0001318,JBL Neo 64GB Smartphone,JBL,Electronics,Smartphone,1468.87,BMK2MZK3LA,S0000008
+P0001319,GoPro Bolt 256GB Tablet,GoPro,Electronics,Tablet,430.76,BY0547N07M,S0000009
+P0001320,Samsung Go TV,Samsung,Electronics,TV,2301.49,BNWRGPFMVQ,S0000010
+P0001321,OPPO Air Router,OPPO,Electronics,Router,318.40,BIYF38DLAD,S0000001
+P0001322,Samsung X2 Headphones,Samsung,Electronics,Headphones,246.69,BB2C2SCL7R,S0000002
+P0001323,Canon S2 64GB Laptop,Canon,Electronics,Laptop,3062.57,B683OZWHEI,S0000003
+P0001324,TP-Link Neo 64GB Tablet,TP-Link,Electronics,Tablet,450.89,BIK30EF4WF,S0000004
+P0001325,Amazfit S3 Camera,Amazfit,Electronics,Camera,3172.45,B5HQB6VMY9,S0000005
+P0001326,Boult Ultra 256GB Smartphone,Boult,Electronics,Smartphone,324.01,BRGG9UIC8I,S0000006
+P0001327,Sennheiser Z3 128GB Smartphone,Sennheiser,Electronics,Smartphone,396.06,BKEBHGE5KG,S0000007
+P0001328,Realme X1 Router,Realme,Electronics,Router,215.92,BC1AMGZ3V6,S0000008
+P0001329,ASUS X3 Monitor,ASUS,Electronics,Monitor,1596.60,BXQLG8ELHA,S0000009
+P0001330,Sony M3 512GB Smartphone,Sony,Electronics,Smartphone,713.09,BPFFWYJDAV,S0000010
+P0001331,Canon S3 128GB Tablet,Canon,Electronics,Tablet,891.93,BU6TJLEUE2,S0000001
+P0001332,ASUS Air 64GB Tablet,ASUS,Electronics,Tablet,1473.86,BJGW45W6V3,S0000002
+P0001333,HP S3 Earbuds,HP,Electronics,Earbuds,159.92,BPTB4Y1QMC,S0000003
+P0001334,Dell S1 Headphones,Dell,Electronics,Headphones,626.55,BTQ6VN88RH,S0000004
+P0001335,Motorola Neo Camera,Motorola,Electronics,Camera,4485.29,BQOKLVT0WW,S0000005
+P0001336,GoPro X2 128GB Smartphone,GoPro,Electronics,Smartphone,839.75,B9OM3EBX63,S0000006
+P0001337,Xiaomi X3 Earbuds,Xiaomi,Electronics,Earbuds,32.73,BBQLBUUIGU,S0000007
+P0001338,Samsung Air Headphones,Samsung,Electronics,Headphones,301.78,BY0SMYWZ4L,S0000008
+P0001339,Huawei Z3 256GB Smartphone,Huawei,Electronics,Smartphone,1816.20,BXYRAXP9E4,S0000009
+P0001340,Apple S2 Speaker,Apple,Electronics,Speaker,799.27,BD1NZPBNR5,S0000010
+P0001341,Dell Edge Speaker,Dell,Electronics,Speaker,178.46,BJ3KULYDK4,S0000001
+P0001342,MSI Bolt Earbuds,MSI,Electronics,Earbuds,24.50,BE9U86N3W6,S0000002
+P0001343,Vivo X2 64GB Smartphone,Vivo,Electronics,Smartphone,1713.40,BC77AWNM4S,S0000003
+P0001344,LG Pro Smartwatch,LG,Electronics,Smartwatch,130.66,BIA1N9WQLJ,S0000004
+P0001345,Vivo Prime Monitor,Vivo,Electronics,Monitor,349.79,B14BAO0JGQ,S0000005
+P0001346,ASUS Bolt 256GB Tablet,ASUS,Electronics,Tablet,793.86,BOXSGG551N,S0000006
+P0001347,LG S1 128GB Tablet,LG,Electronics,Tablet,819.19,BTLSBSBSRC,S0000007
+P0001348,OnePlus Go 128GB Smartphone,OnePlus,Electronics,Smartphone,620.18,BKFE8FTYPP,S0000008
+P0001349,GoPro X3 Earbuds,GoPro,Electronics,Earbuds,383.87,BDPR6Y6NEH,S0000009
+P0001350,Redmi Ultra Smartwatch,Redmi,Electronics,Smartwatch,958.12,BZNTGTV2GQ,S0000010
+P0001351,Netgear X3 Camera,Netgear,Electronics,Camera,3885.36,BJJC31PJFP,S0000001
+P0001352,HP Edge 64GB Smartphone,HP,Electronics,Smartphone,1516.79,B21AFW81HH,S0000002
+P0001353,Sony Edge Camera,Sony,Electronics,Camera,1800.00,BR5PJEIZGL,S0000003
+P0001354,boAt Air TV,boAt,Electronics,TV,764.11,BA6N7ZGU1J,S0000004
+P0001355,GoPro Bolt Smartwatch,GoPro,Electronics,Smartwatch,503.95,BU4OV7BFKP,S0000005
+P0001356,MSI S1 32GB Smartphone,MSI,Electronics,Smartphone,418.99,B0DDKFG5I7,S0000006
+P0001357,Motorola X3 Smartwatch,Motorola,Electronics,Smartwatch,510.26,BG25H4V923,S0000007
+P0001358,Samsung Prime 512GB Laptop,Samsung,Electronics,Laptop,2031.14,B52KXY57VR,S0000008
+P0001359,Canon Pro Monitor,Canon,Electronics,Monitor,778.66,BU1ZPTJZSC,S0000009
+P0001360,Nokia M3 Earbuds,Nokia,Electronics,Earbuds,308.17,BNKRKFWUT8,S0000010
+P0001361,Lenovo X3 Speaker,Lenovo,Electronics,Speaker,788.72,BBQVXW3JOQ,S0000001
+P0001362,MSI Edge Earbuds,MSI,Electronics,Earbuds,331.15,BNZB1ILZJ3,S0000002
+P0001363,Apple Edge Router,Apple,Electronics,Router,205.84,B4S6NNBNVO,S0000003
+P0001364,Sony Air Headphones,Sony,Electronics,Headphones,569.93,BX90CC3HCP,S0000004
+P0001365,JBL S2 Speaker,JBL,Electronics,Speaker,175.28,BVT6RVR9IZ,S0000005
+P0001366,Garmin Neo 64GB Tablet,Garmin,Electronics,Tablet,362.89,B1OL81HZ1E,S0000006
+P0001367,Samsung S1 64GB Smartphone,Samsung,Electronics,Smartphone,1344.06,BGNTQRPTMR,S0000007
+P0001368,Amazfit Air Camera,Amazfit,Electronics,Camera,4453.22,BDIUTE0KZL,S0000008
+P0001369,Apple S2 Earbuds,Apple,Electronics,Earbuds,249.05,BT1JL0OBH3,S0000009
+P0001370,MSI Ultra Router,MSI,Electronics,Router,303.77,BXIEGXDSK2,S0000010
+P0001371,Lenovo Lite 32GB Laptop,Lenovo,Electronics,Laptop,3988.26,BHS0RTBG2G,S0000001
+P0001372,OnePlus X1 128GB Laptop,OnePlus,Electronics,Laptop,836.52,BMCDD7VUN9,S0000002
+P0001373,JBL Edge Earbuds,JBL,Electronics,Earbuds,214.50,BWGOVZVSWZ,S0000003
+P0001374,Lenovo Go TV,Lenovo,Electronics,TV,636.59,BRHCIBVMVU,S0000004
+P0001375,Dell M3 Monitor,Dell,Electronics,Monitor,654.47,BH77CR201W,S0000005
+P0001376,Lenovo Z3 256GB Laptop,Lenovo,Electronics,Laptop,3218.26,B35VBRBYCW,S0000006
+P0001377,TP-Link Edge Monitor,TP-Link,Electronics,Monitor,1921.40,BSG6YBMWSA,S0000007
+P0001378,ASUS Bolt Camera,ASUS,Electronics,Camera,4190.17,B5AJO9EIX3,S0000008
+P0001379,Nokia Bolt 64GB Laptop,Nokia,Electronics,Laptop,3471.05,BNXLYGV24T,S0000009
+P0001380,OPPO Pro Speaker,OPPO,Electronics,Speaker,272.34,BPFW1K64AE,S0000010
+P0001381,Amazfit S2 TV,Amazfit,Electronics,TV,4205.28,BJSE6KJRZD,S0000001
+P0001382,Marshall M3 TV,Marshall,Electronics,TV,2285.74,BMVZSHGYHI,S0000002
+P0001383,Redmi X3 Camera,Redmi,Electronics,Camera,943.40,BLTOS866D1,S0000003
+P0001384,Marshall Prime Headphones,Marshall,Electronics,Headphones,395.70,BXPT29OB8R,S0000004
+P0001385,Audio-Technica Bolt Monitor,Audio-Technica,Electronics,Monitor,260.10,BG4WYLRLFE,S0000005
+P0001386,Apple Pro Monitor,Apple,Electronics,Monitor,746.57,BZWVDYUL3W,S0000006
+P0001387,ASUS X2 Headphones,ASUS,Electronics,Headphones,261.46,B11MTNY5P6,S0000007
+P0001388,HP Prime Headphones,HP,Electronics,Headphones,65.68,B4MHFHEWIS,S0000008
+P0001389,Amazfit Pro Speaker,Amazfit,Electronics,Speaker,637.50,BRQI03534N,S0000009
+P0001390,Boult X1 Earbuds,Boult,Electronics,Earbuds,173.90,BCCS8AYGJS,S0000010
+P0001391,Amazfit Pro Router,Amazfit,Electronics,Router,244.53,BF7THYER6E,S0000001
+P0001392,TP-Link X2 Headphones,TP-Link,Electronics,Headphones,271.88,BESY3IUS4R,S0000002
+P0001393,Apple Z3 Monitor,Apple,Electronics,Monitor,1272.09,BYKQ7G4N2J,S0000003
+P0001394,Lenovo X3 Router,Lenovo,Electronics,Router,88.75,BPEHQ1CA7G,S0000004
+P0001395,Redmi Bolt Earbuds,Redmi,Electronics,Earbuds,157.71,BALQYOG2TA,S0000005
+P0001396,Redmi Pro Smartwatch,Redmi,Electronics,Smartwatch,214.74,B4DV0YVCEB,S0000006
+P0001397,OnePlus X3 32GB Smartphone,OnePlus,Electronics,Smartphone,1759.77,BL9TZW82NB,S0000007
+P0001398,HP S2 Camera,HP,Electronics,Camera,592.25,B0HV5PXM4B,S0000008
+P0001399,Vivo X2 Earbuds,Vivo,Electronics,Earbuds,271.85,B65M111Y1Q,S0000009
+P0001400,MSI Air Monitor,MSI,Electronics,Monitor,1874.91,BFL4U4FETY,S0000010
+P0001401,Vivo Ultra 512GB Smartphone,Vivo,Electronics,Smartphone,246.00,BTUOJPNLKR,S0000001
+P0001402,TP-Link Z3 Speaker,TP-Link,Electronics,Speaker,523.79,BTQ7YGOAWC,S0000002
+P0001403,HP Lite 256GB Laptop,HP,Electronics,Laptop,790.75,BU48LA30N4,S0000003
+P0001404,Lenovo S3 Speaker,Lenovo,Electronics,Speaker,198.91,BAAER51589,S0000004
+P0001405,Sony M3 256GB Smartphone,Sony,Electronics,Smartphone,895.04,B925U3XINK,S0000005
+P0001406,TP-Link Air TV,TP-Link,Electronics,TV,3002.16,B5FCSHTXG0,S0000006
+P0001407,D-Link Edge Earbuds,D-Link,Electronics,Earbuds,387.58,BMS56TR5WX,S0000007
+P0001408,JBL Lite Monitor,JBL,Electronics,Monitor,511.70,B2WHF4E28V,S0000008
+P0001409,Sennheiser X2 Camera,Sennheiser,Electronics,Camera,4476.87,BBAOH9XSFC,S0000009
+P0001410,Redmi Pro Headphones,Redmi,Electronics,Headphones,415.34,B1JJ6YCF4K,S0000010
+P0001411,Vivo Edge 32GB Tablet,Vivo,Electronics,Tablet,416.52,BU7LNBW5XJ,S0000001
+P0001412,Canon Ultra Camera,Canon,Electronics,Camera,1813.82,B3JDRD2OEB,S0000002
+P0001413,D-Link X2 32GB Smartphone,D-Link,Electronics,Smartphone,682.94,B4F1WS437I,S0000003
+P0001414,Samsung Prime 64GB Tablet,Samsung,Electronics,Tablet,894.12,BCIV0NC7NO,S0000004
+P0001415,ASUS Pro TV,ASUS,Electronics,TV,1381.29,B8GKBQQU6B,S0000005
+P0001416,Netgear Ultra Router,Netgear,Electronics,Router,97.21,BLT7K7HA65,S0000006
+P0001417,MSI Prime Smartwatch,MSI,Electronics,Smartwatch,642.28,BBB97QDM09,S0000007
+P0001418,GoPro X1 Speaker,GoPro,Electronics,Speaker,69.01,BWDVVUNKPX,S0000008
+P0001419,Canon Neo 512GB Smartphone,Canon,Electronics,Smartphone,295.94,BPPGXGJQD5,S0000009
+P0001420,Audio-Technica Neo Headphones,Audio-Technica,Electronics,Headphones,236.66,B6B2LX483Y,S0000010
+P0001421,Boult S2 128GB Laptop,Boult,Electronics,Laptop,2675.26,B0LK2X28R2,S0000001
+P0001422,Motorola M3 TV,Motorola,Electronics,TV,4761.96,B2M5ZVYY2K,S0000002
+P0001423,Nikon Bolt Camera,Nikon,Electronics,Camera,3987.34,BSPQ41LYX2,S0000003
+P0001424,Amazfit S3 Monitor,Amazfit,Electronics,Monitor,458.87,B48SSFNQLH,S0000004
+P0001425,Netgear X3 Camera,Netgear,Electronics,Camera,2318.22,BMLI89BTOS,S0000005
+P0001426,OnePlus Pro 128GB Laptop,OnePlus,Electronics,Laptop,1169.14,B00XMI13GT,S0000006
+P0001427,Nikon S1 Camera,Nikon,Electronics,Camera,2300.34,B2JNN544OX,S0000007
+P0001428,Lenovo X1 Speaker,Lenovo,Electronics,Speaker,701.90,BCVEEJATTI,S0000008
+P0001429,Netgear S2 TV,Netgear,Electronics,TV,4962.83,BD3UKO3Q6M,S0000009
+P0001430,boAt S1 512GB Tablet,boAt,Electronics,Tablet,1390.52,B1ZA0O7I09,S0000010
+P0001431,Xiaomi Bolt Smartwatch,Xiaomi,Electronics,Smartwatch,987.04,BB3A6D8DLF,S0000001
+P0001432,Sony X2 512GB Smartphone,Sony,Electronics,Smartphone,667.89,BCLP6TUET6,S0000002
+P0001433,Sony Edge Earbuds,Sony,Electronics,Earbuds,52.43,B1EFGNKVLO,S0000003
+P0001434,Marshall Go Headphones,Marshall,Electronics,Headphones,444.23,B9WMI4T96C,S0000004
+P0001435,Vivo Z3 Camera,Vivo,Electronics,Camera,1504.50,B3CJOQTWV8,S0000005
+P0001436,boAt Bolt 128GB Smartphone,boAt,Electronics,Smartphone,1030.03,BB65M0AZ6D,S0000006
+P0001437,Netgear Z3 256GB Laptop,Netgear,Electronics,Laptop,3101.41,BJAT6N0X8F,S0000007
+P0001438,Dell S2 Speaker,Dell,Electronics,Speaker,252.35,BKZP52A87U,S0000008
+P0001439,D-Link S1 Smartwatch,D-Link,Electronics,Smartwatch,404.41,BR1UQRP4YI,S0000009
+P0001440,Huawei X3 Monitor,Huawei,Electronics,Monitor,1116.26,B0TNZVN3V2,S0000010
+P0001441,Garmin Ultra Earbuds,Garmin,Electronics,Earbuds,271.71,BXYAD21O6V,S0000001
+P0001442,Garmin Z3 Earbuds,Garmin,Electronics,Earbuds,368.34,B23QVR243M,S0000002
+P0001443,Lenovo M3 Monitor,Lenovo,Electronics,Monitor,1632.05,B56OXMJOW8,S0000003
+P0001444,Samsung Neo TV,Samsung,Electronics,TV,2916.92,BGHA5LJKYS,S0000004
+P0001445,TP-Link Z3 32GB Laptop,TP-Link,Electronics,Laptop,1231.77,B7X208EBG7,S0000005
+P0001446,GoPro S1 Headphones,GoPro,Electronics,Headphones,66.06,BQ4AXUEIX8,S0000006
+P0001447,Nikon Go Earbuds,Nikon,Electronics,Earbuds,221.99,BK3MWDKAYI,S0000007
+P0001448,Xiaomi S1 Router,Xiaomi,Electronics,Router,334.21,BAL1BINKBV,S0000008
+P0001449,Amazfit Pro Monitor,Amazfit,Electronics,Monitor,277.74,BATOWMXOBG,S0000009
+P0001450,Canon Pro Earbuds,Canon,Electronics,Earbuds,363.94,BH9YE0LX50,S0000010
+P0001451,Netgear M3 Headphones,Netgear,Electronics,Headphones,288.23,BRAM1XFHPZ,S0000001
+P0001452,Amazfit Bolt Monitor,Amazfit,Electronics,Monitor,474.38,B59FCTTZ65,S0000002
+P0001453,MSI Air Smartwatch,MSI,Electronics,Smartwatch,530.92,BXLZKAGRL7,S0000003
+P0001454,Netgear Edge Earbuds,Netgear,Electronics,Earbuds,146.95,BI8PK6IT8W,S0000004
+P0001455,Netgear M3 Earbuds,Netgear,Electronics,Earbuds,308.65,BNZHYS57J4,S0000005
+P0001456,Realme Go 256GB Tablet,Realme,Electronics,Tablet,749.58,B8UXV701DE,S0000006
+P0001457,JBL Bolt Earbuds,JBL,Electronics,Earbuds,269.91,BJXJOGA9NZ,S0000007
+P0001458,HP Prime 256GB Laptop,HP,Electronics,Laptop,2151.17,BBMNLNOPNH,S0000008
+P0001459,LG Neo Smartwatch,LG,Electronics,Smartwatch,535.31,BQGDB6ONYB,S0000009
+P0001460,HP M3 64GB Tablet,HP,Electronics,Tablet,999.01,BTN5UU4GHX,S0000010
+P0001461,Amazfit Lite Speaker,Amazfit,Electronics,Speaker,104.05,B7AXU16MO2,S0000001
+P0001462,Marshall Air Speaker,Marshall,Electronics,Speaker,763.09,BIX3TSMO41,S0000002
+P0001463,Boult Bolt Camera,Boult,Electronics,Camera,373.29,BH22N0SB5W,S0000003
+P0001464,D-Link X3 256GB Tablet,D-Link,Electronics,Tablet,1121.56,BD8GGSF96I,S0000004
+P0001465,Sony Z3 Camera,Sony,Electronics,Camera,1797.06,B1D0YIO4DQ,S0000005
+P0001466,Sennheiser Lite 256GB Smartphone,Sennheiser,Electronics,Smartphone,1629.27,BD8XS1LRJ6,S0000006
+P0001467,Lenovo Lite 128GB Tablet,Lenovo,Electronics,Tablet,1007.42,BPLWSOM1SX,S0000007
+P0001468,D-Link Pro TV,D-Link,Electronics,TV,2296.10,BLRR9DM3LA,S0000008
+P0001469,Dell Air Earbuds,Dell,Electronics,Earbuds,274.58,BM7IF0RV5L,S0000009
+P0001470,Realme Prime 64GB Smartphone,Realme,Electronics,Smartphone,1279.87,B5VDH4HYVA,S0000010
+P0001471,ASUS Bolt 512GB Smartphone,ASUS,Electronics,Smartphone,355.94,BAKPY17CBX,S0000001
+P0001472,TP-Link Z3 Router,TP-Link,Electronics,Router,105.69,BMXWWIULP0,S0000002
+P0001473,Nokia Lite Speaker,Nokia,Electronics,Speaker,754.85,BZVXFN8UJV,S0000003
+P0001474,Samsung X2 Speaker,Samsung,Electronics,Speaker,441.23,BUDUVVTY6Z,S0000004
+P0001475,Realme Neo Smartwatch,Realme,Electronics,Smartwatch,143.01,BQETBL4ZHF,S0000005
+P0001476,Garmin Pro 128GB Laptop,Garmin,Electronics,Laptop,2651.80,B6FUB3O05W,S0000006
+P0001477,Audio-Technica Z3 Camera,Audio-Technica,Electronics,Camera,887.66,BRV64CFIX9,S0000007
+P0001478,Huawei M3 256GB Laptop,Huawei,Electronics,Laptop,3216.98,BEDYOTOD4L,S0000008
+P0001479,Huawei M3 Speaker,Huawei,Electronics,Speaker,451.26,B92HV87EYT,S0000009
+P0001480,Apple M3 Headphones,Apple,Electronics,Headphones,297.20,BAIH7B3JL0,S0000010
+P0001481,Huawei Air 64GB Laptop,Huawei,Electronics,Laptop,1437.97,BI0JIMKALL,S0000001
+P0001482,Dell Lite Smartwatch,Dell,Electronics,Smartwatch,107.48,BB0C4IWU4V,S0000002
+P0001483,Garmin Ultra Router,Garmin,Electronics,Router,156.04,B78OF93IUR,S0000003
+P0001484,GoPro Bolt 256GB Tablet,GoPro,Electronics,Tablet,1490.03,BJVOHLNLQL,S0000004
+P0001485,Boult S3 128GB Tablet,Boult,Electronics,Tablet,1391.00,BO9IV3XNY0,S0000005
+P0001486,JBL Ultra Headphones,JBL,Electronics,Headphones,576.84,B6T7A3FGTO,S0000006
+P0001487,OnePlus Edge Earbuds,OnePlus,Electronics,Earbuds,328.56,B0B1826KVK,S0000007
+P0001488,Realme Air 32GB Tablet,Realme,Electronics,Tablet,1069.42,BWRPSSI6E4,S0000008
+P0001489,HP S2 Camera,HP,Electronics,Camera,897.34,BQ8ZSB9QGE,S0000009
+P0001490,TP-Link Air Headphones,TP-Link,Electronics,Headphones,566.77,BTLIRQIHOS,S0000010
+P0001491,JBL S1 Earbuds,JBL,Electronics,Earbuds,265.73,BAXSLLEBNO,S0000001
+P0001492,Marshall Neo Monitor,Marshall,Electronics,Monitor,1311.74,BUZAHRNRGS,S0000002
+P0001493,Garmin Pro Camera,Garmin,Electronics,Camera,2221.26,B2PZDHYYQ4,S0000003
+P0001494,Canon X2 256GB Smartphone,Canon,Electronics,Smartphone,1770.77,B9NBGSTHRG,S0000004
+P0001495,Realme M3 256GB Tablet,Realme,Electronics,Tablet,587.49,B92WJMSYL1,S0000005
+P0001496,LG Lite Router,LG,Electronics,Router,333.81,B1R47OOOS1,S0000006
+P0001497,Sony S3 TV,Sony,Electronics,TV,2630.88,B332HH6YNB,S0000007
+P0001498,Sony Ultra 64GB Laptop,Sony,Electronics,Laptop,1266.97,B3APYZH7UV,S0000008
+P0001499,Sennheiser Lite Smartwatch,Sennheiser,Electronics,Smartwatch,430.96,B0B6AKMKSG,S0000009
+P0001500,JBL M3 Speaker,JBL,Electronics,Speaker,485.67,BMY1VE8YHY,S0000010
+P0001501,Sennheiser Lite Smartwatch,Sennheiser,Electronics,Smartwatch,774.35,BX3MVTSNLD,S0000001
+P0001502,Huawei X2 Monitor,Huawei,Electronics,Monitor,904.54,BUEQKXZ2FG,S0000002
+P0001503,Dell S1 Speaker,Dell,Electronics,Speaker,528.72,BORV9UDN5Q,S0000003
+P0001504,Garmin S3 Earbuds,Garmin,Electronics,Earbuds,51.44,BCDAYL32MI,S0000004
+P0001505,Amazfit X3 Monitor,Amazfit,Electronics,Monitor,344.87,B2NDH0JO98,S0000005
+P0001506,Canon X1 Speaker,Canon,Electronics,Speaker,273.43,BLIUWL479G,S0000006
+P0001507,Huawei Lite TV,Huawei,Electronics,TV,4014.24,BU8GLH40C3,S0000007
+P0001508,Apple S2 Camera,Apple,Electronics,Camera,523.42,B7EBWGID9Q,S0000008
+P0001509,Garmin Bolt Speaker,Garmin,Electronics,Speaker,548.34,BXP9PQWZ30,S0000009
+P0001510,Redmi Ultra Monitor,Redmi,Electronics,Monitor,863.45,BV04922J21,S0000010
+P0001511,LG S2 Camera,LG,Electronics,Camera,4822.70,BURZ2F1D44,S0000001
+P0001512,OPPO M3 TV,OPPO,Electronics,TV,1689.82,BH6CUZK0TB,S0000002
+P0001513,Netgear Z3 256GB Smartphone,Netgear,Electronics,Smartphone,1689.27,BTRJ0UMO0P,S0000003
+P0001514,Canon Pro Headphones,Canon,Electronics,Headphones,665.05,BFXV0T5U9O,S0000004
+P0001515,Sennheiser X3 Headphones,Sennheiser,Electronics,Headphones,644.67,BR3W96ULT9,S0000005
+P0001516,TP-Link M3 Monitor,TP-Link,Electronics,Monitor,1414.36,BLN52RKV86,S0000006
+P0001517,Lenovo Go 256GB Laptop,Lenovo,Electronics,Laptop,3601.23,BF57II4E5E,S0000007
+P0001518,GoPro X1 Earbuds,GoPro,Electronics,Earbuds,289.24,BN07DU4QF2,S0000008
+P0001519,Apple X3 128GB Smartphone,Apple,Electronics,Smartphone,351.55,BN5B19OEUR,S0000009
+P0001520,Boult M3 Speaker,Boult,Electronics,Speaker,416.70,BV0S81HNOT,S0000010
+P0001521,OPPO S2 Camera,OPPO,Electronics,Camera,2316.26,BMK8NCBTHQ,S0000001
+P0001522,Sony X2 256GB Tablet,Sony,Electronics,Tablet,1064.62,BO6AF5X312,S0000002
+P0001523,Canon X3 Headphones,Canon,Electronics,Headphones,122.78,BNOLJC4I32,S0000003
+P0001524,MSI Bolt Speaker,MSI,Electronics,Speaker,749.76,BEHN6TW1TS,S0000004
+P0001525,Redmi Pro TV,Redmi,Electronics,TV,1757.57,BQU8FKI5FW,S0000005
+P0001526,Dell S3 TV,Dell,Electronics,TV,3454.91,BHT2G2ZPAC,S0000006
+P0001527,Boult X3 Smartwatch,Boult,Electronics,Smartwatch,267.78,B1BKBV2DWH,S0000007
+P0001528,Nokia S2 512GB Smartphone,Nokia,Electronics,Smartphone,970.93,B50FDEQ7MR,S0000008
+P0001529,Dell Z3 Monitor,Dell,Electronics,Monitor,1054.80,BKZUAOH553,S0000009
+P0001530,Audio-Technica Z3 Monitor,Audio-Technica,Electronics,Monitor,610.50,BYCCFBMT0K,S0000010
+P0001531,Marshall Lite Headphones,Marshall,Electronics,Headphones,598.82,BNKUTAJMQ5,S0000001
+P0001532,Lenovo Bolt Earbuds,Lenovo,Electronics,Earbuds,130.07,BD1NXZ5JNZ,S0000002
+P0001533,Amazfit M3 Monitor,Amazfit,Electronics,Monitor,432.14,BYZGD6NC4C,S0000003
+P0001534,Huawei Edge Router,Huawei,Electronics,Router,105.38,BBS0W141XQ,S0000004
+P0001535,OnePlus Lite TV,OnePlus,Electronics,TV,4466.64,BW6P18AYNK,S0000005
+P0001536,GoPro X3 32GB Tablet,GoPro,Electronics,Tablet,517.86,BPFWGLYY0P,S0000006
+P0001537,Realme Neo Camera,Realme,Electronics,Camera,4147.90,BI5NTB58VD,S0000007
+P0001538,ASUS X1 32GB Smartphone,ASUS,Electronics,Smartphone,240.96,B3XNGU9GHM,S0000008
+P0001539,Garmin S1 Earbuds,Garmin,Electronics,Earbuds,47.05,BVU3VXXBUJ,S0000009
+P0001540,OPPO Prime Monitor,OPPO,Electronics,Monitor,1069.44,BAJZGT9B2W,S0000010
+P0001541,Netgear Lite Headphones,Netgear,Electronics,Headphones,337.96,BCZTO8PKF5,S0000001
+P0001542,Apple Ultra Speaker,Apple,Electronics,Speaker,777.19,B3EK3FV921,S0000002
+P0001543,Boult X3 128GB Smartphone,Boult,Electronics,Smartphone,319.14,BVC40EB9IT,S0000003
+P0001544,boAt Edge Router,boAt,Electronics,Router,237.98,BRD2HLVWBE,S0000004
+P0001545,HP Pro Smartwatch,HP,Electronics,Smartwatch,487.61,BO3G74IGMZ,S0000005
+P0001546,Dell S1 Earbuds,Dell,Electronics,Earbuds,142.58,BOGX3IU7TY,S0000006
+P0001547,ASUS Prime Speaker,ASUS,Electronics,Speaker,313.47,BTLFCETACP,S0000007
+P0001548,Canon M3 32GB Tablet,Canon,Electronics,Tablet,934.95,B4X47NCS5D,S0000008
+P0001549,Huawei M3 Speaker,Huawei,Electronics,Speaker,124.97,BIDQ50KJU9,S0000009
+P0001550,OPPO X1 TV,OPPO,Electronics,TV,1219.61,BS9KTCVW67,S0000010
+P0001551,Samsung S2 Speaker,Samsung,Electronics,Speaker,706.00,BSF5G5HF2P,S0000001
+P0001552,Garmin S3 Monitor,Garmin,Electronics,Monitor,846.66,BSEKWZ1LNX,S0000002
+P0001553,Motorola S3 64GB Laptop,Motorola,Electronics,Laptop,423.50,BS0JX99IHQ,S0000003
+P0001554,ASUS X3 Headphones,ASUS,Electronics,Headphones,266.60,BX3P590N7D,S0000004
+P0001555,LG Ultra Earbuds,LG,Electronics,Earbuds,386.76,BDTSO045CM,S0000005
+P0001556,Sennheiser Pro Headphones,Sennheiser,Electronics,Headphones,59.49,BBJBHZ0MRW,S0000006
+P0001557,Realme M3 Smartwatch,Realme,Electronics,Smartwatch,1189.65,BQC6JHDF7K,S0000007
+P0001558,Lenovo Prime Camera,Lenovo,Electronics,Camera,4485.98,BIOZSG865R,S0000008
+P0001559,Canon Bolt Smartwatch,Canon,Electronics,Smartwatch,970.02,BUNL1F7Q41,S0000009
+P0001560,Sennheiser S1 Earbuds,Sennheiser,Electronics,Earbuds,30.83,BA8IV2OW4C,S0000010
+P0001561,TP-Link X3 Smartwatch,TP-Link,Electronics,Smartwatch,1001.75,B2BHAPZEWZ,S0000001
+P0001562,Huawei Z3 Headphones,Huawei,Electronics,Headphones,337.70,B9LY6N19WG,S0000002
+P0001563,Marshall Lite Speaker,Marshall,Electronics,Speaker,778.13,BGIRC504OG,S0000003
+P0001564,boAt S3 Headphones,boAt,Electronics,Headphones,209.18,BSO3ZE00PS,S0000004
+P0001565,Realme Bolt 64GB Smartphone,Realme,Electronics,Smartphone,1876.52,B3BVCDJKCG,S0000005
+P0001566,OPPO X1 Smartwatch,OPPO,Electronics,Smartwatch,179.50,B91YCLQJV7,S0000006
+P0001567,Nikon S3 256GB Smartphone,Nikon,Electronics,Smartphone,958.54,BK70PL9UFQ,S0000007
+P0001568,LG X2 Earbuds,LG,Electronics,Earbuds,35.27,B0IPRL3JXM,S0000008
+P0001569,Apple S3 Smartwatch,Apple,Electronics,Smartwatch,436.11,BC97QLUZ83,S0000009
+P0001570,Sennheiser X3 32GB Tablet,Sennheiser,Electronics,Tablet,476.63,B85SO6HI26,S0000010
+P0001571,Sony Edge Camera,Sony,Electronics,Camera,647.78,BVJ2GP5KOJ,S0000001
+P0001572,Motorola M3 64GB Tablet,Motorola,Electronics,Tablet,1393.65,BQZJODJRCU,S0000002
+P0001573,TP-Link M3 Headphones,TP-Link,Electronics,Headphones,692.78,BILRIGJ8BH,S0000003
+P0001574,Samsung Z3 Monitor,Samsung,Electronics,Monitor,1598.54,B9ULLS02U4,S0000004
+P0001575,Netgear Go Speaker,Netgear,Electronics,Speaker,430.47,BWXIM1CFO5,S0000005
+P0001576,boAt Neo TV,boAt,Electronics,TV,3269.00,BEW8KGNRFL,S0000006
+P0001577,Huawei M3 Monitor,Huawei,Electronics,Monitor,681.46,BJB31M53WD,S0000007
+P0001578,Redmi Neo Smartwatch,Redmi,Electronics,Smartwatch,542.13,B0NX4C49AF,S0000008
+P0001579,Canon Ultra Earbuds,Canon,Electronics,Earbuds,374.02,B530OXGJ7X,S0000009
+P0001580,Amazfit M3 Monitor,Amazfit,Electronics,Monitor,655.58,BLSZVLXW3J,S0000010
+P0001581,boAt Lite Earbuds,boAt,Electronics,Earbuds,363.16,BSS8HKIVWW,S0000001
+P0001582,Xiaomi S1 Smartwatch,Xiaomi,Electronics,Smartwatch,767.86,B1D1C4NEMZ,S0000002
+P0001583,Sennheiser S1 Earbuds,Sennheiser,Electronics,Earbuds,240.36,BXHK0K9DHA,S0000003
+P0001584,Dell S3 128GB Tablet,Dell,Electronics,Tablet,1324.71,BRULK580LL,S0000004
+P0001585,Amazfit Z3 Smartwatch,Amazfit,Electronics,Smartwatch,93.16,BIYL781GEO,S0000005
+P0001586,Amazfit Bolt 256GB Laptop,Amazfit,Electronics,Laptop,3101.22,BLLG8RJ8CV,S0000006
+P0001587,OPPO Air Headphones,OPPO,Electronics,Headphones,207.13,BEADA3S7E4,S0000007
+P0001588,Apple Prime 32GB Smartphone,Apple,Electronics,Smartphone,870.33,BK95GGRPG0,S0000008
+P0001589,Canon Neo 512GB Tablet,Canon,Electronics,Tablet,364.86,B76WF8W0OP,S0000009
+P0001590,Samsung X1 32GB Laptop,Samsung,Electronics,Laptop,3718.56,BV7UA2TLBJ,S0000010
+P0001591,Boult S3 Earbuds,Boult,Electronics,Earbuds,197.36,BNFKOEFPJY,S0000001
+P0001592,MSI Edge Speaker,MSI,Electronics,Speaker,210.45,B2BOO0PFJQ,S0000002
+P0001593,D-Link Prime Router,D-Link,Electronics,Router,198.69,B9BBFW4V3I,S0000003
+P0001594,JBL Neo Earbuds,JBL,Electronics,Earbuds,262.61,BQHISMTLEN,S0000004
+P0001595,Netgear Bolt Headphones,Netgear,Electronics,Headphones,666.47,B2UUNBYAMF,S0000005
+P0001596,Apple Prime Speaker,Apple,Electronics,Speaker,619.03,BW6I4FPYLO,S0000006
+P0001597,Garmin M3 Monitor,Garmin,Electronics,Monitor,1729.66,BC22OVNUZM,S0000007
+P0001598,GoPro Pro Monitor,GoPro,Electronics,Monitor,1227.39,B99SNPM7G0,S0000008
+P0001599,Audio-Technica S2 Monitor,Audio-Technica,Electronics,Monitor,1882.84,B8R5A0HD22,S0000009
+P0001600,Amazfit X3 Router,Amazfit,Electronics,Router,197.83,BVR07J5TKK,S0000010
+P0001601,LG Pro 256GB Smartphone,LG,Electronics,Smartphone,354.14,BMGLDJEA40,S0000001
+P0001602,Realme Edge Speaker,Realme,Electronics,Speaker,367.22,BNBUCFNS7R,S0000002
+P0001603,Samsung S2 Router,Samsung,Electronics,Router,103.69,B8T6CQ72G1,S0000003
+P0001604,Lenovo Pro 512GB Smartphone,Lenovo,Electronics,Smartphone,1191.19,BR4QIZ1A02,S0000004
+P0001605,Huawei Go Smartwatch,Huawei,Electronics,Smartwatch,1165.91,B4OXMCLFIQ,S0000005
+P0001606,Sony M3 Router,Sony,Electronics,Router,162.54,BBG0ELAJBF,S0000006
+P0001607,Xiaomi S2 Camera,Xiaomi,Electronics,Camera,1304.68,BJ0T7JFDFN,S0000007
+P0001608,Vivo Ultra Speaker,Vivo,Electronics,Speaker,597.36,BOMR6OR62T,S0000008
+P0001609,Dell Neo TV,Dell,Electronics,TV,2655.03,BSVX03MMPP,S0000009
+P0001610,Amazfit X1 Camera,Amazfit,Electronics,Camera,2440.67,BVUH8VK6MP,S0000010
+P0001611,MSI Pro 128GB Tablet,MSI,Electronics,Tablet,699.34,BJMD0OS1LG,S0000001
+P0001612,Nikon Lite Camera,Nikon,Electronics,Camera,4884.67,BBP6KF2UP6,S0000002
+P0001613,Canon X1 Smartwatch,Canon,Electronics,Smartwatch,418.26,BOT21PTD52,S0000003
+P0001614,Sennheiser Bolt Monitor,Sennheiser,Electronics,Monitor,1284.62,BT2DB7OUQT,S0000004
+P0001615,Realme Neo Headphones,Realme,Electronics,Headphones,679.99,BJGTLZ81Y8,S0000005
+P0001616,Audio-Technica S3 Speaker,Audio-Technica,Electronics,Speaker,277.06,BYWSEDU85T,S0000006
+P0001617,HP S1 Smartwatch,HP,Electronics,Smartwatch,310.58,BZ2Q0O63UL,S0000007
+P0001618,Marshall X3 Monitor,Marshall,Electronics,Monitor,830.23,BZIMJLS57O,S0000008
+P0001619,Lenovo S2 128GB Laptop,Lenovo,Electronics,Laptop,3597.61,B9EILPRLJR,S0000009
+P0001620,Marshall Neo Smartwatch,Marshall,Electronics,Smartwatch,994.74,BQ4HIEXR8O,S0000010
+P0001621,Apple S3 Earbuds,Apple,Electronics,Earbuds,290.34,BQF4H6ZOBP,S0000001
+P0001622,Canon Pro 256GB Smartphone,Canon,Electronics,Smartphone,1099.33,BK5NUUWT9L,S0000002
+P0001623,Marshall X1 Camera,Marshall,Electronics,Camera,2183.03,BG5B4CYPAI,S0000003
+P0001624,Huawei M3 32GB Laptop,Huawei,Electronics,Laptop,478.83,BOJAO5MMCK,S0000004
+P0001625,Redmi X2 32GB Laptop,Redmi,Electronics,Laptop,669.66,B61VW2OBE3,S0000005
+P0001626,LG S3 64GB Tablet,LG,Electronics,Tablet,713.10,BGK0TGAXB7,S0000006
+P0001627,Canon S1 256GB Smartphone,Canon,Electronics,Smartphone,1124.62,BU83KAGC8D,S0000007
+P0001628,Netgear Go 64GB Smartphone,Netgear,Electronics,Smartphone,1278.47,BNBJWUD1PV,S0000008
+P0001629,Sennheiser X1 Earbuds,Sennheiser,Electronics,Earbuds,325.40,BSFHKJ0ND9,S0000009
+P0001630,Audio-Technica Pro Smartwatch,Audio-Technica,Electronics,Smartwatch,1017.42,BJ8TT7KZAP,S0000010
+P0001631,Canon Air 512GB Smartphone,Canon,Electronics,Smartphone,260.66,BXSX86LZI1,S0000001
+P0001632,ASUS Go Earbuds,ASUS,Electronics,Earbuds,37.14,BOKUZ5FHTU,S0000002
+P0001633,Audio-Technica S3 Speaker,Audio-Technica,Electronics,Speaker,681.68,BES71643CI,S0000003
+P0001634,Samsung Z3 Speaker,Samsung,Electronics,Speaker,322.67,BGZLVX148T,S0000004
+P0001635,OPPO X1 Smartwatch,OPPO,Electronics,Smartwatch,803.07,B78TNZ58C8,S0000005
+P0001636,Boult S1 128GB Laptop,Boult,Electronics,Laptop,2527.56,BTOWW8XDIL,S0000006
+P0001637,Sony Bolt 32GB Laptop,Sony,Electronics,Laptop,2498.95,BWJWASHIM2,S0000007
+P0001638,Vivo Pro TV,Vivo,Electronics,TV,2077.84,B4DYTI25PG,S0000008
+P0001639,Netgear Go Earbuds,Netgear,Electronics,Earbuds,49.83,BUODVZRN0L,S0000009
+P0001640,Samsung Ultra Monitor,Samsung,Electronics,Monitor,780.47,B6QCHMKVI5,S0000010
+P0001641,GoPro Lite 64GB Tablet,GoPro,Electronics,Tablet,603.74,BB1P3GZ1MQ,S0000001
+P0001642,Vivo Neo Headphones,Vivo,Electronics,Headphones,654.12,BIOOYSP12H,S0000002
+P0001643,OPPO X2 Headphones,OPPO,Electronics,Headphones,196.72,BQ3HJLYPWX,S0000003
+P0001644,Apple X3 Camera,Apple,Electronics,Camera,807.55,BW9P4FLK8H,S0000004
+P0001645,Vivo Edge Speaker,Vivo,Electronics,Speaker,86.50,B1C2V8T85W,S0000005
+P0001646,Canon Bolt Speaker,Canon,Electronics,Speaker,229.43,BC48KYWZE8,S0000006
+P0001647,JBL S2 Headphones,JBL,Electronics,Headphones,593.13,BXZVGJR5MY,S0000007
+P0001648,D-Link Bolt 512GB Tablet,D-Link,Electronics,Tablet,828.96,B6KP2Z4EK3,S0000008
+P0001649,Vivo S2 TV,Vivo,Electronics,TV,862.88,BW4ST5PMMZ,S0000009
+P0001650,Huawei Pro 256GB Tablet,Huawei,Electronics,Tablet,852.67,BAZWTD3MOU,S0000010
+P0001651,Apple Go Speaker,Apple,Electronics,Speaker,506.61,B42WTCXAIH,S0000001
+P0001652,Audio-Technica Air TV,Audio-Technica,Electronics,TV,4442.01,BJKQWAL9TP,S0000002
+P0001653,Amazfit Go Smartwatch,Amazfit,Electronics,Smartwatch,836.65,BSHA2G9H8I,S0000003
+P0001654,LG Pro 32GB Laptop,LG,Electronics,Laptop,604.97,B8NZPMWXIH,S0000004
+P0001655,GoPro Go Headphones,GoPro,Electronics,Headphones,560.38,BVV721HMSX,S0000005
+P0001656,TP-Link Prime 256GB Tablet,TP-Link,Electronics,Tablet,937.70,BY3LUP5P6W,S0000006
+P0001657,OPPO Prime 128GB Tablet,OPPO,Electronics,Tablet,883.26,BY52JFG6JB,S0000007
+P0001658,Sony S3 Router,Sony,Electronics,Router,397.67,BST0R4PC30,S0000008
+P0001659,OPPO X1 32GB Laptop,OPPO,Electronics,Laptop,3798.30,B9HQI7DJXV,S0000009
+P0001660,Dell Lite 64GB Laptop,Dell,Electronics,Laptop,1289.32,BP3JHYN5CU,S0000010
+P0001661,boAt Z3 64GB Laptop,boAt,Electronics,Laptop,3083.77,B39A232DGU,S0000001
+P0001662,Nikon S2 Earbuds,Nikon,Electronics,Earbuds,126.33,BQ4W6A7N70,S0000002
+P0001663,Xiaomi M3 TV,Xiaomi,Electronics,TV,2166.10,B2FLX8CGB3,S0000003
+P0001664,Nokia X1 TV,Nokia,Electronics,TV,510.56,BYFCSRZPZD,S0000004
+P0001665,LG Air Smartwatch,LG,Electronics,Smartwatch,1199.69,B7556F3M2S,S0000005
+P0001666,ASUS S3 512GB Tablet,ASUS,Electronics,Tablet,605.75,BYRKTHN3LY,S0000006
+P0001667,Apple X2 TV,Apple,Electronics,TV,1754.52,BIDVLR9BZQ,S0000007
+P0001668,Xiaomi Go Monitor,Xiaomi,Electronics,Monitor,842.41,BOP3INM9NM,S0000008
+P0001669,Motorola Neo Headphones,Motorola,Electronics,Headphones,373.63,B4A0YFBB6H,S0000009
+P0001670,Nokia X2 Earbuds,Nokia,Electronics,Earbuds,261.88,BKJX17DQWT,S0000010
+P0001671,Redmi Edge Smartwatch,Redmi,Electronics,Smartwatch,813.47,BAK9DQSN98,S0000001
+P0001672,Lenovo Prime 64GB Laptop,Lenovo,Electronics,Laptop,450.75,B8LBLSJYE8,S0000002
+P0001673,MSI X3 TV,MSI,Electronics,TV,4233.65,B6RFZ3IVAY,S0000003
+P0001674,Sennheiser Ultra Speaker,Sennheiser,Electronics,Speaker,304.49,BXTGKAUM55,S0000004
+P0001675,Redmi Z3 Speaker,Redmi,Electronics,Speaker,83.94,BM6NXIKS3L,S0000005
+P0001676,Boult Z3 32GB Smartphone,Boult,Electronics,Smartphone,1190.42,BXZXNJEA54,S0000006
+P0001677,Dell Air Speaker,Dell,Electronics,Speaker,112.67,BNUYPIEOJ2,S0000007
+P0001678,LG Z3 Headphones,LG,Electronics,Headphones,172.28,B7TLFLW4TV,S0000008
+P0001679,TP-Link S1 Camera,TP-Link,Electronics,Camera,3088.00,BNWZBQVYIJ,S0000009
+P0001680,Samsung Z3 Router,Samsung,Electronics,Router,163.99,BY37USLAR4,S0000010
+P0001681,Boult Neo Earbuds,Boult,Electronics,Earbuds,155.07,BBZHPLV2KC,S0000001
+P0001682,LG Bolt Speaker,LG,Electronics,Speaker,478.44,BD7YI0C8XC,S0000002
+P0001683,Boult Neo TV,Boult,Electronics,TV,4033.14,B5M5YULCXS,S0000003
+P0001684,LG S2 Smartwatch,LG,Electronics,Smartwatch,587.19,BC3CIMQ0UG,S0000004
+P0001685,Vivo Neo 64GB Laptop,Vivo,Electronics,Laptop,3544.60,B3DHJ8VJ9I,S0000005
+P0001686,Netgear Ultra Speaker,Netgear,Electronics,Speaker,149.86,B1S7PCRDJP,S0000006
+P0001687,Amazfit Edge Camera,Amazfit,Electronics,Camera,4191.16,BND7KZD8Q3,S0000007
+P0001688,MSI Air Headphones,MSI,Electronics,Headphones,452.72,BPH2NJKJQT,S0000008
+P0001689,TP-Link X3 Earbuds,TP-Link,Electronics,Earbuds,180.80,B3FT2B5U4F,S0000009
+P0001690,Nokia Z3 TV,Nokia,Electronics,TV,3187.70,B4QEMPGVU3,S0000010
+P0001691,Apple Prime 128GB Tablet,Apple,Electronics,Tablet,1308.31,BGHG49TAN6,S0000001
+P0001692,boAt Pro Router,boAt,Electronics,Router,296.45,BGB1C2XPRG,S0000002
+P0001693,Marshall X1 Earbuds,Marshall,Electronics,Earbuds,203.60,BRZVXXLIFK,S0000003
+P0001694,boAt X3 32GB Laptop,boAt,Electronics,Laptop,2542.28,BVZ1P7JOKT,S0000004
+P0001695,Lenovo Lite Smartwatch,Lenovo,Electronics,Smartwatch,1162.51,BQFXBHJ3C2,S0000005
+P0001696,boAt Pro 512GB Tablet,boAt,Electronics,Tablet,1310.38,B9U2796T8X,S0000006
+P0001697,Canon X3 512GB Smartphone,Canon,Electronics,Smartphone,599.88,BM74UO1K2D,S0000007
+P0001698,Redmi Lite Earbuds,Redmi,Electronics,Earbuds,104.37,BB2TWPIX59,S0000008
+P0001699,Apple M3 Monitor,Apple,Electronics,Monitor,1389.99,B6DL5PXCOZ,S0000009
+P0001700,Amazfit Neo Headphones,Amazfit,Electronics,Headphones,360.12,BU0EHO1LWE,S0000010
+P0001701,Sennheiser Edge Smartwatch,Sennheiser,Electronics,Smartwatch,230.30,BE8AAFZ535,S0000001
+P0001702,Sennheiser S2 Monitor,Sennheiser,Electronics,Monitor,1236.75,BIKZTFIK1Z,S0000002
+P0001703,Apple Air Smartwatch,Apple,Electronics,Smartwatch,686.42,BJXRC9NH5G,S0000003
+P0001704,Samsung S2 Earbuds,Samsung,Electronics,Earbuds,290.73,BH1D1I7YFB,S0000004
+P0001705,OnePlus Lite Headphones,OnePlus,Electronics,Headphones,654.82,BSS3T7OBJC,S0000005
+P0001706,Netgear Prime Earbuds,Netgear,Electronics,Earbuds,65.11,BRXBDPWXHW,S0000006
+P0001707,OnePlus S2 256GB Tablet,OnePlus,Electronics,Tablet,175.96,BSPG0ZCK7Q,S0000007
+P0001708,Samsung Neo Router,Samsung,Electronics,Router,100.55,B8X74TMGR2,S0000008
+P0001709,Amazfit Z3 64GB Laptop,Amazfit,Electronics,Laptop,965.36,B4FYY8U8XZ,S0000009
+P0001710,boAt Bolt Camera,boAt,Electronics,Camera,3963.40,BQZ7AX8ZP3,S0000010
+P0001711,Huawei Pro TV,Huawei,Electronics,TV,3825.87,B0YDAE1JXK,S0000001
+P0001712,Lenovo Bolt 512GB Smartphone,Lenovo,Electronics,Smartphone,525.19,BZ32WQ4TMY,S0000002
+P0001713,Lenovo S1 64GB Tablet,Lenovo,Electronics,Tablet,1094.55,B9A3I6C44V,S0000003
+P0001714,Nokia M3 Earbuds,Nokia,Electronics,Earbuds,238.20,BCY2W1XA34,S0000004
+P0001715,Motorola M3 Earbuds,Motorola,Electronics,Earbuds,214.83,B1F83NALFR,S0000005
+P0001716,TP-Link S3 Camera,TP-Link,Electronics,Camera,324.68,B2VQ3T7GSF,S0000006
+P0001717,GoPro Neo 32GB Tablet,GoPro,Electronics,Tablet,540.17,BW7OWV0M2R,S0000007
+P0001718,boAt M3 Camera,boAt,Electronics,Camera,746.57,B60P508N8A,S0000008
+P0001719,Vivo M3 TV,Vivo,Electronics,TV,2470.60,BRCDDXZAYQ,S0000009
+P0001720,Dell Edge 32GB Smartphone,Dell,Electronics,Smartphone,1639.15,BSERQHKYIU,S0000010
+P0001721,Vivo S3 512GB Smartphone,Vivo,Electronics,Smartphone,835.18,BOEISGYZO3,S0000001
+P0001722,Apple Bolt Headphones,Apple,Electronics,Headphones,183.98,BXE4LXY4SK,S0000002
+P0001723,Amazfit Lite Speaker,Amazfit,Electronics,Speaker,694.41,BGW2IZ7U20,S0000003
+P0001724,Audio-Technica Pro 256GB Laptop,Audio-Technica,Electronics,Laptop,2712.75,BOO0YO59V3,S0000004
+P0001725,LG Bolt 256GB Laptop,LG,Electronics,Laptop,1818.01,BXQ8ILQTP3,S0000005
+P0001726,Xiaomi Ultra TV,Xiaomi,Electronics,TV,1307.38,BMH86CJTY5,S0000006
+P0001727,GoPro Air Camera,GoPro,Electronics,Camera,2820.30,BK1OF317RH,S0000007
+P0001728,D-Link Prime Speaker,D-Link,Electronics,Speaker,246.28,BK1W0AUFGN,S0000008
+P0001729,LG Go Earbuds,LG,Electronics,Earbuds,203.93,BTQLHR963Z,S0000009
+P0001730,Redmi Bolt Monitor,Redmi,Electronics,Monitor,1745.32,B8IC02F41Q,S0000010
+P0001731,MSI S3 Earbuds,MSI,Electronics,Earbuds,386.88,BYV2E6LM9M,S0000001
+P0001732,OnePlus Lite Router,OnePlus,Electronics,Router,208.89,BQOFZY1USN,S0000002
+P0001733,Boult Air Camera,Boult,Electronics,Camera,3389.59,BC7JA1A8UJ,S0000003
+P0001734,Nikon Pro Camera,Nikon,Electronics,Camera,1370.63,BFFK1PFO0O,S0000004
+P0001735,LG Ultra Speaker,LG,Electronics,Speaker,50.08,B76HBFJ8JT,S0000005
+P0001736,HP Z3 64GB Tablet,HP,Electronics,Tablet,408.30,BGNUO83NTC,S0000006
+P0001737,Canon S2 Router,Canon,Electronics,Router,94.17,B60CRSSVDK,S0000007
+P0001738,Realme Prime TV,Realme,Electronics,TV,2075.91,BLDBALF6ZL,S0000008
+P0001739,D-Link M3 Camera,D-Link,Electronics,Camera,838.76,B0QJLUFF2K,S0000009
+P0001740,Samsung S3 Speaker,Samsung,Electronics,Speaker,643.42,BOF1T5I5TH,S0000010
+P0001741,Motorola Neo 32GB Laptop,Motorola,Electronics,Laptop,3192.00,BFV8KN6WBR,S0000001
+P0001742,Samsung Edge 64GB Smartphone,Samsung,Electronics,Smartphone,953.15,B7BEL9AO5T,S0000002
+P0001743,Dell Prime Speaker,Dell,Electronics,Speaker,148.93,BY40UVM8ZI,S0000003
+P0001744,Vivo Go Router,Vivo,Electronics,Router,353.64,B0RZIXE9D6,S0000004
+P0001745,Apple S1 Earbuds,Apple,Electronics,Earbuds,199.48,BPTH50WK3A,S0000005
+P0001746,D-Link S1 Headphones,D-Link,Electronics,Headphones,372.19,BGEEWHNKK0,S0000006
+P0001747,Dell Z3 512GB Smartphone,Dell,Electronics,Smartphone,376.51,B8HN239NFQ,S0000007
+P0001748,MSI S3 128GB Smartphone,MSI,Electronics,Smartphone,651.80,B2S2T2MDM7,S0000008
+P0001749,Motorola S1 Camera,Motorola,Electronics,Camera,1060.06,B5V9IAJ0ZC,S0000009
+P0001750,OnePlus X1 Headphones,OnePlus,Electronics,Headphones,221.40,BC78Q1AROZ,S0000010
+P0001751,Redmi M3 Speaker,Redmi,Electronics,Speaker,470.44,BPH25YCQD1,S0000001
+P0001752,Garmin X3 TV,Garmin,Electronics,TV,3358.65,BW7F6GE1VL,S0000002
+P0001753,Sony Neo Smartwatch,Sony,Electronics,Smartwatch,94.54,B2171FVP0K,S0000003
+P0001754,GoPro S3 Monitor,GoPro,Electronics,Monitor,1740.05,BG9A933QGU,S0000004
+P0001755,Sennheiser M3 Router,Sennheiser,Electronics,Router,243.45,BUQHQ9W7JZ,S0000005
+P0001756,HP Pro Earbuds,HP,Electronics,Earbuds,188.17,BUPGB6A61A,S0000006
+P0001757,Xiaomi Ultra Speaker,Xiaomi,Electronics,Speaker,180.23,B9SEBYYRGU,S0000007
+P0001758,Samsung S1 Monitor,Samsung,Electronics,Monitor,863.64,BXLGTW4QXE,S0000008
+P0001759,Xiaomi X1 32GB Smartphone,Xiaomi,Electronics,Smartphone,1557.74,B6R0I0ULY2,S0000009
+P0001760,Garmin Lite Monitor,Garmin,Electronics,Monitor,216.49,BKE0M4MYI4,S0000010
+P0001761,HP Ultra Camera,HP,Electronics,Camera,2680.30,B491F97BMU,S0000001
+P0001762,Sennheiser Lite 64GB Smartphone,Sennheiser,Electronics,Smartphone,1020.83,BXXEVPJ15R,S0000002
+P0001763,Sennheiser X2 512GB Tablet,Sennheiser,Electronics,Tablet,981.03,BDY8CWHB5M,S0000003
+P0001764,TP-Link X1 128GB Tablet,TP-Link,Electronics,Tablet,1266.04,BPN1WBD2EK,S0000004
+P0001765,TP-Link Bolt Monitor,TP-Link,Electronics,Monitor,971.35,B6NZS5D255,S0000005
+P0001766,Sennheiser S1 Headphones,Sennheiser,Electronics,Headphones,573.68,B7Z3FORLOI,S0000006
+P0001767,Realme Neo Smartwatch,Realme,Electronics,Smartwatch,1163.63,BP433RUTBR,S0000007
+P0001768,Sennheiser Air Smartwatch,Sennheiser,Electronics,Smartwatch,784.26,BEZR1EK13T,S0000008
+P0001769,Sony S2 Headphones,Sony,Electronics,Headphones,581.22,B71TIUU9CJ,S0000009
+P0001770,Nikon S1 Headphones,Nikon,Electronics,Headphones,164.52,B7JVNQDN0Y,S0000010
+P0001771,Sony Air 256GB Laptop,Sony,Electronics,Laptop,788.23,BWHDSPO1Y4,S0000001
+P0001772,OPPO Neo Earbuds,OPPO,Electronics,Earbuds,290.85,BU4H8N8433,S0000002
+P0001773,OnePlus Pro Headphones,OnePlus,Electronics,Headphones,443.92,BD749ZRSMC,S0000003
+P0001774,Garmin M3 Router,Garmin,Electronics,Router,61.45,BKPQ6KF8X1,S0000004
+P0001775,Marshall Go 128GB Laptop,Marshall,Electronics,Laptop,3163.38,B3A1MXLL81,S0000005
+P0001776,Garmin Edge Smartwatch,Garmin,Electronics,Smartwatch,411.53,BY2W2GJ0Y3,S0000006
+P0001777,Vivo X2 64GB Smartphone,Vivo,Electronics,Smartphone,1678.17,BNP8ET18D6,S0000007
+P0001778,Nikon Go 256GB Tablet,Nikon,Electronics,Tablet,642.10,BBA6MK55PY,S0000008
+P0001779,OnePlus Ultra 512GB Smartphone,OnePlus,Electronics,Smartphone,597.95,BULSHC3RWQ,S0000009
+P0001780,Lenovo Lite Earbuds,Lenovo,Electronics,Earbuds,188.56,BDBMRQAOUQ,S0000010
+P0001781,Nokia X2 TV,Nokia,Electronics,TV,965.88,BEFTVRZ10E,S0000001
+P0001782,LG M3 Monitor,LG,Electronics,Monitor,1953.89,BUCFP37A2O,S0000002
+P0001783,Realme X1 256GB Laptop,Realme,Electronics,Laptop,3204.44,BQ9PQSXE3C,S0000003
+P0001784,ASUS M3 Camera,ASUS,Electronics,Camera,4869.76,B8DRQBKG2J,S0000004
+P0001785,Vivo Lite Router,Vivo,Electronics,Router,304.50,BOVO1EZ741,S0000005
+P0001786,LG X3 64GB Laptop,LG,Electronics,Laptop,1895.49,BW4LLIXAVL,S0000006
+P0001787,boAt Prime Smartwatch,boAt,Electronics,Smartwatch,285.31,BZBTCJI6DW,S0000007
+P0001788,Dell Lite Smartwatch,Dell,Electronics,Smartwatch,208.59,BMWHJED6DZ,S0000008
+P0001789,Apple Go Camera,Apple,Electronics,Camera,3793.21,BZO7917ZJ6,S0000009
+P0001790,LG S2 Speaker,LG,Electronics,Speaker,503.76,BO37VNGPZO,S0000010
+P0001791,Boult Ultra 512GB Smartphone,Boult,Electronics,Smartphone,749.74,B6JUUERB4W,S0000001
+P0001792,Canon Neo 64GB Smartphone,Canon,Electronics,Smartphone,1554.46,BWMDW22K7E,S0000002
+P0001793,LG X2 Earbuds,LG,Electronics,Earbuds,366.19,BTCV0IEWSF,S0000003
+P0001794,Motorola Lite Router,Motorola,Electronics,Router,337.11,B6PAOPG6SL,S0000004
+P0001795,boAt Lite TV,boAt,Electronics,TV,743.32,B1PIDP5DVD,S0000005
+P0001796,Dell X2 Smartwatch,Dell,Electronics,Smartwatch,1101.42,B0JP9LDQOO,S0000006
+P0001797,JBL Prime Router,JBL,Electronics,Router,389.44,BRRPV6WNCE,S0000007
+P0001798,Nokia Z3 Router,Nokia,Electronics,Router,233.57,BVXFGXNL1Y,S0000008
+P0001799,Audio-Technica X3 TV,Audio-Technica,Electronics,TV,533.09,BKS3APUXFP,S0000009
+P0001800,LG Pro Speaker,LG,Electronics,Speaker,529.28,BLLAYCLVBU,S0000010
+P0001801,Sennheiser Edge TV,Sennheiser,Electronics,TV,889.76,BOE7Z3FYI5,S0000001
+P0001802,TP-Link X1 TV,TP-Link,Electronics,TV,294.87,BDJ5QP4CNH,S0000002
+P0001803,Lenovo Go Earbuds,Lenovo,Electronics,Earbuds,52.09,BG2OXPWKR0,S0000003
+P0001804,Boult S3 256GB Tablet,Boult,Electronics,Tablet,1426.00,B5P6MND278,S0000004
+P0001805,Samsung Ultra 128GB Tablet,Samsung,Electronics,Tablet,809.00,BW96DQKR3K,S0000005
+P0001806,Apple Pro 512GB Smartphone,Apple,Electronics,Smartphone,334.13,B53BE68HNY,S0000006
+P0001807,GoPro M3 Headphones,GoPro,Electronics,Headphones,342.12,B8FEXUYT4B,S0000007
+P0001808,HP Edge 512GB Laptop,HP,Electronics,Laptop,2513.02,BKWM8U4I9L,S0000008
+P0001809,HP S3 Earbuds,HP,Electronics,Earbuds,341.28,B0HUY3PHCF,S0000009
+P0001810,Audio-Technica Bolt 512GB Tablet,Audio-Technica,Electronics,Tablet,1051.03,BW517KJJB1,S0000010
+P0001811,ASUS Go 512GB Smartphone,ASUS,Electronics,Smartphone,942.27,BTEQQWU08Z,S0000001
+P0001812,Nikon Edge Router,Nikon,Electronics,Router,329.68,BEAMU594CN,S0000002
+P0001813,Boult Edge 32GB Smartphone,Boult,Electronics,Smartphone,631.94,B1LFJNVR1I,S0000003
+P0001814,D-Link Pro Earbuds,D-Link,Electronics,Earbuds,382.67,B7UU8KY8IJ,S0000004
+P0001815,Samsung Lite 64GB Laptop,Samsung,Electronics,Laptop,3872.94,BEB44849UA,S0000005
+P0001816,JBL X2 512GB Laptop,JBL,Electronics,Laptop,1399.43,B71TQ720PU,S0000006
+P0001817,D-Link S3 64GB Tablet,D-Link,Electronics,Tablet,591.20,BBZJ36ZW1U,S0000007
+P0001818,Nokia X2 Speaker,Nokia,Electronics,Speaker,763.58,BBOZLT6YHF,S0000008
+P0001819,Lenovo S1 TV,Lenovo,Electronics,TV,1887.44,BKHA6EDJ8A,S0000009
+P0001820,Canon Lite Earbuds,Canon,Electronics,Earbuds,89.53,B2GL3O353K,S0000010
+P0001821,Huawei Bolt Speaker,Huawei,Electronics,Speaker,735.21,BNL2C0XD2E,S0000001
+P0001822,Marshall Neo Router,Marshall,Electronics,Router,250.12,BK7V9ULXP4,S0000002
+P0001823,Motorola Air Earbuds,Motorola,Electronics,Earbuds,345.44,BY9XUQQOWN,S0000003
+P0001824,MSI X1 256GB Laptop,MSI,Electronics,Laptop,470.59,BUZUUQMV6Y,S0000004
+P0001825,Xiaomi X3 128GB Smartphone,Xiaomi,Electronics,Smartphone,1445.30,B4TA8LQ06Y,S0000005
+P0001826,Nokia X3 Smartwatch,Nokia,Electronics,Smartwatch,743.17,B2FGJV6PRY,S0000006
+P0001827,Boult X1 512GB Tablet,Boult,Electronics,Tablet,526.57,BH33551PU4,S0000007
+P0001828,Netgear Neo Smartwatch,Netgear,Electronics,Smartwatch,942.40,BN5MF1NJ14,S0000008
+P0001829,Apple Ultra Monitor,Apple,Electronics,Monitor,1388.69,BRE4EVI0ZJ,S0000009
+P0001830,Nikon Edge 32GB Tablet,Nikon,Electronics,Tablet,1318.48,BNMPT87SAX,S0000010
+P0001831,Garmin Bolt Camera,Garmin,Electronics,Camera,4387.56,BGAAY7HTN5,S0000001
+P0001832,MSI X1 Camera,MSI,Electronics,Camera,2235.30,BEODOJ0714,S0000002
+P0001833,Nokia Pro Headphones,Nokia,Electronics,Headphones,476.71,BPGCI5520S,S0000003
+P0001834,OPPO Neo Router,OPPO,Electronics,Router,386.72,B3QRMC4G9O,S0000004
+P0001835,Netgear M3 Earbuds,Netgear,Electronics,Earbuds,346.76,BY94D2MBWY,S0000005
+P0001836,Realme Prime Camera,Realme,Electronics,Camera,1936.85,BSU1JY4L4L,S0000006
+P0001837,TP-Link Ultra Earbuds,TP-Link,Electronics,Earbuds,297.92,B9UM2J0HNQ,S0000007
+P0001838,Netgear Pro 128GB Laptop,Netgear,Electronics,Laptop,3278.27,BQ8BWDM9XL,S0000008
+P0001839,ASUS Z3 Monitor,ASUS,Electronics,Monitor,1356.30,B65MXM9OE1,S0000009
+P0001840,HP Bolt Camera,HP,Electronics,Camera,3334.07,B9QI3UOVAN,S0000010
+P0001841,Vivo Ultra 512GB Smartphone,Vivo,Electronics,Smartphone,1843.27,BIIHDHK1FZ,S0000001
+P0001842,Samsung Edge 32GB Tablet,Samsung,Electronics,Tablet,440.66,B4VV3B8Q83,S0000002
+P0001843,Lenovo X2 512GB Tablet,Lenovo,Electronics,Tablet,356.17,BAE6Q7ZRZ4,S0000003
+P0001844,Marshall S3 Router,Marshall,Electronics,Router,119.96,BWEA5I80VK,S0000004
+P0001845,Samsung Go Speaker,Samsung,Electronics,Speaker,242.00,BMEVKPXI98,S0000005
+P0001846,HP Air Monitor,HP,Electronics,Monitor,1574.38,BWDTN4FZK1,S0000006
+P0001847,TP-Link Z3 Speaker,TP-Link,Electronics,Speaker,611.23,BDZ6Z1E1T0,S0000007
+P0001848,OnePlus Air Camera,OnePlus,Electronics,Camera,562.33,B7NENX14W3,S0000008
+P0001849,Dell Air Headphones,Dell,Electronics,Headphones,685.79,BJQA5Q8MH8,S0000009
+P0001850,Netgear Ultra Router,Netgear,Electronics,Router,172.04,B170QZUO1C,S0000010
+P0001851,Redmi S3 Earbuds,Redmi,Electronics,Earbuds,188.73,B4R6RD6WVC,S0000001
+P0001852,Huawei S2 TV,Huawei,Electronics,TV,486.17,B82DS5F8XT,S0000002
+P0001853,Marshall Bolt Router,Marshall,Electronics,Router,70.70,BM0INTYJKV,S0000003
+P0001854,LG S2 Monitor,LG,Electronics,Monitor,310.39,BFG5PGGRO3,S0000004
+P0001855,Canon S2 Earbuds,Canon,Electronics,Earbuds,346.02,BPHJ35N9XX,S0000005
+P0001856,Garmin Neo Headphones,Garmin,Electronics,Headphones,244.89,BMNR1JP8XY,S0000006
+P0001857,TP-Link S3 Earbuds,TP-Link,Electronics,Earbuds,247.17,BWQ2BQ3U5K,S0000007
+P0001858,boAt X3 Earbuds,boAt,Electronics,Earbuds,249.38,BFK7FKDDIH,S0000008
+P0001859,Amazfit Pro TV,Amazfit,Electronics,TV,622.86,B8VROX0L5L,S0000009
+P0001860,Sony Neo 32GB Laptop,Sony,Electronics,Laptop,1540.47,BKJ2089GVV,S0000010
+P0001861,Huawei X1 512GB Laptop,Huawei,Electronics,Laptop,1928.91,BYSU9TC6KY,S0000001
+P0001862,Nikon Lite Camera,Nikon,Electronics,Camera,661.28,B8VTN4QGVT,S0000002
+P0001863,Samsung Prime Smartwatch,Samsung,Electronics,Smartwatch,328.28,BRSOYPKHQ1,S0000003
+P0001864,JBL Ultra Speaker,JBL,Electronics,Speaker,739.32,B9J8D98BMU,S0000004
+P0001865,Boult X1 Smartwatch,Boult,Electronics,Smartwatch,490.60,BL2QB7PLR8,S0000005
+P0001866,LG S2 128GB Tablet,LG,Electronics,Tablet,1330.87,BV8Y0GC3IK,S0000006
+P0001867,Motorola Go Router,Motorola,Electronics,Router,76.28,B574UX8320,S0000007
+P0001868,Lenovo Ultra Router,Lenovo,Electronics,Router,359.79,BLTX3OWQWM,S0000008
+P0001869,HP Go TV,HP,Electronics,TV,4409.91,BT2CHXB1ZI,S0000009
+P0001870,Apple X1 Headphones,Apple,Electronics,Headphones,129.69,BLQP5ZBW38,S0000010
+P0001871,Huawei Prime Smartwatch,Huawei,Electronics,Smartwatch,156.20,BRCCIJIQT3,S0000001
+P0001872,Redmi Ultra 32GB Tablet,Redmi,Electronics,Tablet,455.96,BNFBUTLM1O,S0000002
+P0001873,Nikon Go Monitor,Nikon,Electronics,Monitor,1200.29,BXI4HA8AJ0,S0000003
+P0001874,Garmin Prime TV,Garmin,Electronics,TV,4473.40,BU6Y759GNC,S0000004
+P0001875,OnePlus M3 64GB Tablet,OnePlus,Electronics,Tablet,246.84,B9PDPO73IF,S0000005
+P0001876,MSI X3 Monitor,MSI,Electronics,Monitor,1431.03,BK043X43O6,S0000006
+P0001877,Garmin Ultra 32GB Smartphone,Garmin,Electronics,Smartphone,719.93,BKDSBURI3I,S0000007
+P0001878,Boult Go 32GB Laptop,Boult,Electronics,Laptop,1963.37,B174W1L56B,S0000008
+P0001879,Garmin Edge Speaker,Garmin,Electronics,Speaker,270.76,B3QCOKIUS9,S0000009
+P0001880,Lenovo Lite Monitor,Lenovo,Electronics,Monitor,712.00,B02ZP8WGV6,S0000010
+P0001881,Huawei Ultra Camera,Huawei,Electronics,Camera,4697.60,B0HSJYL3VI,S0000001
+P0001882,GoPro Edge Camera,GoPro,Electronics,Camera,4149.24,BX8QLUMSTS,S0000002
+P0001883,Marshall S3 Monitor,Marshall,Electronics,Monitor,1266.90,BZ1YUFO31Q,S0000003
+P0001884,Garmin Edge TV,Garmin,Electronics,TV,4940.30,BLEO14Q0UO,S0000004
+P0001885,LG Z3 Smartwatch,LG,Electronics,Smartwatch,681.35,BLJG4HDOLG,S0000005
+P0001886,MSI Go Speaker,MSI,Electronics,Speaker,250.74,BQLJGDRAHD,S0000006
+P0001887,Marshall X1 Camera,Marshall,Electronics,Camera,3322.91,BBANRAFUKO,S0000007
+P0001888,Garmin X2 Speaker,Garmin,Electronics,Speaker,682.07,BWM6EBF3OV,S0000008
+P0001889,OPPO S1 Router,OPPO,Electronics,Router,393.38,BKKT562LK8,S0000009
+P0001890,Netgear Z3 Router,Netgear,Electronics,Router,146.99,BSB03U6J1T,S0000010
+P0001891,D-Link X2 512GB Laptop,D-Link,Electronics,Laptop,2986.04,B6CX15R0FR,S0000001
+P0001892,Netgear S3 512GB Smartphone,Netgear,Electronics,Smartphone,791.46,BAPMO7WLP5,S0000002
+P0001893,D-Link Air Router,D-Link,Electronics,Router,193.87,BRFU4K42BT,S0000003
+P0001894,Redmi Z3 Camera,Redmi,Electronics,Camera,3847.30,BHJN523LL4,S0000004
+P0001895,ASUS Edge 128GB Smartphone,ASUS,Electronics,Smartphone,1874.64,BIYBPLQB97,S0000005
+P0001896,Sony Edge Router,Sony,Electronics,Router,35.25,B4JVBGJKW8,S0000006
+P0001897,JBL Neo Camera,JBL,Electronics,Camera,2495.12,B4K0EJTJH9,S0000007
+P0001898,Apple Ultra TV,Apple,Electronics,TV,3147.37,B6YZZDMVUM,S0000008
+P0001899,Nikon S2 Headphones,Nikon,Electronics,Headphones,690.16,BPKP6TQTU9,S0000009
+P0001900,Vivo S3 Headphones,Vivo,Electronics,Headphones,336.29,BX5TTAK6LW,S0000010
+P0001901,Dell X2 Earbuds,Dell,Electronics,Earbuds,344.49,BYCS4EIKWF,S0000001
+P0001902,OPPO X3 Camera,OPPO,Electronics,Camera,559.21,B5VCSJLIEW,S0000002
+P0001903,Redmi X3 Monitor,Redmi,Electronics,Monitor,947.89,BN8PW9CKMR,S0000003
+P0001904,OPPO X2 Speaker,OPPO,Electronics,Speaker,296.82,BEBAWJUBFK,S0000004
+P0001905,Boult S3 TV,Boult,Electronics,TV,736.31,B0GPX6XG6H,S0000005
+P0001906,D-Link Air Router,D-Link,Electronics,Router,301.90,BGEX44BF42,S0000006
+P0001907,Dell Go Router,Dell,Electronics,Router,297.40,BCYJKGU7DG,S0000007
+P0001908,Netgear Air TV,Netgear,Electronics,TV,1004.30,BZKR6FISOL,S0000008
+P0001909,OnePlus Z3 TV,OnePlus,Electronics,TV,2648.63,B7PZLMHIRW,S0000009
+P0001910,Sony Pro TV,Sony,Electronics,TV,3169.93,BHJ9XS7Y9X,S0000010
+P0001911,Xiaomi Z3 Smartwatch,Xiaomi,Electronics,Smartwatch,55.74,BLKU7JGFDB,S0000001
+P0001912,Apple Air Camera,Apple,Electronics,Camera,3185.43,BDI21YEM2K,S0000002
+P0001913,Dell Prime Headphones,Dell,Electronics,Headphones,153.06,B8I6SBW0WG,S0000003
+P0001914,Apple Go Smartwatch,Apple,Electronics,Smartwatch,412.12,BYWHYWNY9O,S0000004
+P0001915,Canon X1 64GB Tablet,Canon,Electronics,Tablet,367.04,BME4KKIZQ2,S0000005
+P0001916,Redmi Go Smartwatch,Redmi,Electronics,Smartwatch,87.79,BCIJQ56EMF,S0000006
+P0001917,boAt Edge TV,boAt,Electronics,TV,3448.64,BA7QFUYOHZ,S0000007
+P0001918,Netgear Lite 256GB Laptop,Netgear,Electronics,Laptop,2431.20,BWVVOF9N1X,S0000008
+P0001919,Nokia Neo 256GB Laptop,Nokia,Electronics,Laptop,2093.77,BV8Y5HYTF6,S0000009
+P0001920,GoPro Ultra Monitor,GoPro,Electronics,Monitor,1063.84,B98GZJKWR3,S0000010
+P0001921,MSI Lite Camera,MSI,Electronics,Camera,4884.44,BYTA5F1JWX,S0000001
+P0001922,LG Prime Speaker,LG,Electronics,Speaker,278.01,BFLLFBNPJW,S0000002
+P0001923,MSI S1 Monitor,MSI,Electronics,Monitor,1384.40,BHH1PP8RIH,S0000003
+P0001924,Lenovo X1 Earbuds,Lenovo,Electronics,Earbuds,247.97,BUP8DGA73N,S0000004
+P0001925,Nikon Prime 64GB Smartphone,Nikon,Electronics,Smartphone,1293.82,B8KKLB19M1,S0000005
+P0001926,Canon X2 Speaker,Canon,Electronics,Speaker,145.37,B2RTQQOH2H,S0000006
+P0001927,JBL S1 Speaker,JBL,Electronics,Speaker,424.95,B078FB7MQM,S0000007
+P0001928,Nokia Edge Speaker,Nokia,Electronics,Speaker,507.58,BNIPLAPZ34,S0000008
+P0001929,LG Pro Router,LG,Electronics,Router,57.48,BOK0R3AS47,S0000009
+P0001930,Marshall S3 Earbuds,Marshall,Electronics,Earbuds,333.83,BO3SS8MBEQ,S0000010
+P0001931,LG Edge 64GB Smartphone,LG,Electronics,Smartphone,683.14,BKBQECBUVI,S0000001
+P0001932,Xiaomi X2 Speaker,Xiaomi,Electronics,Speaker,262.44,BWVEYP7ZD5,S0000002
+P0001933,Sennheiser X3 512GB Smartphone,Sennheiser,Electronics,Smartphone,1242.27,B4DI1U51DI,S0000003
+P0001934,Redmi Ultra Camera,Redmi,Electronics,Camera,4424.97,BEH5V9G2WN,S0000004
+P0001935,JBL Prime Monitor,JBL,Electronics,Monitor,518.98,BAV5OP33Y3,S0000005
+P0001936,Redmi Lite Router,Redmi,Electronics,Router,281.67,BIMJPGA6VY,S0000006
+P0001937,TP-Link Edge 256GB Smartphone,TP-Link,Electronics,Smartphone,747.29,BUC06XO2CG,S0000007
+P0001938,MSI X3 256GB Laptop,MSI,Electronics,Laptop,793.59,BOIPYI9W28,S0000008
+P0001939,Amazfit S1 512GB Smartphone,Amazfit,Electronics,Smartphone,1185.58,BLUFZXHCXM,S0000009
+P0001940,Canon Pro Router,Canon,Electronics,Router,289.05,BD45VYXAPF,S0000010
+P0001941,Realme S3 Speaker,Realme,Electronics,Speaker,59.93,B4ADWU66AN,S0000001
+P0001942,boAt Air Monitor,boAt,Electronics,Monitor,972.13,BGZY5VEB2I,S0000002
+P0001943,ASUS S2 512GB Laptop,ASUS,Electronics,Laptop,1304.60,BUG50EIG0M,S0000003
+P0001944,HP M3 Smartwatch,HP,Electronics,Smartwatch,892.16,BN5GHE3JWT,S0000004
+P0001945,JBL Go Smartwatch,JBL,Electronics,Smartwatch,652.89,BFWEM23JXB,S0000005
+P0001946,Huawei S3 TV,Huawei,Electronics,TV,2924.87,B17OXH7IIR,S0000006
+P0001947,GoPro Go Router,GoPro,Electronics,Router,361.21,BW3ITCAQQ7,S0000007
+P0001948,Boult Prime Monitor,Boult,Electronics,Monitor,591.69,B0AM434JDQ,S0000008
+P0001949,Marshall M3 256GB Smartphone,Marshall,Electronics,Smartphone,619.81,BFVUJ3FT7H,S0000009
+P0001950,Garmin Ultra 256GB Laptop,Garmin,Electronics,Laptop,3677.96,BWHYZCKVSF,S0000010
+P0001951,Samsung S3 Camera,Samsung,Electronics,Camera,4569.82,B33083AK0C,S0000001
+P0001952,Sennheiser Go 64GB Smartphone,Sennheiser,Electronics,Smartphone,777.91,BU1JCMH9IB,S0000002
+P0001953,Vivo X1 256GB Smartphone,Vivo,Electronics,Smartphone,522.08,B2GL830R68,S0000003
+P0001954,Audio-Technica S2 TV,Audio-Technica,Electronics,TV,1091.28,B7BVIPZYJ9,S0000004
+P0001955,boAt S1 512GB Tablet,boAt,Electronics,Tablet,1288.81,B8E880ZUNR,S0000005
+P0001956,MSI S3 32GB Laptop,MSI,Electronics,Laptop,1889.82,BYOI3UMFJD,S0000006
+P0001957,D-Link S3 Monitor,D-Link,Electronics,Monitor,1080.56,BICUX3W6GJ,S0000007
+P0001958,OnePlus Go Headphones,OnePlus,Electronics,Headphones,370.32,B7J9MV5QHF,S0000008
+P0001959,Samsung S3 Speaker,Samsung,Electronics,Speaker,499.00,BR1DQ37Y05,S0000009
+P0001960,Samsung Ultra 32GB Smartphone,Samsung,Electronics,Smartphone,455.05,BLXUXATRS5,S0000010
+P0001961,Audio-Technica Neo Monitor,Audio-Technica,Electronics,Monitor,230.13,B580N6MBH2,S0000001
+P0001962,TP-Link Neo Headphones,TP-Link,Electronics,Headphones,445.40,BORFUMZK0Z,S0000002
+P0001963,Xiaomi Air Smartwatch,Xiaomi,Electronics,Smartwatch,1085.10,B6VZ2ECXU0,S0000003
+P0001964,GoPro S1 Smartwatch,GoPro,Electronics,Smartwatch,307.94,BDUDUSJIV4,S0000004
+P0001965,Xiaomi X2 256GB Tablet,Xiaomi,Electronics,Tablet,296.89,BZJYS5CYNA,S0000005
+P0001966,Realme Air Smartwatch,Realme,Electronics,Smartwatch,103.56,BM9TRQSBEI,S0000006
+P0001967,Sennheiser M3 Speaker,Sennheiser,Electronics,Speaker,442.81,BJKH8WFBXC,S0000007
+P0001968,TP-Link Z3 Smartwatch,TP-Link,Electronics,Smartwatch,360.30,B3KB1KO0N0,S0000008
+P0001969,MSI Neo 256GB Laptop,MSI,Electronics,Laptop,1840.44,B5BKIKKOZF,S0000009
+P0001970,Lenovo Lite 512GB Smartphone,Lenovo,Electronics,Smartphone,1332.26,BH8J4EJLPB,S0000010
+P0001971,Apple Ultra 128GB Laptop,Apple,Electronics,Laptop,2481.31,B8ZHEM05FC,S0000001
+P0001972,JBL Edge Earbuds,JBL,Electronics,Earbuds,238.41,BEH5AY0EXX,S0000002
+P0001973,ASUS X3 Earbuds,ASUS,Electronics,Earbuds,302.28,BO3KNY4V76,S0000003
+P0001974,Dell Edge 128GB Tablet,Dell,Electronics,Tablet,1058.78,B3OL20IEFK,S0000004
+P0001975,Sony X2 Camera,Sony,Electronics,Camera,4461.81,BWXQ90IRMS,S0000005
+P0001976,Samsung M3 Smartwatch,Samsung,Electronics,Smartwatch,392.53,BDEIOR56GG,S0000006
+P0001977,Garmin S1 32GB Smartphone,Garmin,Electronics,Smartphone,1107.65,BVCI1JO3VS,S0000007
+P0001978,Netgear Pro Earbuds,Netgear,Electronics,Earbuds,387.99,BPG80XGHIQ,S0000008
+P0001979,Sony Z3 128GB Smartphone,Sony,Electronics,Smartphone,1867.04,BFI4IOAUPN,S0000009
+P0001980,D-Link Pro Earbuds,D-Link,Electronics,Earbuds,46.51,BZ0911CIK3,S0000010
+P0001981,Audio-Technica Ultra TV,Audio-Technica,Electronics,TV,2533.07,B22OXHMGZ3,S0000001
+P0001982,Amazfit Prime Earbuds,Amazfit,Electronics,Earbuds,308.11,B9JCC3X8G4,S0000002
+P0001983,Nikon S1 Headphones,Nikon,Electronics,Headphones,288.43,B5SRF99WVM,S0000003
+P0001984,Netgear Air TV,Netgear,Electronics,TV,2376.03,BK4CQCW1CA,S0000004
+P0001985,OnePlus Edge Monitor,OnePlus,Electronics,Monitor,1385.14,BLTF5OZAWF,S0000005
+P0001986,Nokia S3 Headphones,Nokia,Electronics,Headphones,613.29,BMCZGNXIPW,S0000006
+P0001987,ASUS M3 Smartwatch,ASUS,Electronics,Smartwatch,220.90,BABY1XWJ6X,S0000007
+P0001988,TP-Link Z3 64GB Smartphone,TP-Link,Electronics,Smartphone,1309.60,BW0EE0YGP0,S0000008
+P0001989,OPPO X1 Speaker,OPPO,Electronics,Speaker,202.04,BBN8ELYLS2,S0000009
+P0001990,MSI Air Headphones,MSI,Electronics,Headphones,650.69,B3R9KZEGS2,S0000010
+P0001991,OnePlus X2 Headphones,OnePlus,Electronics,Headphones,378.97,BA9CE378F2,S0000001
+P0001992,Lenovo Bolt Smartwatch,Lenovo,Electronics,Smartwatch,749.84,BKPAS6X33V,S0000002
+P0001993,ASUS Pro Speaker,ASUS,Electronics,Speaker,286.83,BVD6RVDE2G,S0000003
+P0001994,JBL S1 Smartwatch,JBL,Electronics,Smartwatch,454.21,B5MXI1I6U3,S0000004
+P0001995,Audio-Technica Z3 128GB Tablet,Audio-Technica,Electronics,Tablet,1420.13,B7YQPFZM0T,S0000005
+P0001996,Lenovo Pro 256GB Tablet,Lenovo,Electronics,Tablet,541.56,BG3RNEDTEL,S0000006
+P0001997,Huawei Bolt Router,Huawei,Electronics,Router,275.67,BHERZ4NLOQ,S0000007
+P0001998,Realme X2 Router,Realme,Electronics,Router,332.37,BYEJ3P9Z8X,S0000008
+P0001999,Audio-Technica Pro Router,Audio-Technica,Electronics,Router,130.82,BA4BL7IDLA,S0000009
+P0002000,Vivo X1 128GB Tablet,Vivo,Electronics,Tablet,1171.80,B6ZFP86HPA,S0000010
